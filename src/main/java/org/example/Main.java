@@ -47,13 +47,13 @@ public class Main {
         books.stream()
                 .sorted(Comparator.comparing(Books::getPublishedDate))
                 .limit(3)
-                .forEach(book -> System.out.println("Title: " + "'" + book.getTitle() +"'" + " " + " Published Date " + book.getPublishedDate()));
+                .forEach(book -> System.out.println("Title: " + "'" + book.getTitle() + "'" + " " + " Published Date " + book.getPublishedDate()));
 
         System.out.println("---------- all german books sorted by price ----------");
         books.stream()
                 .filter(book -> book.getLanguage().equals("Deutsch"))
                 .sorted(Comparator.comparing(Books::getPrice))
-                .forEach(book -> System.out.println("Language: " + book.getLanguage() + " " + "'"+ book.getTitle() + "'" + " " + book.getPrice() + " €"));
+                .forEach(book -> System.out.println("Language: " + book.getLanguage() + " " + "'" + book.getTitle() + "'" + " " + book.getPrice() + " €"));
 
         System.out.println("---------- returns the average price of all books ----------");
         double average = books.stream()
@@ -67,5 +67,13 @@ public class Main {
                 .mapToInt(Books::getPages)
                 .sum();
         System.out.printf("Sum of pages is: %,d\n", number);
+
+        System.out.println("---------- returns all language ----------");
+        books.stream()
+                .map(Books::getLanguage)
+                .filter(language -> language != null)
+                .distinct()
+                .sorted()
+                .forEach(System.out::println);
     }
 }
