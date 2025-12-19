@@ -1,0 +1,1001 @@
+ID,Title,Author,publishday,pages,Read,Genre,ISBN,Price,Language,Publisher,Rating,Tags
+1,Verbotene Gipfel an der Grenze,Emilia Lang,1983-01-15,685,false,Krimi,850-673108-878-3,13.28,Spanisch,Buchhaus Wien,1.9,Familie;Zukunft;Liebe
+2,Wege im Süden,Isabella Mayr,2015-03-30,394,true,Historisch,343-540208-603-0,58.49,Englisch,Wort & Welt,1.4,Technik;Politik
+3,Ewige Flammen im Tal,Tobias Bauer,1995-05-06,216,false,Horror,176-720647-681-0,28.92,Englisch,Donau Press,2.2,Vergangenheit;Politik;Wissenschaft
+4,Flammen am Markt,Emilia Huber,1968-03-09,219,false,Drama,211-262959-208-2,29.73,Französisch,Tradition & Technik,1.5,Vergangenheit;Mystery;Reise
+5,Flammen am Markt #5,Isabella Bauer,1958-02-10,241,false,Sachbuch,946-838936-813-9,7.22,Französisch,AlpenBooks,1.4,Wissenschaft;Politik
+6,Dunkle Kompass im Herbst,Maximilian Kral,1965-08-07,111,false,Science Fiction,669-884417-663-3,10.21,Deutsch,AlpenBooks,1.5,Vergangenheit
+7,Geheime Spuren,Thomas Weber,1983-05-25,782,false,Lyrik,186-710610-700-4,55.46,Deutsch,Buchhaus Wien,5.0,Familie;Reise
+8,Goldene Rätsel,Isabella Kral,2022-07-27,419,true,Science Fiction,151-276149-687-6,50.19,Spanisch,Salzburg Media,1.1,Abenteuer;Wissenschaft;Mystery;Vergangenheit
+9,Karten im Winter,Markus Wagner,1953-02-09,708,false,Krimi,762-409440-610-6,53.55,Spanisch,Buchhaus Wien,1.4,Abenteuer;Politik;Mystery;Technik
+10,Leise Chroniken,Anna Weber,2020-02-24,810,true,Historisch,900-608223-452-9,32.63,Spanisch,Wort & Welt,1.7,Freundschaft;Mystery;Liebe
+11,Stimmen im Sommer,Sebastian Fischer,2018-10-18,678,false,Roman,202-359896-772-3,19.66,Deutsch,Donau Press,3.3,Wissenschaft;Abenteuer;Zukunft;Mystery
+12,Versteckte Chroniken im Norden,Clara Lechner,1952-07-13,800,false,Drama,677-249005-676-3,51.02,Spanisch,Steiermark Stories,2.2,Liebe;Krieg;Vergangenheit;Mystery
+13,Letzte Wege im Morgengrauen,Laura Müller,1979-10-06,1019,false,Roman,448-851763-281-5,8.28,Englisch,Villach Print,3.8,Vergangenheit;Krieg
+14,Ewige Brücken im Norden,Matthias Wolf,1985-06-28,680,true,Sachbuch,430-243079-261-6,48.55,Spanisch,Zukunftsverlag,1.7,Mystery;Familie;Freundschaft
+15,Feurige Uhren,Eva Berger,1976-06-03,210,true,Fantasy,818-700660-500-9,6.78,Italienisch,Zukunftsverlag,4.7,Familie;Freundschaft
+16,Südliche Träume,David Mayr,1956-12-24,323,true,Biografie,271-767090-190-5,29.56,Französisch,Donau Press,2.0,Wissenschaft
+17,Chroniken an der Donau,Eva Müller,1954-04-27,475,false,Horror,270-534130-604-6,24.32,Spanisch,Nordlicht Verlag,4.3,Abenteuer;Reise
+18,Dunkle Uhren,Anna Schneider,1973-06-05,1054,true,Biografie,274-493696-264-1,35.09,Deutsch,Zukunftsverlag,3.4,Zukunft;Liebe;Politik;Abenteuer
+19,Kalte Schritte am Bodensee,Paul Schneider,1968-06-10,1077,true,Kinderbuch,667-857111-847-8,19.59,Französisch,Wort & Welt,2.0,Politik
+20,Leise Schriftrollen im Sommer,Leon Schmidt,1982-05-16,83,false,Sachbuch,943-794178-740-9,31.42,Deutsch,Buchhaus Wien,1.8,Krieg;Reise;Vergangenheit
+21,Chroniken im Süden,Laura Koller,2009-04-21,351,true,Historisch,496-293862-479-6,25.32,Spanisch,Buchhaus Wien,2.1,Magie;Mystery;Vergangenheit;Freundschaft
+22,Geheime Gärten,Matthias Wolf,1958-09-04,167,false,Historisch,523-893202-703-3,35.45,Spanisch,Steiermark Stories,2.7,Freundschaft;Mystery;Reise;Magie
+23,Feurige Rätsel,Isabella Berger,1953-02-11,594,false,Historisch,919-699245-793-9,13.11,Spanisch,AlpenBooks,4.8,Mystery;Vergangenheit
+24,Dunkle Winde,Marie Wolf,1989-01-22,286,false,Lyrik,251-974625-709-4,22.59,Deutsch,Nordlicht Verlag,2.6,Technik;Wissenschaft;Magie;Vergangenheit
+25,Sterne über Wien,Sarah Berger,2005-11-24,681,false,Horror,215-534574-253-2,36.16,Italienisch,Nordlicht Verlag,4.7,Vergangenheit
+26,Legenden bei Regen,Markus Fischer,1986-11-12,350,false,Science Fiction,685-738543-584-0,14.47,Spanisch,AlpenBooks,3.5,Liebe;Politik;Wissenschaft;Mystery
+27,Südliche Sterne,Maximilian Brandt,1983-06-01,100,true,Sachbuch,418-393964-963-7,52.2,Deutsch,Donau Press,1.5,Vergangenheit;Wissenschaft;Magie;Politik
+28,Goldene Spuren im Winter,Felix Seidl,2023-12-03,496,false,Historisch,988-492073-940-0,33.34,Englisch,Nordlicht Verlag,2.2,Abenteuer;Technik;Freundschaft;Liebe
+29,Zerbrochene Rätsel,Thomas Fuchs,2025-02-02,139,true,Science Fiction,151-477880-821-3,20.07,Spanisch,Steiermark Stories,2.6,Familie
+30,Letzte Lichter,Laura Egger,1990-01-08,261,false,Science Fiction,700-678115-458-5,13.99,Französisch,Nordlicht Verlag,2.1,Liebe;Abenteuer;Freundschaft;Mystery
+31,Letzte Kompass,Felix Leitner,2008-06-16,499,false,Lyrik,109-597126-235-2,38.06,Deutsch,Donau Press,2.0,Zukunft;Vergangenheit;Familie
+32,Winde im Süden,Isabella Fischer,1991-03-07,338,true,Sachbuch,793-645928-944-9,26.84,Deutsch,Buchhaus Wien,3.0,Technik;Familie;Freundschaft
+33,Verbotene Uhren an der Donau,Laura Huber,1980-03-03,1092,true,Biografie,982-390334-367-4,15.36,Italienisch,Donau Press,4.6,Familie;Wissenschaft;Vergangenheit;Abenteuer
+34,Verlorene Pfad im Sommer,Mia Leitner,1987-07-21,494,false,Fantasy,697-842464-685-3,23.87,Englisch,Steiermark Stories,3.6,Familie;Wissenschaft;Technik;Magie
+35,Leise Schritte,Mia Bauer,1992-03-27,211,false,Kinderbuch,927-686187-881-2,57.08,Französisch,Nordlicht Verlag,1.9,Zukunft;Magie
+36,Chroniken am Fluss,Sophie Leitner,2002-07-14,381,false,Thriller,581-156284-987-9,36.92,Italienisch,Nordlicht Verlag,2.9,Technik;Krieg
+37,Feurige Segel im Herbst,Elena Schmidt,1963-07-12,220,false,Biografie,519-697062-568-2,22.4,Englisch,Nordlicht Verlag,3.0,Wissenschaft;Familie
+38,Verlorene Flammen,Maximilian Fuchs,2018-04-16,872,true,Roman,601-923353-881-1,12.12,Spanisch,Tradition & Technik,2.6,Politik;Liebe;Zukunft;Technik
+39,Ewige Wege,Markus Schneider,2017-11-25,933,false,Fantasy,792-104324-741-3,17.44,Französisch,Wort & Welt,1.5,Technik;Freundschaft;Magie;Abenteuer
+40,Dunkle Uhren #40,Mia Lang,2015-04-19,612,false,Biografie,544-820141-237-5,59.79,Spanisch,Zukunftsverlag,4.0,Vergangenheit;Politik
+41,Letzte Schlüssel,Eva Wagner,1968-12-12,831,true,Historisch,273-229144-475-0,25.64,Französisch,Steiermark Stories,3.5,Familie
+42,Verlorene Stimmen,Matthias Bauer,1987-05-23,534,false,Historisch,358-597440-818-2,16.3,Deutsch,Wort & Welt,2.7,Familie
+43,Erste Seiten an der Grenze,Matthias Wagner,1987-07-30,930,false,Historisch,836-747703-220-4,11.27,Deutsch,Salzburg Media,1.8,Vergangenheit;Magie
+44,Zerbrochene Lichter bei Nacht,Mia Maier,1953-07-15,641,false,Krimi,804-604012-438-3,5.15,Deutsch,Nordlicht Verlag,4.3,Abenteuer;Krieg;Technik;Zukunft
+45,Stille Rätsel am Markt,Peter Gruber,1990-12-23,1092,false,Sachbuch,575-152512-202-2,53.08,Französisch,Zukunftsverlag,4.2,Politik;Zukunft;Krieg
+46,Dunkle Wege,Isabella Wagner,2009-07-06,742,true,Biografie,548-752011-374-1,25.49,Französisch,AlpenBooks,1.5,Reise;Magie;Politik;Vergangenheit
+47,Pfad von Salzburg,Paul Wagner,2012-06-16,823,true,Roman,206-536236-704-7,49.12,Spanisch,AlpenBooks,3.4,Freundschaft;Liebe;Familie
+48,Geheime Schatten im Sommer,Paul Brandt,1986-11-24,531,true,Sachbuch,770-429502-112-8,47.21,Italienisch,Villach Print,1.9,Technik;Vergangenheit;Freundschaft
+49,Kalte Kompass,Eva Gruber,1993-03-27,434,false,Lyrik,494-255875-959-8,54.06,Italienisch,Buchhaus Wien,1.0,Technik;Reise
+50,Legenden von Salzburg,Marie Eder,1994-02-09,408,true,Sachbuch,151-631553-328-8,40.38,Spanisch,Donau Press,1.3,Vergangenheit;Freundschaft;Reise;Krieg
+51,Flammen am Fluss,Paul Koller,2016-11-09,749,true,Horror,522-137572-670-8,5.01,Deutsch,Villach Print,4.9,Technik;Vergangenheit;Mystery
+52,Nördliche Wälder im Norden,Thomas Schmidt,2023-04-05,308,false,Biografie,673-904694-734-9,31.02,Französisch,Salzburg Media,1.5,Liebe;Wissenschaft
+53,Schriftrollen im Herbst,Nina Pichler,1983-07-18,798,true,Roman,604-247271-941-6,10.88,Italienisch,Donau Press,1.8,Mystery;Reise;Vergangenheit;Wissenschaft
+54,Kalte Stimmen,Clara Steiner,2025-02-18,768,false,Science Fiction,568-790441-703-8,12.4,Spanisch,Buchhaus Wien,3.1,Technik
+55,Schriftrollen im Wald,Laura Seidl,1995-08-10,879,false,Roman,808-706658-277-2,10.7,Italienisch,Villach Print,4.5,Politik;Freundschaft;Mystery;Magie
+56,Wälder im Herbst,Nico Kaiser,1961-12-19,221,false,Kinderbuch,866-637179-406-8,52.34,Italienisch,Donau Press,1.8,Familie;Wissenschaft;Vergangenheit
+57,Ferne Segel,Nina Berger,2007-02-20,410,false,Biografie,675-603704-696-9,56.85,Spanisch,Steiermark Stories,2.1,Vergangenheit;Liebe;Technik;Krieg
+58,Feurige Träume,Lukas Wolf,1955-01-29,284,true,Roman,393-816586-356-2,51.17,Französisch,Donau Press,4.0,Wissenschaft
+59,Ufer an der Grenze,Isabella Wolf,2016-05-05,655,false,Kinderbuch,762-688534-498-3,33.1,Französisch,Buchhaus Wien,4.7,Politik;Familie;Wissenschaft;Technik
+60,Verlorene Gipfel,Maximilian Fuchs,2005-09-03,969,false,Science Fiction,949-336504-748-5,46.53,Italienisch,Villach Print,1.8,Magie;Reise
+61,Goldene Schritte,Lea Mayr,1996-02-06,202,true,Horror,385-683635-370-2,13.85,Französisch,Buchhaus Wien,2.3,Liebe;Abenteuer
+62,Seiten am Bodensee,Florian Seidl,2006-02-08,710,false,Sachbuch,602-928278-686-8,24.69,Französisch,Steiermark Stories,1.9,Technik;Krieg
+63,Ferne Winde bei Regen,Nina Weber,1958-04-01,437,true,Krimi,779-448005-439-5,21.15,Italienisch,Steiermark Stories,2.9,Krieg
+64,Ewige Flammen von Innsbruck,Markus Steiner,2005-01-21,1020,false,Fantasy,798-436526-490-1,26.22,Italienisch,Wort & Welt,1.1,Technik;Vergangenheit;Reise
+65,Stimmen im Herbst,Markus Steiner,1967-04-10,408,false,Thriller,271-910883-650-8,5.4,Deutsch,Donau Press,3.7,Familie;Politik
+66,Zerbrochene Türen,Thomas Berger,2016-07-06,873,false,Thriller,864-819368-257-0,30.26,Französisch,Buchhaus Wien,1.4,Abenteuer
+67,Türen im Tal,Tobias Kral,1970-06-04,1012,true,Horror,561-760830-514-6,22.4,Spanisch,Nordlicht Verlag,3.1,Vergangenheit
+68,Tiefe Stimmen im Tal,Sophie Seidl,1995-02-10,188,true,Lyrik,408-736030-188-4,47.09,Spanisch,Tradition & Technik,2.6,Reise
+69,Leise Schlüssel,Leon Mayr,1985-01-29,895,false,Historisch,402-764845-247-4,42.25,Französisch,Buchhaus Wien,3.2,Krieg;Liebe
+70,Tiefe Seiten,Jonas Moser,1999-02-14,1049,true,Krimi,866-877446-843-5,16.65,Italienisch,AlpenBooks,1.6,Freundschaft;Magie
+71,Stille Schritte,Katrin Kaiser,2000-11-23,952,true,Historisch,572-775990-662-1,20.99,Deutsch,Wort & Welt,1.4,Wissenschaft;Vergangenheit;Abenteuer;Mystery
+72,Verbotene Seiten,Marie Brandt,1967-05-12,405,false,Biografie,731-791454-413-9,13.38,Italienisch,Zukunftsverlag,4.2,Abenteuer;Liebe;Wissenschaft;Mystery
+73,Kalte Karten,Thomas Fischer,1962-01-18,775,false,Science Fiction,573-566991-467-4,31.78,Deutsch,AlpenBooks,3.6,Magie
+74,Leise Spuren,Maximilian Mayr,2006-03-21,158,false,Fantasy,969-631815-746-0,49.7,Italienisch,Tradition & Technik,4.1,Liebe;Technik
+75,Türen bei Regen,Laura Steiner,2019-07-19,232,true,Krimi,890-718241-850-4,12.36,Italienisch,Steiermark Stories,1.4,Technik;Liebe;Familie
+76,Hohe Kompass,Lea Eder,1996-02-16,223,false,Roman,679-693297-775-2,45.48,Spanisch,Zukunftsverlag,1.2,Mystery;Krieg;Magie;Wissenschaft
+77,Dunkle Kompass,Felix Pichler,2021-01-02,449,false,Science Fiction,147-141843-764-5,10.68,Italienisch,Wort & Welt,4.3,Freundschaft;Technik;Vergangenheit
+78,Feurige Pfad,Jonas Fischer,2002-09-22,749,false,Thriller,629-363807-485-3,33.4,Französisch,Zukunftsverlag,2.9,Freundschaft;Liebe;Technik;Abenteuer
+79,Schritte von Innsbruck,Marie Pichler,2007-09-24,367,true,Roman,261-479818-716-1,41.36,Spanisch,Zukunftsverlag,3.9,Familie;Reise;Zukunft;Mystery
+80,Ferne Pfad bei Nacht,Anna Gruber,1953-11-14,210,false,Roman,237-760120-624-0,53.99,Englisch,Buchhaus Wien,1.7,Technik;Politik
+81,Tiefe Pfad über Wien,Markus Mayr,2015-04-24,757,false,Thriller,321-571023-721-7,52.7,Englisch,Donau Press,4.3,Vergangenheit;Freundschaft
+82,Hohe Kompass #82,Sebastian Leitner,1965-01-17,821,false,Science Fiction,710-719284-170-3,25.8,Englisch,Nordlicht Verlag,1.1,Abenteuer;Freundschaft;Krieg;Vergangenheit
+83,Rätsel an der Grenze,Julia Schmidt,2020-04-28,624,false,Thriller,195-605666-775-2,54.61,Italienisch,Buchhaus Wien,4.6,Technik;Politik;Wissenschaft;Liebe
+84,Brennende Winde von Innsbruck,Sarah Koller,2020-11-01,867,false,Drama,923-877407-879-9,10.37,Englisch,Wort & Welt,2.9,Krieg;Magie
+85,Leise Winde am Markt,Felix Müller,2013-08-15,841,false,Drama,635-223552-632-0,25.63,Englisch,Zukunftsverlag,2.6,Abenteuer
+86,Pfad im Wald,Maximilian Leitner,1998-02-05,513,false,Drama,382-813666-506-3,27.73,Italienisch,Salzburg Media,1.7,Magie;Vergangenheit;Freundschaft;Wissenschaft
+87,Feurige Gipfel im Sturm,Isabella Wallner,2009-02-23,201,false,Science Fiction,901-833281-265-1,16.8,Spanisch,Zukunftsverlag,4.2,Abenteuer
+88,Pfad über Wien,Sarah Huber,2023-11-10,228,false,Drama,545-192422-165-4,17.2,Deutsch,Villach Print,1.2,Politik;Freundschaft;Familie;Technik
+89,Horizont an der Grenze,Lukas Eder,2023-08-03,259,false,Science Fiction,110-311505-970-8,20.73,Deutsch,Villach Print,3.0,Freundschaft;Abenteuer
+90,Dunkle Lichter von Innsbruck,Peter Müller,1964-02-16,168,false,Horror,461-802191-504-6,37.23,Italienisch,Buchhaus Wien,3.9,Krieg
+91,Verbotene Gipfel bei Regen,Clara Lechner,1981-03-25,435,false,Sachbuch,331-735818-299-7,56.13,Italienisch,Buchhaus Wien,2.0,Technik;Krieg;Vergangenheit;Zukunft
+92,Verbotene Wälder an der Donau,Sarah Pichler,1973-02-13,977,false,Drama,356-827912-553-6,35.97,Englisch,Zukunftsverlag,4.8,Familie;Reise;Freundschaft;Liebe
+93,Ufer am Markt,Marie Weber,2006-11-06,887,false,Lyrik,818-341099-919-5,27.68,Französisch,Steiermark Stories,3.1,Mystery;Magie;Krieg
+94,Kompass am Fluss,Marie Moser,1966-01-05,567,true,Krimi,687-382146-287-3,32.44,Englisch,Donau Press,3.9,Mystery;Vergangenheit;Zukunft
+95,Hohe Lichter,Leon Eder,1959-07-28,202,false,Lyrik,779-616596-728-0,47.03,Italienisch,Buchhaus Wien,4.4,Freundschaft;Wissenschaft;Reise
+96,Erste Schatten von Salzburg,Florian Seidl,1995-11-09,366,false,Drama,231-156778-638-6,31.31,Italienisch,Buchhaus Wien,3.0,Familie;Abenteuer;Reise;Krieg
+97,Brennende Flammen am Fluss,Matthias Müller,1951-01-23,770,true,Drama,203-441244-470-9,52.4,Englisch,Steiermark Stories,2.1,Reise;Freundschaft;Wissenschaft
+98,Schritte im Sommer,Elena Fuchs,1987-08-07,797,false,Biografie,974-520051-386-7,14.89,Englisch,Villach Print,3.7,Zukunft
+99,Chroniken von Innsbruck,Nina Koch,1984-03-03,280,true,Kinderbuch,253-595962-925-0,14.71,Spanisch,AlpenBooks,5.0,Vergangenheit;Reise;Magie
+100,Türen im Wald,Lukas Weber,1958-11-18,787,true,Krimi,933-366642-587-1,29.74,Französisch,Wort & Welt,2.4,Wissenschaft;Liebe;Politik
+101,Ewige Legenden,Katrin Egger,1967-11-07,670,false,Lyrik,651-283017-899-4,24.53,Italienisch,Salzburg Media,4.1,Krieg;Politik;Freundschaft;Magie
+102,Pfad im Sturm,Isabella Maier,2007-06-21,907,false,Horror,746-742053-685-6,51.69,Deutsch,Nordlicht Verlag,1.6,Wissenschaft;Vergangenheit
+103,Verbotene Horizont am Markt,Julia Steiner,1985-06-24,357,false,Biografie,865-715429-633-7,27.77,Englisch,Buchhaus Wien,1.5,Familie;Magie
+104,Goldene Spuren von Salzburg,Jonas Bauer,1958-07-29,145,false,Science Fiction,661-156440-126-6,33.82,Deutsch,Nordlicht Verlag,2.0,Krieg;Familie
+105,Uhren von Innsbruck,Emilia Mayr,1975-06-30,533,false,Roman,639-979249-274-0,6.93,Französisch,Zukunftsverlag,4.5,Technik;Magie;Vergangenheit;Reise
+106,Leise Schritte #106,Tobias Egger,1990-12-17,726,false,Drama,545-648887-755-8,22.03,Französisch,Salzburg Media,3.2,Reise
+107,Lichter bei Nacht,Maximilian Wagner,1977-03-27,90,true,Roman,452-400692-580-8,5.46,Spanisch,Salzburg Media,2.2,Vergangenheit;Magie;Freundschaft;Mystery
+108,Leise Lichter,Felix Koch,2000-04-16,527,false,Roman,832-872924-761-6,50.56,Englisch,Wort & Welt,1.3,Technik;Freundschaft
+109,Erste Uhren bei Regen,Sarah Leitner,1987-01-17,272,false,Roman,239-403662-213-7,38.98,Französisch,Villach Print,3.0,Liebe;Abenteuer;Vergangenheit
+110,Verlorene Schritte an der Donau,Mia Leitner,1961-03-21,812,false,Fantasy,338-194578-254-0,32.15,Französisch,Tradition & Technik,2.2,Wissenschaft;Reise;Liebe;Vergangenheit
+111,Geheime Stimmen,Maximilian Eder,1985-03-16,153,false,Roman,296-982417-356-6,50.55,Deutsch,Donau Press,2.5,Mystery;Zukunft;Liebe;Vergangenheit
+112,Gipfel an der Donau,Sebastian Wolf,1968-09-13,564,false,Sachbuch,430-266316-744-0,45.96,Italienisch,Steiermark Stories,1.5,Familie;Magie;Mystery;Wissenschaft
+113,Zerbrochene Ufer,Emilia Steiner,1988-12-13,412,true,Sachbuch,698-225461-505-3,5.49,Deutsch,Villach Print,4.1,Zukunft;Freundschaft;Abenteuer;Wissenschaft
+114,Letzte Schritte,Laura Huber,2011-07-17,713,true,Lyrik,161-162678-464-2,43.57,Deutsch,AlpenBooks,3.0,Technik;Familie;Wissenschaft
+115,Gipfel in Graz,Anna Berger,1983-11-22,446,false,Sachbuch,140-608876-823-7,35.75,Italienisch,Salzburg Media,1.8,Technik;Wissenschaft
+116,Gipfel im Winter,Maximilian Wallner,2024-08-01,693,false,Historisch,264-172222-643-2,29.72,Französisch,Steiermark Stories,2.5,Vergangenheit
+117,Brennende Nebel von Salzburg,Markus Müller,2005-08-07,957,true,Drama,344-436272-838-1,41.21,Italienisch,Tradition & Technik,1.8,Vergangenheit;Technik;Abenteuer;Freundschaft
+118,Wälder bei Nacht,Peter Schneider,1959-11-29,178,false,Thriller,144-975763-232-2,53.04,Englisch,Nordlicht Verlag,2.9,Liebe
+119,Feurige Kompass im Sommer,Sebastian Egger,2012-12-01,684,true,Biografie,326-735388-835-1,5.72,Englisch,Salzburg Media,4.7,Reise
+120,Dunkle Lichter bei Regen,Eva Brandt,1987-04-26,921,true,Kinderbuch,159-963652-731-4,34.1,Deutsch,Wort & Welt,1.3,Technik;Krieg
+121,Letzte Türen,Jonas Fuchs,1967-04-30,618,false,Drama,740-287588-671-8,27.84,Deutsch,Villach Print,2.4,Zukunft;Familie;Politik;Krieg
+122,Ferne Türen,Jonas Pichler,1980-04-12,753,true,Drama,553-469438-422-8,59.53,Französisch,Zukunftsverlag,2.6,Zukunft;Wissenschaft;Freundschaft;Mystery
+123,Leise Spuren im Süden,Florian Moser,2016-10-19,340,true,Science Fiction,558-516379-100-0,59.06,Italienisch,Buchhaus Wien,3.1,Liebe;Magie;Mystery
+124,Versteckte Wege,Florian Kral,2011-11-17,922,true,Historisch,623-683347-684-9,13.51,Deutsch,Salzburg Media,2.4,Magie;Wissenschaft
+125,Letzte Schlüssel am Markt,Sarah Hofer,1958-03-31,664,false,Krimi,851-180951-840-5,48.61,Englisch,Salzburg Media,4.3,Freundschaft
+126,Verbotene Stimmen im Wald,Jonas Huber,2019-12-28,137,false,Biografie,456-956835-544-6,56.16,Deutsch,Donau Press,4.0,Familie
+127,Feurige Stimmen im Herbst,Sebastian Schmidt,1978-08-25,632,false,Biografie,614-831663-326-2,7.78,Spanisch,Salzburg Media,4.0,Mystery
+128,Uhren im Süden,Leon Wagner,1980-02-28,164,false,Kinderbuch,150-674779-508-4,9.68,Italienisch,Tradition & Technik,4.1,Vergangenheit;Abenteuer
+129,Türen in Graz,Laura Weber,2008-07-07,665,true,Drama,853-649713-352-3,8.94,Spanisch,Zukunftsverlag,3.7,Krieg
+130,Kalte Winde im Norden,Sophie Fuchs,1978-10-10,432,false,Fantasy,888-419625-273-5,38.89,Spanisch,Villach Print,1.6,Mystery
+131,Ewige Träume,Florian Mayr,1957-09-12,195,false,Krimi,735-254850-989-4,5.76,Deutsch,Wort & Welt,2.8,Wissenschaft
+132,Leise Spuren #132,Felix Moser,1996-12-11,848,true,Science Fiction,737-865380-244-0,25.71,Italienisch,Buchhaus Wien,2.0,Magie
+133,Hohe Karten,Lukas Lang,2008-09-28,1047,true,Horror,776-384489-778-5,52.54,Deutsch,Wort & Welt,4.5,Mystery;Politik;Technik;Krieg
+134,Schatten an der Grenze,Nina Huber,1966-09-22,283,false,Science Fiction,674-847078-122-0,18.61,Italienisch,Wort & Welt,2.3,Zukunft;Abenteuer;Liebe;Wissenschaft
+135,Ewige Lichter im Herbst,Emilia Pichler,1974-10-01,911,true,Sachbuch,999-505977-934-0,56.93,Französisch,Donau Press,1.6,Familie;Abenteuer;Krieg;Politik
+136,Hohe Legenden von Innsbruck,Elena Gruber,2001-05-25,236,false,Sachbuch,719-445280-559-8,12.25,Englisch,Villach Print,3.2,Abenteuer;Magie
+137,Brennende Sterne im Sturm,Elena Seidl,2019-01-31,228,false,Drama,261-432918-169-8,34.31,Deutsch,AlpenBooks,2.3,Zukunft;Liebe
+138,Rätsel bei Nacht,Elena Hofer,1989-09-29,843,false,Lyrik,856-387096-255-3,10.87,Englisch,Buchhaus Wien,4.0,Freundschaft;Vergangenheit;Zukunft
+139,Hohe Schlüssel,Emilia Wolf,1952-05-04,447,true,Science Fiction,237-626725-966-9,30.78,Französisch,AlpenBooks,4.4,Reise;Abenteuer;Zukunft;Mystery
+140,Dunkle Winde #140,Florian Müller,1974-03-18,1053,false,Kinderbuch,787-312686-875-3,8.64,Spanisch,Villach Print,3.0,Reise;Mystery;Politik
+141,Gärten am Bodensee,Julia Mayr,2023-12-15,469,false,Horror,726-878533-685-9,34.49,Deutsch,Steiermark Stories,1.4,Liebe;Mystery;Technik;Familie
+142,Gipfel am Bodensee,Nina Weber,1996-04-21,863,false,Fantasy,294-405323-550-6,53.64,Französisch,Salzburg Media,1.7,Freundschaft;Liebe;Technik
+143,Nördliche Schriftrollen,Peter Lang,1958-02-11,819,false,Roman,897-713886-812-8,12.44,Spanisch,Zukunftsverlag,2.8,Reise;Freundschaft
+144,Zerbrochene Rätsel im Winter,Marie Leitner,1979-01-28,788,false,Kinderbuch,915-271960-835-1,10.02,Spanisch,Zukunftsverlag,1.3,Zukunft;Technik;Freundschaft;Abenteuer
+145,Türen im Süden,Lukas Eder,1965-05-01,1014,true,Lyrik,983-257380-266-2,14.84,Deutsch,Tradition & Technik,2.2,Magie;Familie;Abenteuer;Krieg
+146,Zerbrochene Wege,Julia Eder,1972-09-15,92,false,Science Fiction,656-946677-105-9,53.55,Englisch,Donau Press,3.4,Reise;Politik;Vergangenheit;Krieg
+147,Hohe Wege von Innsbruck,Markus Moser,1974-12-14,714,false,Krimi,150-293818-251-0,40.93,Deutsch,AlpenBooks,4.4,Wissenschaft;Krieg;Liebe
+148,Kalte Schritte,Lea Wolf,1975-07-07,705,false,Kinderbuch,709-700081-906-8,14.76,Spanisch,Villach Print,2.4,Krieg
+149,Wälder im Norden,Markus Weber,2023-08-04,149,false,Historisch,166-407057-582-2,11.71,Französisch,Zukunftsverlag,3.1,Zukunft;Mystery
+150,Dunkle Ufer im Wald,Eva Steiner,1997-06-15,1090,true,Kinderbuch,805-734155-907-4,28.49,Französisch,Wort & Welt,3.1,Abenteuer;Freundschaft;Zukunft
+151,Segel im Sommer,Laura Kaiser,1966-02-21,984,false,Kinderbuch,397-302957-101-1,6.32,Deutsch,Donau Press,4.2,Politik;Liebe;Wissenschaft;Familie
+152,Zerbrochene Wege in Graz,Matthias Hofer,1972-10-28,889,true,Sachbuch,618-676710-431-0,11.26,Französisch,Zukunftsverlag,2.6,Abenteuer
+153,Versteckte Schriftrollen,David Seidl,2010-05-01,570,false,Fantasy,761-242348-593-2,39.5,Italienisch,Zukunftsverlag,2.8,Zukunft;Liebe;Technik;Magie
+154,Versteckte Türen bei Regen,Anna Fuchs,2001-10-20,781,true,Biografie,167-256557-387-0,23.65,Spanisch,Steiermark Stories,4.4,Abenteuer;Freundschaft;Krieg;Magie
+155,Versteckte Horizont am Bodensee,Maximilian Koch,1957-10-15,588,false,Biografie,562-969749-409-3,33.88,Englisch,Nordlicht Verlag,2.5,Vergangenheit
+156,Goldene Flammen,Sebastian Müller,2021-09-07,574,false,Roman,294-456637-595-8,22.07,Französisch,AlpenBooks,4.1,Technik
+157,Geheime Spuren am Bodensee,Nico Weber,2014-01-10,965,false,Fantasy,418-146168-803-9,52.95,Französisch,Salzburg Media,4.6,Technik
+158,Verbotene Wege im Wald,Florian Hofer,2007-04-25,993,true,Krimi,297-400487-383-8,22.55,Spanisch,Nordlicht Verlag,2.1,Magie;Krieg
+159,Hohe Türen,Sebastian Bauer,1968-07-14,635,true,Biografie,377-248433-821-4,36.57,Englisch,Nordlicht Verlag,2.2,Technik;Reise;Liebe
+160,Verlorene Schatten,Markus Wolf,1954-07-12,188,false,Thriller,536-510954-283-9,54.02,Spanisch,Villach Print,2.4,Mystery;Zukunft;Familie
+161,Goldene Sterne im Winter,Tobias Wagner,1958-05-03,912,false,Kinderbuch,579-201987-566-4,42.65,Spanisch,Salzburg Media,1.9,Abenteuer;Freundschaft
+162,Sterne im Norden,Jonas Maier,2012-10-06,1019,false,Biografie,564-611187-130-1,31.14,Französisch,Salzburg Media,2.8,Magie;Wissenschaft
+163,Tiefe Träume im Morgengrauen,Paul Weber,2023-05-07,811,false,Biografie,669-780999-172-4,34.3,Spanisch,Villach Print,2.7,Technik;Abenteuer
+164,Nebel im Tal,David Fuchs,2023-01-08,790,false,Horror,680-925571-450-8,43.18,Englisch,Nordlicht Verlag,4.0,Krieg;Freundschaft;Zukunft;Reise
+165,Türen an der Donau,Thomas Lang,1965-10-21,395,false,Thriller,712-214027-801-9,47.42,Spanisch,Zukunftsverlag,3.0,Krieg
+166,Geheime Rätsel,Tobias Brandt,2017-09-25,731,false,Roman,776-256464-563-8,21.03,Italienisch,Villach Print,2.8,Familie;Wissenschaft
+167,Blätter im Herbst,Clara Seidl,1989-01-01,815,false,Biografie,191-711033-108-9,59.25,Spanisch,AlpenBooks,4.4,Wissenschaft
+168,Dunkle Wege bei Regen,Thomas Fischer,1959-11-04,961,true,Fantasy,340-552686-819-9,26.68,Französisch,Tradition & Technik,2.6,Technik;Mystery;Familie;Abenteuer
+169,Träume in Graz,Nina Weber,1982-04-28,940,false,Sachbuch,993-802615-228-2,5.64,Deutsch,AlpenBooks,3.9,Familie;Politik;Abenteuer;Krieg
+170,Kalte Legenden,Nico Brandt,2020-10-11,792,false,Horror,738-288531-565-8,28.33,Spanisch,Tradition & Technik,2.4,Politik;Freundschaft
+171,Tiefe Schatten,Isabella Mayr,1971-03-29,809,false,Horror,659-704349-475-0,58.8,Italienisch,Salzburg Media,3.8,Freundschaft
+172,Horizont im Tal,Leon Mayr,2015-08-11,619,false,Sachbuch,576-642060-180-8,53.95,Deutsch,Donau Press,2.9,Familie
+173,Leise Chroniken im Wald,Mia Egger,1954-09-26,1005,true,Fantasy,580-576089-624-7,36.57,Französisch,Tradition & Technik,2.4,Magie;Abenteuer;Liebe
+174,Hohe Gipfel im Herbst,Eva Kaiser,2000-07-28,346,true,Science Fiction,692-277292-686-0,41.1,Französisch,Villach Print,1.1,Krieg;Abenteuer;Technik;Vergangenheit
+175,Karten im Sturm,Julia Leitner,1974-09-10,958,true,Kinderbuch,214-733152-278-9,45.64,Spanisch,Zukunftsverlag,4.2,Vergangenheit;Zukunft;Mystery
+176,Schritte im Morgengrauen,Isabella Schmidt,1980-10-04,1087,true,Roman,709-961639-257-7,46.4,Spanisch,Tradition & Technik,2.0,Zukunft;Familie;Abenteuer;Mystery
+177,Ewige Stimmen am Markt,Florian Kral,1960-05-28,133,true,Horror,587-416006-587-8,17.85,Spanisch,Salzburg Media,2.1,Liebe;Magie;Reise;Politik
+178,Versteckte Segel am Bodensee,Paul Seidl,1997-08-31,732,true,Horror,725-783740-978-4,23.42,Französisch,Nordlicht Verlag,2.0,Reise;Familie;Mystery;Freundschaft
+179,Brennende Wälder,Katrin Berger,1966-02-21,400,false,Lyrik,108-972089-169-0,27.62,Italienisch,Nordlicht Verlag,3.7,Mystery;Zukunft;Magie
+180,Spuren am Bodensee,Anna Egger,1958-04-01,138,false,Lyrik,955-327357-713-1,43.94,Deutsch,Nordlicht Verlag,4.4,Politik;Familie
+181,Tiefe Chroniken von Salzburg,Markus Bauer,2012-05-30,268,true,Science Fiction,776-179392-754-7,55.75,Französisch,Tradition & Technik,3.8,Magie;Abenteuer;Krieg
+182,Gärten am Bodensee #182,Jonas Weber,1979-11-05,1099,true,Sachbuch,282-561976-171-7,58.87,Englisch,Villach Print,2.6,Krieg;Abenteuer;Technik;Politik
+183,Hohe Pfad,Paul Seidl,1989-08-13,812,true,Fantasy,174-173832-685-4,47.75,Deutsch,Salzburg Media,1.6,Liebe
+184,Feurige Karten im Sturm,Matthias Schneider,1985-02-09,668,true,Kinderbuch,889-614514-589-6,27.22,Deutsch,Steiermark Stories,1.9,Zukunft;Reise;Krieg;Freundschaft
+185,Ewige Wälder im Herbst,Jonas Schmidt,2006-09-22,1100,false,Thriller,474-660596-973-5,9.43,Spanisch,Wort & Welt,3.6,Technik;Liebe
+186,Kompass in Graz,Mia Berger,1984-12-30,997,true,Kinderbuch,467-610135-186-7,45.44,Englisch,Buchhaus Wien,1.8,Reise;Politik
+187,Leise Pfad,Mia Koller,1997-11-26,1068,false,Science Fiction,116-138842-447-0,23.57,Deutsch,Tradition & Technik,1.5,Familie;Technik;Abenteuer;Freundschaft
+188,Goldene Stimmen,Eva Wagner,1993-11-11,749,true,Drama,146-354471-818-2,5.79,Deutsch,Wort & Welt,4.3,Reise
+189,Ferne Schriftrollen im Wald,Marie Kral,2023-05-04,188,true,Drama,918-745533-325-1,49.24,Spanisch,Zukunftsverlag,4.2,Wissenschaft;Krieg;Familie;Freundschaft
+190,Geheime Wälder in Graz,Florian Schmidt,2003-03-18,257,true,Thriller,380-248097-875-6,14.24,Französisch,Steiermark Stories,1.7,Freundschaft;Liebe
+191,Stille Chroniken,Isabella Steiner,2004-12-11,465,false,Fantasy,598-184643-106-0,14.87,Deutsch,Villach Print,4.5,Zukunft;Reise;Abenteuer;Mystery
+192,Erste Segel,Nico Koch,1971-06-19,1040,true,Kinderbuch,138-725236-284-7,38.66,Deutsch,Wort & Welt,2.4,Technik
+193,Zerbrochene Ufer #193,Sebastian Bauer,2005-07-11,450,false,Historisch,619-329927-575-3,20.2,Englisch,Nordlicht Verlag,4.2,Reise;Abenteuer;Zukunft;Liebe
+194,Ewige Uhren,Felix Koch,1972-07-21,422,false,Science Fiction,144-209493-858-0,55.87,Englisch,AlpenBooks,4.1,Technik;Krieg;Zukunft;Mystery
+195,Nördliche Blätter im Wald,David Koch,1967-10-31,845,false,Biografie,335-916814-212-5,17.53,Englisch,Tradition & Technik,4.5,Mystery;Krieg;Reise;Freundschaft
+196,Stimmen bei Nacht,Leon Fuchs,2004-09-03,545,true,Biografie,239-579975-837-3,39.76,Französisch,Donau Press,2.3,Zukunft
+197,Dunkle Karten im Sturm,Paul Wallner,1991-10-07,549,false,Biografie,325-409499-718-2,48.43,Italienisch,AlpenBooks,3.3,Krieg;Politik
+198,Südliche Legenden in Graz,Tobias Koller,2025-02-02,553,true,Kinderbuch,538-871939-993-3,18.63,Spanisch,Villach Print,1.9,Freundschaft;Liebe
+199,Stimmen am Bodensee,Laura Mayr,2018-12-15,596,true,Historisch,503-602550-929-1,29.88,Englisch,Nordlicht Verlag,3.2,Zukunft
+200,Kalte Spuren im Sturm,Sophie Hofer,1971-06-13,743,false,Fantasy,591-801534-412-2,43.68,Italienisch,Villach Print,1.1,Reise;Abenteuer;Politik;Zukunft
+201,Pfad im Winter,Matthias Steiner,1950-02-14,961,false,Horror,807-449077-643-0,21.31,Französisch,Villach Print,3.2,Vergangenheit;Familie
+202,Hohe Rätsel,David Mayr,1954-12-02,607,false,Lyrik,472-154067-213-6,25.11,Italienisch,Buchhaus Wien,2.5,Familie;Technik
+203,Goldene Türen in Graz,Leon Schneider,1971-05-30,632,true,Science Fiction,855-888819-694-3,46.42,Englisch,Zukunftsverlag,2.4,Technik;Familie;Politik
+204,Stimmen im Tal,Sophie Fischer,1990-08-03,577,false,Thriller,581-844305-644-8,54.47,Spanisch,Villach Print,2.5,Mystery
+205,Brücken im Tal,Jonas Brandt,1966-01-16,375,false,Thriller,211-272769-382-1,43.34,Spanisch,AlpenBooks,4.5,Magie
+206,Kompass bei Regen,Clara Wagner,1992-07-07,435,false,Kinderbuch,760-122525-398-3,8.46,Englisch,Steiermark Stories,3.6,Freundschaft;Wissenschaft;Familie;Zukunft
+207,Blätter im Morgengrauen,Thomas Moser,1989-12-12,548,true,Roman,908-421383-275-4,17.47,Französisch,Wort & Welt,4.1,Abenteuer
+208,Uhren im Winter,Lea Egger,1964-06-04,808,false,Roman,279-980103-825-2,13.87,Deutsch,Buchhaus Wien,5.0,Reise;Magie
+209,Schritte in Graz,Nina Berger,1953-02-10,761,true,Biografie,251-491029-559-8,58.65,Italienisch,Wort & Welt,1.5,Politik
+210,Gärten im Sturm,Nico Seidl,1978-09-23,239,true,Kinderbuch,659-632056-439-4,31.07,Französisch,Villach Print,3.7,Wissenschaft;Zukunft;Krieg;Reise
+211,Geheime Kompass,Nina Bauer,1977-08-22,105,false,Krimi,556-474754-194-5,8.03,Englisch,Villach Print,3.1,Mystery;Liebe;Krieg
+212,Nördliche Kompass im Tal,Sebastian Weber,1967-06-12,582,true,Drama,623-158770-782-5,26.87,Spanisch,Zukunftsverlag,2.5,Magie
+213,Lichter im Herbst,Nico Wallner,2000-05-01,169,true,Science Fiction,859-535798-922-7,20.87,Spanisch,Tradition & Technik,1.6,Abenteuer
+214,Verbotene Schatten,Isabella Pichler,1980-02-03,147,false,Drama,874-494025-190-0,27.52,Französisch,Tradition & Technik,1.7,Zukunft;Freundschaft;Abenteuer;Mystery
+215,Feurige Uhren #215,Nina Koller,1953-10-15,922,false,Drama,411-618101-672-7,17.35,Deutsch,AlpenBooks,2.1,Krieg;Familie;Zukunft;Magie
+216,Schritte im Sommer #216,Clara Berger,2007-11-06,330,true,Sachbuch,604-169966-713-5,36.96,Italienisch,Tradition & Technik,4.5,Zukunft;Krieg;Wissenschaft;Technik
+217,Tiefe Wege am Markt,Lea Lechner,1955-04-02,229,true,Kinderbuch,238-474745-267-0,20.0,Spanisch,Zukunftsverlag,1.2,Technik;Familie;Krieg
+218,Zerbrochene Gärten von Salzburg,Florian Bauer,2003-09-20,850,true,Biografie,993-431570-946-4,19.93,Französisch,Nordlicht Verlag,3.1,Abenteuer;Liebe;Vergangenheit
+219,Verbotene Lichter im Sommer,Elena Schneider,1964-08-17,184,true,Historisch,326-971968-292-8,38.74,Italienisch,Steiermark Stories,3.9,Politik
+220,Sterne im Tal,Paul Kral,1961-10-10,1025,true,Biografie,419-824619-471-2,49.94,Italienisch,Steiermark Stories,4.1,Abenteuer;Zukunft;Magie
+221,Stille Schlüssel,Leon Wallner,2012-04-13,225,false,Sachbuch,228-320034-233-1,28.36,Deutsch,Nordlicht Verlag,1.1,Vergangenheit;Politik;Liebe;Mystery
+222,Dunkle Chroniken,Katrin Pichler,2003-03-21,140,false,Sachbuch,144-169465-408-0,46.5,Deutsch,Villach Print,1.8,Abenteuer;Familie
+223,Wege im Tal,Leon Wallner,2016-12-11,1044,true,Drama,456-469311-264-8,47.94,Italienisch,Donau Press,3.0,Krieg
+224,Verlorene Segel in Graz,Matthias Fuchs,1975-04-15,255,false,Historisch,104-860583-201-3,55.63,Spanisch,Zukunftsverlag,3.8,Reise;Familie
+225,Ferne Schriftrollen,Sophie Weber,1988-01-18,299,false,Horror,215-898395-421-1,30.62,Italienisch,AlpenBooks,3.0,Zukunft;Magie;Technik
+226,Dunkle Brücken am Fluss,Laura Bauer,1984-07-09,370,false,Kinderbuch,419-820420-961-7,17.42,Spanisch,Wort & Welt,4.9,Mystery;Krieg;Reise;Wissenschaft
+227,Verlorene Kompass,Laura Wolf,1959-06-09,485,false,Lyrik,792-189135-222-2,26.71,Italienisch,Nordlicht Verlag,4.0,Krieg;Wissenschaft
+228,Versteckte Spuren,Julia Wallner,1986-04-09,205,true,Horror,842-623354-385-9,37.65,Spanisch,Zukunftsverlag,2.9,Reise;Technik;Magie;Abenteuer
+229,Ufer an der Donau,Maximilian Koller,1994-08-12,316,false,Roman,130-204441-855-0,50.67,Spanisch,Buchhaus Wien,4.9,Freundschaft;Familie;Wissenschaft;Abenteuer
+230,Seiten an der Grenze,Paul Eder,1956-11-12,756,false,Science Fiction,911-588659-306-4,41.42,Spanisch,Steiermark Stories,2.0,Vergangenheit;Technik;Zukunft
+231,Dunkle Winde #231,Markus Seidl,1960-09-08,472,false,Horror,553-581984-136-0,14.73,Französisch,AlpenBooks,3.0,Magie;Zukunft
+232,Schatten an der Donau,Tobias Wolf,1994-01-04,755,false,Historisch,685-592640-587-8,51.99,Italienisch,Buchhaus Wien,2.6,Freundschaft;Politik;Vergangenheit;Wissenschaft
+233,Wälder am Bodensee,Anna Lechner,1954-01-18,211,false,Biografie,928-878103-697-0,47.09,Französisch,Tradition & Technik,1.4,Wissenschaft;Politik;Vergangenheit
+234,Letzte Schlüssel #234,Emilia Steiner,1977-12-31,686,true,Kinderbuch,167-419723-217-5,14.34,Italienisch,Zukunftsverlag,1.1,Freundschaft;Technik;Politik;Magie
+235,Südliche Blätter,Anna Schneider,1983-11-21,664,false,Drama,200-947591-600-1,43.0,Englisch,Zukunftsverlag,3.0,Abenteuer;Freundschaft;Magie
+236,Winde in Graz,Laura Steiner,2020-08-14,157,false,Historisch,319-401314-371-0,21.35,Italienisch,Tradition & Technik,4.2,Zukunft
+237,Stille Blätter am Fluss,Maximilian Huber,2000-10-25,900,false,Horror,314-464187-914-1,40.83,Französisch,Steiermark Stories,4.2,Familie;Technik;Wissenschaft;Mystery
+238,Nebel am Markt,Julia Pichler,1990-08-30,767,false,Roman,119-758342-820-8,52.45,Italienisch,Salzburg Media,1.9,Magie;Familie;Technik;Freundschaft
+239,Sterne im Wald,Eva Steiner,1955-05-17,614,true,Science Fiction,251-352050-254-4,51.43,Spanisch,Zukunftsverlag,4.4,Familie
+240,Kalte Karten #240,Thomas Hofer,2007-12-17,244,true,Drama,341-525581-344-1,13.25,Deutsch,Donau Press,4.2,Reise;Vergangenheit;Technik
+241,Winde am Bodensee,Felix Maier,1974-06-20,219,true,Sachbuch,774-677457-280-0,58.01,Spanisch,Buchhaus Wien,1.2,Wissenschaft
+242,Verbotene Legenden im Tal,Markus Koch,1982-08-10,767,false,Thriller,506-980605-841-2,17.98,Italienisch,Steiermark Stories,4.7,Reise;Krieg;Mystery
+243,Stille Gärten am Fluss,David Kral,2002-06-04,834,false,Kinderbuch,861-347399-533-3,12.94,Englisch,Donau Press,4.9,Politik;Magie;Freundschaft;Liebe
+244,Türen im Norden,Matthias Bauer,1978-05-24,638,false,Lyrik,352-391224-903-2,24.96,Französisch,Wort & Welt,1.1,Zukunft
+245,Dunkle Horizont von Innsbruck,Maximilian Moser,1984-07-06,396,false,Kinderbuch,471-951706-801-1,34.42,Englisch,Salzburg Media,2.6,Magie;Vergangenheit;Krieg;Mystery
+246,Spuren von Salzburg,Clara Lang,2006-08-23,404,false,Lyrik,516-927659-134-4,52.65,Spanisch,Salzburg Media,3.9,Zukunft;Politik;Krieg
+247,Erste Segel #247,Marie Fischer,1987-10-05,696,false,Historisch,855-442641-564-0,46.91,Englisch,Salzburg Media,4.2,Liebe;Politik
+248,Verbotene Wälder,Tobias Huber,1959-12-11,241,true,Kinderbuch,886-970969-764-2,51.58,Spanisch,Zukunftsverlag,2.8,Magie;Abenteuer
+249,Tiefe Schriftrollen am Fluss,Sarah Hofer,1967-10-28,166,false,Roman,502-495648-954-9,17.35,Deutsch,Steiermark Stories,3.6,Krieg;Reise
+250,Erste Horizont,Isabella Maier,1954-06-20,490,false,Drama,366-256501-191-5,14.36,Italienisch,Nordlicht Verlag,1.1,Vergangenheit;Reise;Familie;Zukunft
+251,Letzte Horizont,Felix Fuchs,2022-12-22,880,true,Kinderbuch,606-500633-233-6,52.1,Italienisch,Donau Press,5.0,Zukunft;Familie;Mystery
+252,Schritte bei Nacht,Sarah Wagner,1952-07-31,377,false,Krimi,732-572883-354-5,37.06,Spanisch,Nordlicht Verlag,1.0,Wissenschaft;Zukunft
+253,Kompass in Graz #253,Matthias Weber,2013-07-23,513,false,Sachbuch,174-199907-670-0,7.87,Englisch,Salzburg Media,4.6,Liebe
+254,Segel an der Grenze,Jonas Hofer,1985-05-30,767,true,Historisch,142-708684-283-4,14.34,Spanisch,Zukunftsverlag,4.5,Krieg;Wissenschaft
+255,Brennende Winde im Sturm,Maximilian Bauer,1978-02-08,125,false,Science Fiction,992-975355-387-5,55.94,Französisch,Wort & Welt,3.5,Technik;Wissenschaft;Politik
+256,Versteckte Gipfel,Laura Eder,1963-07-28,649,false,Lyrik,751-936994-550-0,15.39,Deutsch,Donau Press,1.7,Magie;Abenteuer;Reise;Politik
+257,Südliche Stimmen,Nico Fischer,2013-08-11,654,false,Science Fiction,215-986925-837-2,11.8,Deutsch,Donau Press,4.5,Abenteuer;Zukunft
+258,Erste Blätter im Wald,Felix Lechner,1950-05-16,618,false,Roman,526-180567-352-7,42.23,Französisch,Buchhaus Wien,2.1,Politik
+259,Blätter an der Donau,Thomas Schneider,1963-10-18,109,true,Kinderbuch,775-603164-564-4,37.68,Deutsch,Zukunftsverlag,4.9,Wissenschaft;Zukunft;Freundschaft;Abenteuer
+260,Dunkle Chroniken #260,Peter Hofer,1978-12-29,897,true,Thriller,660-731548-490-1,26.94,Englisch,Donau Press,4.9,Krieg;Liebe;Mystery;Abenteuer
+261,Gärten im Süden,Mia Steiner,2017-07-07,1057,false,Thriller,405-614688-920-6,45.47,Französisch,Villach Print,1.5,Wissenschaft
+262,Zerbrochene Schatten im Winter,Markus Weber,1992-09-28,354,false,Horror,192-893237-532-5,38.76,Spanisch,Tradition & Technik,1.4,Reise;Familie;Mystery
+263,Geheime Sterne im Sommer,Sebastian Steiner,2008-01-25,617,true,Science Fiction,547-183029-920-7,21.52,Englisch,Wort & Welt,4.4,Magie;Freundschaft;Liebe;Technik
+264,Dunkle Segel,Paul Pichler,1988-02-14,502,true,Lyrik,837-696092-932-4,24.55,Italienisch,Nordlicht Verlag,4.1,Krieg
+265,Nördliche Schritte von Salzburg,Thomas Weber,1954-01-23,165,false,Kinderbuch,404-429196-701-7,46.65,Spanisch,Villach Print,4.2,Vergangenheit;Abenteuer;Mystery
+266,Goldene Gipfel,Julia Leitner,2010-06-01,188,false,Fantasy,105-514118-219-0,14.45,Spanisch,Salzburg Media,3.8,Magie;Freundschaft;Zukunft;Wissenschaft
+267,Feurige Chroniken im Herbst,Marie Wagner,1962-02-14,94,true,Fantasy,812-297364-979-0,16.51,Englisch,Donau Press,2.7,Krieg;Magie
+268,Träume im Sommer,Elena Müller,1960-06-13,250,false,Kinderbuch,819-566895-596-7,6.08,Spanisch,Villach Print,2.0,Freundschaft;Politik;Liebe
+269,Wege an der Donau,Peter Wallner,2013-12-22,522,false,Science Fiction,854-706770-710-8,59.95,Deutsch,Salzburg Media,2.6,Mystery;Zukunft;Liebe;Technik
+270,Kalte Blätter,David Moser,1955-09-13,354,false,Horror,584-222621-606-9,56.64,Französisch,Salzburg Media,3.8,Abenteuer
+271,Gipfel in Graz #271,Laura Fischer,1989-04-22,317,false,Drama,801-455627-716-7,12.21,Französisch,Tradition & Technik,4.8,Vergangenheit;Reise;Abenteuer
+272,Zerbrochene Uhren im Tal,Katrin Koller,1961-08-01,257,true,Drama,603-205805-912-6,56.87,Spanisch,Wort & Welt,1.9,Liebe
+273,Rätsel am Markt,Sophie Wolf,1964-03-25,258,false,Historisch,132-946007-165-5,28.68,Italienisch,Donau Press,1.5,Reise;Magie
+274,Chroniken im Norden,Florian Schmidt,2019-02-02,978,false,Roman,973-823659-994-8,38.24,Deutsch,Buchhaus Wien,4.7,Vergangenheit;Reise;Krieg;Familie
+275,Hohe Chroniken an der Donau,Thomas Moser,1953-10-07,599,true,Lyrik,220-315363-470-2,45.06,Spanisch,Steiermark Stories,3.0,Abenteuer
+276,Ewige Wälder im Sturm,Paul Wallner,1968-02-11,529,false,Fantasy,351-975365-928-7,23.77,Italienisch,AlpenBooks,1.3,Zukunft;Politik;Wissenschaft
+277,Letzte Träume im Morgengrauen,Elena Kaiser,1970-06-22,221,false,Horror,519-581037-972-8,48.7,Französisch,Buchhaus Wien,2.8,Zukunft
+278,Goldene Brücken am Fluss,David Weber,2019-04-18,248,false,Horror,877-138895-776-2,54.64,Deutsch,Steiermark Stories,4.9,Politik;Familie;Technik;Magie
+279,Versteckte Sterne im Norden,Anna Kral,1975-02-06,1001,false,Roman,817-523559-556-3,53.82,Italienisch,Villach Print,3.6,Vergangenheit;Familie;Politik
+280,Verbotene Brücken,Lukas Moser,1980-01-04,479,false,Kinderbuch,229-645752-653-4,16.76,Italienisch,Steiermark Stories,2.2,Vergangenheit;Familie;Abenteuer
+281,Verlorene Rätsel,Sarah Moser,2003-02-27,344,true,Sachbuch,843-543281-617-1,45.26,Französisch,Wort & Welt,3.5,Krieg;Liebe;Familie
+282,Nördliche Uhren,Tobias Mayr,1950-06-20,544,true,Krimi,924-881984-695-9,44.31,Italienisch,Villach Print,1.9,Magie;Familie;Freundschaft
+283,Geheime Horizont im Süden,Sebastian Mayr,1972-03-20,187,true,Drama,297-962813-897-5,29.99,Englisch,Tradition & Technik,4.3,Krieg
+284,Kalte Rätsel,Leon Koller,1969-04-09,536,true,Lyrik,638-522317-702-8,33.54,Spanisch,Wort & Welt,3.3,Reise;Zukunft;Vergangenheit;Politik
+285,Geheime Segel,Leon Koller,2013-10-19,548,true,Kinderbuch,625-654844-220-3,30.05,Deutsch,AlpenBooks,4.8,Krieg;Freundschaft;Politik
+286,Stille Lichter,Tobias Hofer,1953-08-12,615,true,Biografie,412-492649-410-4,31.73,Englisch,AlpenBooks,4.1,Liebe;Magie;Zukunft;Mystery
+287,Südliche Wege,Paul Moser,1981-04-12,149,false,Horror,592-700896-417-9,29.88,Französisch,Tradition & Technik,2.9,Vergangenheit;Abenteuer
+288,Nördliche Gärten im Winter,Katrin Lang,1963-05-14,967,false,Thriller,919-755119-780-9,27.53,Englisch,Tradition & Technik,2.4,Familie
+289,Gipfel am Markt,Peter Huber,1964-11-09,804,true,Lyrik,915-909076-824-4,35.86,Deutsch,Steiermark Stories,1.3,Freundschaft
+290,Zerbrochene Gärten im Sommer,Sebastian Brandt,1951-09-04,203,false,Historisch,284-119895-381-3,18.49,Italienisch,Salzburg Media,1.3,Politik;Freundschaft;Liebe
+291,Legenden über Wien,David Koch,1966-03-12,504,true,Historisch,424-500567-363-1,11.31,Deutsch,Steiermark Stories,1.7,Abenteuer;Magie
+292,Geheime Uhren,Elena Wolf,1965-03-07,140,false,Biografie,285-128491-830-0,21.39,Deutsch,Zukunftsverlag,1.6,Magie;Politik;Krieg
+293,Zerbrochene Schlüssel,Florian Egger,2002-07-30,322,false,Historisch,494-220671-375-0,22.51,Italienisch,Tradition & Technik,1.3,Politik
+294,Letzte Sterne über Wien,Maximilian Moser,2002-08-03,771,true,Historisch,767-923356-228-4,36.25,Spanisch,Nordlicht Verlag,4.4,Vergangenheit;Abenteuer
+295,Türen von Salzburg,Sarah Gruber,1998-03-23,1055,false,Historisch,562-143822-101-7,57.86,Italienisch,Wort & Welt,3.6,Liebe;Vergangenheit
+296,Karten an der Grenze,Maximilian Kral,2011-01-03,469,false,Lyrik,317-713583-960-8,20.47,Englisch,Steiermark Stories,3.3,Krieg;Politik;Vergangenheit
+297,Leise Karten,Markus Koch,1968-12-01,705,false,Biografie,798-459279-750-4,58.88,Spanisch,Wort & Welt,2.0,Wissenschaft;Mystery;Reise
+298,Versteckte Wege im Sturm,Peter Seidl,1950-03-09,703,false,Fantasy,788-281965-523-8,54.24,Spanisch,Tradition & Technik,3.2,Technik
+299,Nördliche Kompass,Paul Fischer,2022-12-02,465,false,Biografie,496-285793-959-0,11.86,Französisch,Donau Press,2.8,Zukunft;Liebe
+300,Kompass im Norden,Felix Huber,2023-03-26,708,false,Kinderbuch,326-345637-605-5,7.02,Spanisch,Villach Print,1.8,Familie;Politik
+301,Erste Blätter,Sebastian Koller,1965-04-18,645,true,Kinderbuch,679-804827-798-9,36.08,Deutsch,Villach Print,1.5,Abenteuer
+302,Sterne im Wald #302,Isabella Gruber,1996-12-05,826,false,Krimi,968-810912-123-8,38.8,Italienisch,Salzburg Media,1.0,Familie;Vergangenheit;Zukunft;Liebe
+303,Winde bei Nacht,Maximilian Bauer,2011-01-08,610,false,Biografie,629-895891-144-3,7.58,Spanisch,Steiermark Stories,2.8,Politik
+304,Versteckte Brücken,Markus Lechner,2022-06-17,105,false,Krimi,806-544407-176-3,15.83,Französisch,Wort & Welt,1.3,Liebe
+305,Winde über Wien,Tobias Kaiser,2006-03-10,1037,true,Sachbuch,353-213079-584-3,57.73,Deutsch,Zukunftsverlag,3.1,Krieg;Freundschaft
+306,Nördliche Gärten an der Donau,Peter Lang,2001-12-09,207,true,Fantasy,134-495727-420-1,48.05,Deutsch,Salzburg Media,1.2,Krieg;Vergangenheit;Familie;Liebe
+307,Dunkle Uhren im Süden,Jonas Bauer,2005-05-19,850,false,Drama,906-791770-738-0,29.94,Spanisch,Tradition & Technik,4.5,Wissenschaft
+308,Verlorene Flammen im Morgengrauen,David Lechner,1967-04-09,190,true,Drama,830-170825-707-3,54.74,Englisch,Steiermark Stories,2.0,Reise;Zukunft;Freundschaft;Vergangenheit
+309,Letzte Träume,Sarah Schmidt,1955-06-06,210,true,Horror,625-783362-872-5,22.12,Italienisch,AlpenBooks,1.6,Freundschaft;Wissenschaft;Magie
+310,Wege im Morgengrauen,Tobias Wolf,2010-11-08,228,true,Historisch,938-975744-672-0,28.21,Englisch,Donau Press,3.6,Vergangenheit;Krieg
+311,Spuren im Sommer,Matthias Berger,1991-12-07,694,false,Drama,679-451965-730-4,28.03,Englisch,Nordlicht Verlag,2.8,Reise
+312,Verlorene Pfad,Emilia Berger,1970-08-29,557,false,Krimi,592-870269-886-5,49.4,Spanisch,Donau Press,2.6,Wissenschaft
+313,Goldene Lichter,Anna Moser,1960-05-02,225,true,Krimi,746-714136-883-5,7.41,Deutsch,Donau Press,1.8,Mystery;Magie
+314,Ferne Wälder bei Regen,Emilia Maier,1967-08-02,102,true,Sachbuch,203-122013-951-2,25.84,Deutsch,Zukunftsverlag,4.7,Reise;Mystery;Wissenschaft
+315,Kompass von Salzburg,Sebastian Kaiser,2005-11-29,982,false,Kinderbuch,166-224249-247-2,48.72,Englisch,Steiermark Stories,2.5,Wissenschaft;Freundschaft;Politik
+316,Letzte Sterne am Bodensee,Florian Egger,2002-09-10,273,false,Sachbuch,908-255783-435-3,7.93,Französisch,AlpenBooks,4.4,Mystery;Zukunft;Krieg;Reise
+317,Hohe Brücken von Salzburg,Sebastian Weber,2017-05-27,983,false,Historisch,483-622807-631-7,14.84,Französisch,Steiermark Stories,3.8,Reise;Magie;Freundschaft;Politik
+318,Tiefe Pfad am Bodensee,Felix Gruber,1968-03-18,542,false,Horror,323-420863-535-6,36.43,Französisch,Wort & Welt,3.2,Vergangenheit;Krieg
+319,Flammen im Morgengrauen,Sophie Gruber,2002-05-23,122,false,Drama,444-546800-561-7,28.79,Französisch,Salzburg Media,2.3,Liebe;Abenteuer;Reise;Mystery
+320,Pfad im Tal,Sophie Brandt,1957-05-24,381,false,Historisch,659-774920-180-4,55.96,Deutsch,Nordlicht Verlag,1.3,Technik
+321,Versteckte Spuren #321,Katrin Schneider,1972-06-06,389,false,Lyrik,965-387796-295-9,59.89,Italienisch,Wort & Welt,1.0,Magie;Wissenschaft;Politik
+322,Schriftrollen im Wald #322,Florian Steiner,1951-01-25,563,false,Roman,986-516814-333-3,44.78,Englisch,Salzburg Media,1.9,Zukunft;Reise;Wissenschaft;Krieg
+323,Legenden in Graz,Elena Eder,2012-08-13,507,true,Science Fiction,973-685573-130-5,12.64,Englisch,Wort & Welt,4.8,Reise
+324,Ewige Wälder von Innsbruck,Elena Koch,2011-07-11,850,false,Kinderbuch,650-414192-433-9,6.28,Deutsch,AlpenBooks,1.6,Freundschaft;Familie;Vergangenheit
+325,Tiefe Legenden im Süden,Jonas Fuchs,1985-01-17,145,false,Krimi,586-213915-436-9,57.91,Französisch,Nordlicht Verlag,1.7,Liebe;Zukunft
+326,Südliche Wege von Salzburg,Felix Huber,1984-08-14,370,true,Sachbuch,775-649868-171-7,8.16,Italienisch,Buchhaus Wien,1.7,Politik;Abenteuer;Krieg;Zukunft
+327,Kalte Schatten im Tal,Jonas Brandt,1968-07-10,213,false,Sachbuch,542-957626-826-7,13.73,Italienisch,Wort & Welt,3.3,Magie;Mystery;Liebe;Abenteuer
+328,Brücken im Süden,Julia Kaiser,1972-02-23,618,true,Drama,602-582559-573-9,7.15,Deutsch,Wort & Welt,3.6,Wissenschaft;Zukunft;Magie;Politik
+329,Ferne Winde von Innsbruck,Lea Brandt,2005-06-02,830,false,Horror,774-292355-815-9,10.25,Deutsch,Donau Press,4.5,Magie;Familie
+330,Verbotene Kompass im Tal,Matthias Mayr,2014-10-23,1003,true,Science Fiction,521-898868-666-1,59.74,Deutsch,Nordlicht Verlag,3.0,Politik;Reise;Abenteuer
+331,Spuren im Morgengrauen,Lukas Lang,1952-05-25,154,false,Lyrik,867-584341-490-5,46.03,Englisch,Tradition & Technik,1.2,Krieg;Zukunft;Abenteuer
+332,Kompass im Winter,Laura Lang,1956-02-14,164,false,Krimi,830-558986-243-7,50.12,Englisch,AlpenBooks,4.4,Abenteuer
+333,Ufer bei Regen,Eva Weber,1965-02-10,159,false,Fantasy,793-386525-257-7,24.69,Englisch,Buchhaus Wien,4.6,Reise;Zukunft
+334,Brennende Pfad,Katrin Berger,2009-03-20,998,true,Kinderbuch,415-565553-153-9,5.26,Spanisch,Donau Press,4.7,Mystery;Vergangenheit;Krieg
+335,Kalte Wege,Anna Schneider,2023-08-13,276,false,Thriller,325-201295-916-2,44.82,Deutsch,Tradition & Technik,3.1,Wissenschaft;Technik;Familie
+336,Hohe Spuren,Clara Moser,1985-06-11,1041,false,Krimi,318-211028-465-5,14.55,Spanisch,Zukunftsverlag,1.0,Reise;Mystery
+337,Erste Pfad,Julia Fischer,1953-12-10,148,false,Horror,408-904829-713-7,59.07,Deutsch,Steiermark Stories,4.2,Magie;Krieg
+338,Versteckte Pfad im Süden,Katrin Seidl,2019-03-17,790,true,Roman,750-898717-804-5,58.79,Spanisch,Nordlicht Verlag,2.3,Politik;Technik;Familie;Mystery
+339,Tiefe Horizont über Wien,Emilia Müller,2005-04-18,857,false,Sachbuch,342-873758-538-3,39.09,Deutsch,AlpenBooks,2.5,Mystery;Abenteuer;Politik
+340,Dunkle Schlüssel,Clara Mayr,2003-08-28,1092,false,Kinderbuch,998-444656-237-4,22.46,Deutsch,Steiermark Stories,4.2,Familie;Magie;Liebe;Mystery
+341,Versteckte Wälder von Innsbruck,Felix Moser,1954-11-07,1008,false,Krimi,920-820738-812-3,38.44,Spanisch,Steiermark Stories,2.3,Familie;Liebe;Krieg;Reise
+342,Zerbrochene Stimmen,Peter Wagner,1968-04-27,208,true,Drama,662-971598-914-3,18.0,Deutsch,Tradition & Technik,3.9,Abenteuer;Zukunft;Mystery
+343,Kalte Schritte #343,Julia Gruber,1977-03-12,372,false,Lyrik,306-385066-983-7,9.4,Französisch,Tradition & Technik,2.5,Reise;Politik;Technik;Freundschaft
+344,Kalte Gärten im Sturm,Thomas Kaiser,1993-03-30,100,false,Horror,974-187275-877-4,37.74,Englisch,Steiermark Stories,3.9,Politik;Reise;Magie
+345,Uhren im Süden #345,Nina Egger,1993-02-20,153,true,Kinderbuch,580-305222-258-3,5.23,Italienisch,Zukunftsverlag,3.0,Politik;Zukunft;Wissenschaft;Vergangenheit
+346,Uhren im Wald,Marie Koch,1953-06-26,1096,false,Horror,679-270249-298-6,57.64,Französisch,Steiermark Stories,3.8,Zukunft;Liebe;Familie
+347,Sterne bei Nacht,Eva Gruber,1971-09-29,569,true,Biografie,746-840880-792-0,43.36,Englisch,Wort & Welt,3.4,Magie;Mystery
+348,Tiefe Kompass von Salzburg,Anna Bauer,2019-03-03,174,false,Horror,507-840367-700-1,33.52,Englisch,Tradition & Technik,1.7,Magie;Zukunft;Vergangenheit;Technik
+349,Feurige Blätter im Herbst,Eva Koch,2017-07-04,977,false,Thriller,211-767083-686-5,49.78,Französisch,Donau Press,4.7,Zukunft;Magie;Liebe;Abenteuer
+350,Wege an der Donau #350,Marie Eder,2012-06-20,507,false,Lyrik,395-868650-541-2,14.7,Englisch,AlpenBooks,1.8,Technik;Krieg
+351,Blätter in Graz,Lea Fuchs,1955-04-17,847,true,Krimi,365-528649-551-9,11.01,Englisch,Nordlicht Verlag,2.2,Krieg;Magie;Vergangenheit;Wissenschaft
+352,Tiefe Schlüssel,Laura Koller,2010-05-12,858,true,Fantasy,372-888318-107-9,48.41,Deutsch,Nordlicht Verlag,1.8,Politik
+353,Brennende Gärten am Markt,Clara Koller,1992-06-15,855,true,Horror,444-488796-798-5,59.97,Englisch,Zukunftsverlag,3.7,Freundschaft;Liebe;Wissenschaft;Familie
+354,Verlorene Flammen #354,Isabella Berger,1986-01-18,822,false,Roman,126-731147-225-8,20.37,Englisch,Zukunftsverlag,2.8,Technik;Politik;Familie;Mystery
+355,Versteckte Wege #355,Peter Fischer,1954-02-08,1072,false,Biografie,794-565888-339-9,31.65,Italienisch,Nordlicht Verlag,2.4,Familie;Zukunft;Krieg;Politik
+356,Seiten in Graz,Matthias Wagner,1996-08-28,977,false,Kinderbuch,616-133287-230-7,48.83,Französisch,Steiermark Stories,4.9,Abenteuer;Reise;Krieg;Zukunft
+357,Leise Schlüssel von Innsbruck,Felix Maier,2017-07-30,1046,false,Thriller,208-556018-832-0,13.81,Französisch,Tradition & Technik,4.1,Zukunft;Magie
+358,Südliche Rätsel an der Donau,Katrin Wagner,1997-12-15,728,false,Thriller,914-825388-440-3,56.25,Italienisch,Nordlicht Verlag,3.6,Zukunft;Vergangenheit;Politik;Technik
+359,Chroniken von Innsbruck #359,Emilia Leitner,1960-05-18,377,true,Thriller,448-876555-706-3,45.95,Deutsch,Villach Print,2.5,Politik;Freundschaft;Liebe
+360,Stimmen im Wald,Nina Fuchs,1984-10-27,1083,false,Biografie,916-812299-915-2,33.59,Italienisch,Villach Print,1.9,Liebe;Technik;Reise;Wissenschaft
+361,Verbotene Schriftrollen,Emilia Koller,2011-01-02,546,true,Sachbuch,249-883349-781-0,37.94,Französisch,Steiermark Stories,5.0,Magie
+362,Tiefe Schatten in Graz,Laura Hofer,2013-03-04,1069,true,Biografie,256-968100-833-3,51.64,Englisch,Buchhaus Wien,4.7,Reise;Zukunft
+363,Uhren von Salzburg,Anna Moser,1985-03-12,425,false,Science Fiction,456-894520-500-6,8.95,Französisch,Wort & Welt,3.8,Zukunft;Technik
+364,Ufer im Sturm,David Eder,2020-12-27,674,false,Fantasy,970-844056-411-7,41.0,Italienisch,AlpenBooks,2.8,Magie;Abenteuer;Mystery;Familie
+365,Zerbrochene Gipfel über Wien,Sophie Mayr,2001-08-24,184,false,Roman,485-547858-795-2,55.93,Deutsch,Zukunftsverlag,4.9,Liebe;Krieg
+366,Versteckte Blätter bei Nacht,Leon Steiner,2014-10-28,493,true,Thriller,346-515912-600-4,42.84,Englisch,Tradition & Technik,4.1,Vergangenheit
+367,Legenden im Süden,Maximilian Steiner,2008-08-07,535,true,Thriller,219-186651-224-7,40.28,Italienisch,Donau Press,1.1,Magie;Zukunft;Krieg;Freundschaft
+368,Feurige Schatten,Peter Berger,1988-11-27,385,false,Thriller,433-166582-830-8,15.17,Deutsch,Tradition & Technik,3.2,Krieg;Technik;Freundschaft;Zukunft
+369,Stille Gärten in Graz,Katrin Brandt,1960-07-11,265,false,Kinderbuch,284-105582-668-7,49.03,Deutsch,Buchhaus Wien,1.5,Familie;Abenteuer
+370,Leise Karten #370,Isabella Eder,1953-02-21,166,false,Historisch,405-481219-657-2,28.27,Deutsch,Donau Press,2.2,Familie;Technik;Reise
+371,Tiefe Schatten #371,Matthias Schneider,1996-11-21,1012,false,Biografie,720-664353-622-3,42.84,Deutsch,Donau Press,1.1,Magie;Mystery
+372,Hohe Türen #372,Felix Lechner,1982-03-19,364,true,Drama,532-177971-663-4,19.34,Englisch,Tradition & Technik,2.8,Familie;Politik;Abenteuer
+373,Zerbrochene Brücken am Markt,Peter Berger,2007-12-02,277,false,Drama,773-779237-940-8,38.27,Spanisch,AlpenBooks,2.3,Politik;Liebe;Freundschaft;Mystery
+374,Erste Ufer,Nina Bauer,2011-05-13,641,false,Biografie,755-193296-471-5,47.79,Englisch,Donau Press,2.1,Politik
+375,Feurige Ufer,Sarah Seidl,1961-01-29,259,false,Sachbuch,702-961240-926-7,10.25,Französisch,Villach Print,4.5,Freundschaft;Krieg;Liebe
+376,Versteckte Gärten,Jonas Maier,1980-12-19,905,false,Historisch,664-723501-970-6,31.23,Englisch,Wort & Welt,1.0,Familie;Abenteuer
+377,Feurige Blätter,Eva Leitner,1954-09-29,1020,false,Biografie,824-915297-355-9,28.0,Spanisch,AlpenBooks,2.8,Vergangenheit;Reise;Technik
+378,Karten bei Nacht,Sebastian Berger,2023-01-11,314,true,Thriller,412-526261-889-5,51.49,Deutsch,Nordlicht Verlag,3.9,Abenteuer
+379,Dunkle Brücken im Herbst,Nina Seidl,1994-03-20,907,false,Horror,793-633392-848-2,31.38,Italienisch,Steiermark Stories,3.8,Liebe;Freundschaft;Mystery;Vergangenheit
+380,Kalte Horizont bei Regen,Eva Fischer,1971-11-29,1098,false,Historisch,800-738785-143-9,29.68,Englisch,Steiermark Stories,4.6,Krieg;Wissenschaft
+381,Brennende Lichter,Lukas Koch,1994-06-15,468,true,Thriller,446-812049-355-8,51.79,Deutsch,Wort & Welt,2.2,Magie;Mystery;Liebe
+382,Tiefe Nebel in Graz,Clara Hofer,2007-09-07,607,false,Fantasy,574-747756-968-7,8.16,Deutsch,Villach Print,2.8,Wissenschaft;Krieg;Liebe
+383,Rätsel von Salzburg,Jonas Fischer,1950-10-18,183,false,Krimi,186-654797-626-2,27.59,Spanisch,Buchhaus Wien,1.6,Mystery;Reise;Politik
+384,Uhren im Norden,Elena Brandt,1966-05-06,629,false,Thriller,549-788159-959-7,13.9,Französisch,Tradition & Technik,1.0,Krieg;Mystery
+385,Stimmen im Sturm,Jonas Koch,2016-09-27,419,false,Roman,782-308658-590-4,11.53,Spanisch,Steiermark Stories,3.0,Wissenschaft;Politik
+386,Feurige Träume an der Donau,Paul Kaiser,1951-11-25,209,true,Historisch,113-904661-800-3,7.86,Französisch,Tradition & Technik,4.9,Politik
+387,Uhren im Herbst,Laura Huber,2018-04-07,519,true,Roman,846-636073-291-3,20.46,Deutsch,Wort & Welt,5.0,Familie;Politik
+388,Südliche Horizont,Sarah Kaiser,1959-04-01,797,false,Drama,285-297833-975-9,39.59,Englisch,Donau Press,1.5,Liebe;Magie;Mystery;Abenteuer
+389,Wege an der Grenze,Felix Huber,1954-07-28,469,false,Sachbuch,816-764073-336-3,23.49,Spanisch,Buchhaus Wien,3.0,Magie
+390,Erste Lichter,Maximilian Fischer,2013-11-03,508,true,Fantasy,286-142875-100-0,41.32,Französisch,Donau Press,2.1,Freundschaft;Krieg;Politik
+391,Erste Schatten,Sophie Schneider,1977-04-22,194,true,Fantasy,799-678570-888-2,23.22,Französisch,Villach Print,3.1,Mystery;Familie;Magie
+392,Tiefe Nebel,Marie Brandt,1959-07-18,213,false,Drama,223-143032-700-3,15.61,Spanisch,Nordlicht Verlag,1.3,Magie;Zukunft;Reise
+393,Leise Gipfel,Leon Schmidt,1961-06-20,276,false,Kinderbuch,358-896241-973-8,58.63,Französisch,Salzburg Media,3.5,Politik
+394,Südliche Winde,Sebastian Seidl,1995-03-16,889,true,Drama,380-830549-232-4,7.5,Italienisch,Buchhaus Wien,4.2,Zukunft;Politik
+395,Kompass bei Regen #395,Isabella Pichler,1956-09-23,249,false,Historisch,493-689822-898-6,27.05,Französisch,Donau Press,1.7,Freundschaft;Mystery
+396,Verlorene Rätsel im Morgengrauen,Nico Pichler,2013-06-30,817,false,Sachbuch,972-331039-403-4,35.37,Englisch,Donau Press,1.2,Magie;Liebe
+397,Geheime Rätsel am Markt,Clara Wagner,1974-04-06,974,false,Lyrik,354-963408-315-8,11.39,Französisch,Villach Print,4.9,Krieg;Zukunft;Technik
+398,Gipfel im Sturm,Elena Brandt,2004-11-10,381,true,Fantasy,740-955556-110-5,17.06,Französisch,AlpenBooks,2.0,Technik
+399,Tiefe Ufer im Süden,Peter Leitner,2006-03-08,729,false,Krimi,936-563664-325-5,19.78,Italienisch,Tradition & Technik,1.6,Zukunft;Vergangenheit
+400,Lichter im Sturm,Markus Koller,1958-05-29,587,true,Roman,935-284665-293-9,31.98,Englisch,Wort & Welt,1.1,Abenteuer;Politik
+401,Hohe Spuren im Tal,Leon Huber,1988-04-03,331,false,Lyrik,512-205102-841-8,12.55,Deutsch,Villach Print,1.4,Liebe;Krieg;Vergangenheit;Familie
+402,Letzte Gärten,Marie Leitner,1962-10-18,1041,false,Fantasy,911-109852-910-1,34.83,Französisch,Nordlicht Verlag,1.8,Vergangenheit;Freundschaft;Reise;Abenteuer
+403,Wälder im Sommer,Leon Gruber,1955-01-05,636,false,Lyrik,656-229054-121-0,10.65,Französisch,Nordlicht Verlag,3.0,Abenteuer;Liebe;Mystery;Zukunft
+404,Kalte Nebel,Leon Fischer,2008-10-17,373,true,Lyrik,493-820126-832-1,32.05,Deutsch,Donau Press,1.4,Wissenschaft;Krieg;Freundschaft
+405,Ufer im Norden,Clara Seidl,1957-08-10,997,true,Roman,282-549449-643-5,37.98,Spanisch,AlpenBooks,4.6,Freundschaft;Magie;Wissenschaft
+406,Erste Sterne,Laura Wolf,1983-02-12,1035,true,Kinderbuch,917-180079-907-0,52.39,Englisch,AlpenBooks,2.3,Reise;Zukunft;Vergangenheit;Krieg
+407,Tiefe Winde,Eva Leitner,1962-12-24,172,true,Roman,286-904819-494-5,22.56,Spanisch,Salzburg Media,3.8,Freundschaft;Familie;Wissenschaft;Abenteuer
+408,Letzte Nebel bei Nacht,Nina Koller,1998-05-02,626,false,Historisch,941-341292-493-1,36.95,Spanisch,Steiermark Stories,3.3,Zukunft;Krieg
+409,Ewige Wege #409,Felix Wallner,1951-07-17,451,false,Roman,212-162471-457-5,51.68,Englisch,Wort & Welt,2.8,Mystery;Vergangenheit;Zukunft;Liebe
+410,Geheime Ufer im Sturm,Jonas Mayr,1952-05-13,792,false,Biografie,155-835473-208-9,9.06,Italienisch,AlpenBooks,1.1,Abenteuer;Krieg;Mystery
+411,Verlorene Blätter,Thomas Kral,1987-05-14,233,false,Science Fiction,861-246918-866-8,43.42,Französisch,Salzburg Media,2.6,Reise;Familie;Liebe
+412,Ufer im Sturm #412,Lukas Brandt,2007-08-21,112,false,Roman,615-268137-111-6,50.8,Spanisch,Steiermark Stories,3.8,Freundschaft;Technik;Magie
+413,Letzte Winde von Salzburg,Maximilian Huber,1996-10-14,466,false,Roman,860-322155-510-9,8.08,Spanisch,AlpenBooks,4.3,Zukunft
+414,Schatten am Fluss,Peter Steiner,1986-05-06,927,false,Fantasy,922-489523-762-6,15.71,Deutsch,Nordlicht Verlag,1.3,Liebe;Mystery;Magie
+415,Leise Ufer,Marie Fuchs,2003-07-28,91,false,Sachbuch,292-678490-306-0,18.22,Deutsch,Villach Print,3.3,Liebe;Vergangenheit;Wissenschaft;Krieg
+416,Wege im Norden,Florian Hofer,1985-09-20,592,true,Horror,843-473122-232-1,23.22,Italienisch,Nordlicht Verlag,3.0,Liebe;Freundschaft
+417,Schatten im Wald,Isabella Wallner,1953-05-10,377,true,Lyrik,574-182578-740-1,57.41,Englisch,Donau Press,4.2,Vergangenheit;Zukunft
+418,Brennende Segel,Eva Egger,2008-06-09,615,false,Biografie,558-923501-234-5,21.0,Italienisch,Tradition & Technik,1.2,Mystery;Vergangenheit;Freundschaft;Familie
+419,Geheime Blätter,Peter Koller,1958-09-27,904,true,Sachbuch,660-936116-900-1,32.44,Spanisch,Zukunftsverlag,1.7,Abenteuer;Krieg;Magie
+420,Ewige Lichter im Tal,Marie Maier,2013-10-03,870,false,Science Fiction,362-900216-997-7,40.77,Englisch,Nordlicht Verlag,4.9,Liebe;Wissenschaft;Magie;Politik
+421,Legenden an der Grenze,Clara Wolf,1961-07-28,531,true,Drama,421-491835-185-6,32.83,Französisch,Buchhaus Wien,3.5,Zukunft
+422,Leise Wege,Leon Wallner,1959-06-13,377,true,Drama,508-995304-174-3,26.35,Spanisch,Nordlicht Verlag,2.4,Familie;Technik;Reise;Krieg
+423,Ferne Gipfel,Paul Seidl,1985-08-12,866,false,Horror,436-167603-424-5,59.8,Spanisch,Donau Press,3.8,Krieg;Magie;Reise;Liebe
+424,Geheime Schatten im Sturm,Peter Fuchs,1978-09-22,661,true,Drama,892-498757-163-5,48.43,Spanisch,Donau Press,1.2,Vergangenheit
+425,Kalte Karten am Markt,Peter Maier,1957-07-02,225,true,Horror,183-412828-994-7,52.92,Italienisch,Donau Press,3.7,Abenteuer;Liebe;Krieg
+426,Wälder im Herbst #426,Lea Fuchs,1981-05-03,1044,false,Science Fiction,648-822291-902-2,58.11,Spanisch,Zukunftsverlag,4.7,Liebe;Technik;Freundschaft;Mystery
+427,Tiefe Seiten #427,Leon Schneider,2009-07-30,1090,false,Kinderbuch,860-965321-854-5,5.78,Spanisch,AlpenBooks,3.0,Krieg;Familie;Politik
+428,Segel über Wien,Nico Kral,1961-04-12,729,false,Drama,199-138258-323-3,28.11,Italienisch,AlpenBooks,3.4,Wissenschaft;Mystery
+429,Tiefe Wege,Sophie Kral,1982-08-21,96,true,Sachbuch,614-958837-988-1,43.46,Spanisch,Tradition & Technik,2.6,Technik;Politik;Vergangenheit
+430,Ufer von Salzburg,Nico Koch,1983-06-23,261,false,Roman,655-557049-490-4,51.48,Spanisch,Wort & Welt,3.8,Krieg
+431,Goldene Pfad,Anna Egger,1986-11-24,186,false,Drama,657-204545-748-7,32.68,Deutsch,Wort & Welt,4.4,Mystery;Reise
+432,Feurige Ufer in Graz,Isabella Koller,1961-03-01,439,false,Science Fiction,522-960270-760-6,5.42,Französisch,Donau Press,3.0,Familie;Magie;Zukunft
+433,Kompass von Innsbruck,Anna Brandt,1987-03-12,113,true,Roman,909-492592-960-8,50.1,Italienisch,Zukunftsverlag,2.3,Mystery;Technik;Politik;Vergangenheit
+434,Feurige Schriftrollen am Bodensee,Sarah Seidl,2001-11-04,519,true,Lyrik,499-863481-277-6,54.73,Italienisch,AlpenBooks,2.7,Zukunft
+435,Brennende Ufer,Peter Lechner,2020-05-12,481,false,Lyrik,366-978012-666-2,57.18,Englisch,Nordlicht Verlag,1.4,Liebe;Familie;Freundschaft;Abenteuer
+436,Hohe Horizont,Nina Seidl,1957-01-25,665,false,Kinderbuch,851-236889-564-5,15.26,Englisch,Wort & Welt,1.8,Zukunft;Politik
+437,Kompass am Bodensee,Maximilian Huber,1962-11-25,722,true,Drama,987-208442-213-7,56.0,Deutsch,Nordlicht Verlag,1.6,Abenteuer;Krieg;Zukunft
+438,Legenden im Norden,Clara Kral,1968-08-28,480,true,Fantasy,523-177149-598-1,16.57,Spanisch,Tradition & Technik,4.6,Vergangenheit;Abenteuer;Zukunft;Magie
+439,Ferne Kompass,Tobias Steiner,2004-06-04,955,true,Biografie,455-607417-728-9,35.06,Englisch,Steiermark Stories,4.0,Mystery
+440,Verlorene Türen über Wien,Sebastian Pichler,2018-04-09,236,true,Biografie,217-327496-130-5,12.62,Deutsch,AlpenBooks,2.1,Mystery;Krieg;Wissenschaft;Technik
+441,Verbotene Flammen im Sommer,Elena Pichler,1985-11-18,1024,true,Roman,302-820431-966-4,57.9,Deutsch,Villach Print,4.2,Abenteuer;Mystery;Reise
+442,Rätsel im Winter,Elena Egger,2017-01-09,358,false,Drama,210-736795-492-6,15.98,Französisch,Zukunftsverlag,4.6,Reise
+443,Dunkle Segel #443,Maximilian Lechner,1986-10-07,380,false,Lyrik,643-469364-507-0,11.31,Französisch,Tradition & Technik,4.2,Mystery;Krieg;Vergangenheit
+444,Ewige Lichter im Sturm,Florian Schneider,1960-12-21,89,true,Fantasy,834-444844-318-7,36.21,Französisch,Donau Press,3.2,Magie;Freundschaft;Mystery;Technik
+445,Stille Türen,Maximilian Berger,2004-07-15,1048,false,Lyrik,176-701828-761-6,42.52,Spanisch,Zukunftsverlag,4.3,Mystery;Liebe
+446,Schatten am Bodensee,Maximilian Koch,1960-09-12,207,false,Drama,434-719887-492-3,36.7,Französisch,Buchhaus Wien,3.6,Reise
+447,Träume im Süden,Lukas Brandt,1997-11-10,1020,false,Biografie,760-117062-171-7,10.23,Spanisch,Wort & Welt,2.1,Politik;Krieg;Technik
+448,Schatten an der Grenze #448,Lukas Weber,1976-10-10,793,false,Science Fiction,969-772239-224-5,56.57,Deutsch,Buchhaus Wien,1.9,Abenteuer
+449,Versteckte Legenden,Matthias Mayr,1989-02-01,311,true,Krimi,841-951739-477-8,59.43,Deutsch,Wort & Welt,4.5,Krieg
+450,Verbotene Brücken #450,Maximilian Schneider,2011-09-19,707,false,Horror,376-832603-274-2,37.09,Deutsch,AlpenBooks,2.3,Vergangenheit;Freundschaft
+451,Pfad im Winter #451,Katrin Bauer,1996-10-23,620,true,Science Fiction,777-613911-387-5,47.5,Spanisch,Donau Press,1.4,Zukunft;Krieg;Wissenschaft
+452,Letzte Kompass in Graz,Matthias Huber,1956-09-28,1075,false,Krimi,113-803069-321-7,50.02,Englisch,Salzburg Media,1.4,Freundschaft;Technik
+453,Versteckte Gärten im Herbst,Matthias Lang,2008-10-15,237,false,Thriller,233-329412-472-6,58.63,Italienisch,Steiermark Stories,1.8,Mystery;Krieg;Magie;Politik
+454,Verbotene Legenden,Tobias Steiner,1959-02-27,230,false,Thriller,862-215552-346-0,54.18,Englisch,Wort & Welt,1.1,Wissenschaft;Magie;Krieg;Technik
+455,Ewige Winde,Felix Wagner,1985-08-11,594,false,Biografie,154-562779-379-5,10.38,Spanisch,Tradition & Technik,1.8,Politik;Abenteuer
+456,Erste Segel an der Grenze,Laura Pichler,1988-11-24,191,false,Lyrik,354-216478-324-1,7.92,Deutsch,Villach Print,2.1,Technik
+457,Erste Schlüssel,Markus Egger,2012-10-03,813,false,Horror,203-330569-851-4,32.23,Englisch,Donau Press,2.4,Zukunft;Freundschaft;Magie
+458,Verlorene Ufer von Salzburg,Sebastian Seidl,2012-11-04,717,false,Sachbuch,973-821353-344-2,22.33,Deutsch,AlpenBooks,1.7,Abenteuer;Liebe;Familie;Reise
+459,Wälder über Wien,Lea Leitner,1956-11-27,254,false,Fantasy,708-469249-585-9,5.06,Englisch,Salzburg Media,1.4,Freundschaft
+460,Verbotene Schriftrollen von Innsbruck,Sebastian Pichler,1965-01-04,853,true,Thriller,202-419398-923-5,29.89,Französisch,Steiermark Stories,2.0,Magie;Wissenschaft;Reise;Liebe
+461,Uhren am Fluss,Markus Pichler,2019-06-27,759,false,Drama,595-218238-376-8,45.05,Deutsch,AlpenBooks,4.9,Familie;Abenteuer
+462,Schatten über Wien,Emilia Lechner,2016-06-24,792,false,Biografie,311-880523-191-3,55.64,Spanisch,Nordlicht Verlag,4.9,Technik;Abenteuer;Magie;Wissenschaft
+463,Nebel im Wald,Elena Leitner,1977-10-01,275,true,Historisch,818-459949-954-9,11.76,Spanisch,Villach Print,4.9,Magie;Krieg;Liebe
+464,Sterne im Sturm,Nico Wolf,1963-06-24,615,false,Drama,671-796590-266-4,31.78,Deutsch,Wort & Welt,1.1,Mystery
+465,Schriftrollen im Wald #465,Paul Schmidt,1993-10-24,393,true,Biografie,776-974627-100-0,18.83,Französisch,Wort & Welt,4.1,Krieg;Zukunft
+466,Träume in Graz #466,Elena Lechner,1957-03-29,377,true,Science Fiction,463-360810-931-6,28.24,Deutsch,Wort & Welt,4.7,Abenteuer;Freundschaft;Politik
+467,Versteckte Chroniken im Wald,Leon Wolf,2018-11-14,284,true,Horror,667-309215-408-4,9.71,Italienisch,Salzburg Media,3.2,Vergangenheit;Politik;Krieg;Abenteuer
+468,Nördliche Horizont am Fluss,Sebastian Seidl,2011-06-21,809,true,Biografie,537-589215-530-6,30.37,Italienisch,Buchhaus Wien,4.8,Krieg;Abenteuer;Freundschaft;Magie
+469,Tiefe Segel,Sophie Wagner,2005-09-14,636,false,Sachbuch,154-892026-965-6,11.93,Deutsch,Salzburg Media,4.2,Liebe;Krieg;Vergangenheit;Magie
+470,Stille Wälder an der Grenze,Paul Kral,1976-01-26,659,false,Biografie,985-163821-224-9,42.09,Deutsch,Donau Press,3.1,Abenteuer;Mystery;Familie;Vergangenheit
+471,Pfad im Herbst,Eva Seidl,1950-07-31,904,false,Kinderbuch,305-220280-168-0,13.42,Deutsch,Steiermark Stories,1.4,Krieg;Reise
+472,Brennende Flammen,Jonas Schmidt,1960-12-05,387,false,Roman,939-346339-961-8,19.31,Italienisch,Salzburg Media,4.4,Politik
+473,Verlorene Schritte,Leon Kral,2016-10-20,753,true,Historisch,859-833613-659-3,31.19,Französisch,Wort & Welt,3.7,Wissenschaft;Familie;Magie;Politik
+474,Horizont an der Donau,Nico Koch,2022-12-25,515,true,Sachbuch,568-225961-677-6,5.61,Französisch,Buchhaus Wien,3.6,Liebe;Wissenschaft;Abenteuer;Reise
+475,Nördliche Karten über Wien,Lea Fischer,1994-11-30,956,false,Krimi,457-840530-637-6,33.22,Englisch,AlpenBooks,2.4,Reise;Zukunft;Abenteuer
+476,Chroniken im Herbst,Clara Weber,1956-02-14,1018,false,Science Fiction,485-594668-720-2,36.68,Italienisch,Steiermark Stories,2.0,Freundschaft;Vergangenheit;Wissenschaft
+477,Hohe Schriftrollen im Süden,Marie Schmidt,1952-08-25,952,false,Krimi,198-797576-208-7,56.38,Spanisch,Zukunftsverlag,4.0,Krieg;Abenteuer
+478,Feurige Gärten bei Nacht,Clara Huber,1955-07-23,706,true,Fantasy,967-886363-174-7,46.98,Italienisch,Buchhaus Wien,4.7,Krieg;Zukunft;Reise
+479,Träume im Wald,Nina Fuchs,1967-07-24,338,false,Lyrik,392-336450-306-2,28.87,Italienisch,Donau Press,1.3,Familie
+480,Stille Spuren am Bodensee,Sarah Wagner,1950-06-21,448,false,Drama,659-175460-448-2,42.53,Italienisch,Salzburg Media,1.8,Freundschaft;Reise
+481,Ewige Lichter an der Grenze,Markus Moser,1962-05-15,900,true,Horror,740-494388-994-1,36.3,Englisch,Steiermark Stories,2.2,Reise
+482,Dunkle Seiten,Nina Schneider,1952-01-09,309,false,Sachbuch,948-363592-499-5,8.74,Englisch,Wort & Welt,1.3,Technik;Freundschaft
+483,Verbotene Nebel an der Grenze,Lukas Moser,2012-07-30,993,true,Science Fiction,369-784963-130-0,23.59,Französisch,Donau Press,2.3,Abenteuer
+484,Leise Schriftrollen,Eva Schneider,2017-12-11,759,false,Fantasy,341-617530-174-9,54.74,Deutsch,Zukunftsverlag,4.9,Freundschaft;Zukunft;Vergangenheit;Krieg
+485,Südliche Träume am Markt,Eva Schmidt,1959-05-03,116,false,Krimi,765-467271-541-7,21.69,Englisch,Buchhaus Wien,4.7,Vergangenheit
+486,Leise Seiten,Isabella Weber,2011-03-07,780,false,Historisch,593-154673-496-6,43.25,Spanisch,Tradition & Technik,3.2,Reise
+487,Hohe Rätsel #487,Sophie Fischer,1967-05-17,431,false,Fantasy,343-343304-194-9,5.55,Spanisch,Steiermark Stories,3.3,Zukunft
+488,Dunkle Brücken,Lukas Wagner,1989-05-06,264,true,Biografie,458-731678-770-3,59.89,Englisch,Villach Print,2.6,Familie
+489,Goldene Karten,Nina Fuchs,1994-05-27,802,false,Biografie,979-330987-554-4,56.78,Italienisch,Wort & Welt,4.5,Technik;Magie
+490,Horizont bei Regen,Sebastian Bauer,1954-11-05,434,false,Kinderbuch,736-609825-386-1,16.2,Englisch,Steiermark Stories,1.9,Krieg;Wissenschaft
+491,Geheime Stimmen von Innsbruck,Matthias Lang,2008-04-22,862,false,Thriller,121-623142-956-0,19.87,Italienisch,Tradition & Technik,2.2,Liebe
+492,Legenden an der Grenze #492,Jonas Koller,1951-09-10,963,false,Science Fiction,145-335351-310-6,15.14,Spanisch,Steiermark Stories,1.2,Liebe;Technik;Wissenschaft
+493,Hohe Gärten,Markus Schneider,2024-04-19,1009,true,Drama,321-894036-128-5,44.92,Italienisch,Tradition & Technik,4.5,Vergangenheit
+494,Leise Nebel,Eva Seidl,2010-10-28,374,false,Historisch,574-544423-686-9,47.3,Französisch,AlpenBooks,4.8,Zukunft;Mystery;Abenteuer;Liebe
+495,Chroniken am Markt,Marie Gruber,2019-03-15,635,true,Drama,504-140481-730-4,24.89,Französisch,Villach Print,1.0,Freundschaft;Familie;Wissenschaft
+496,Legenden von Salzburg #496,Nico Lang,1951-07-20,530,true,Fantasy,467-603534-753-8,16.98,Deutsch,Villach Print,4.8,Freundschaft;Technik;Wissenschaft
+497,Nördliche Schritte,Maximilian Eder,2020-07-31,362,true,Science Fiction,230-338466-745-2,13.08,Italienisch,Buchhaus Wien,1.9,Abenteuer
+498,Brennende Legenden im Winter,Tobias Schneider,1953-10-06,646,false,Fantasy,831-371638-363-0,42.31,Französisch,Steiermark Stories,3.9,Wissenschaft;Krieg
+499,Brennende Flammen #499,Paul Pichler,1956-12-12,322,true,Drama,480-969414-942-6,8.93,Spanisch,Wort & Welt,1.6,Freundschaft;Wissenschaft;Zukunft
+500,Rätsel im Norden,Laura Hofer,2005-10-17,111,true,Fantasy,397-257352-705-0,10.84,Englisch,Zukunftsverlag,3.0,Mystery;Politik;Freundschaft
+501,Geheime Nebel,Florian Steiner,1957-01-14,1058,true,Krimi,678-627953-688-8,45.37,Italienisch,Nordlicht Verlag,4.4,Freundschaft
+502,Kompass im Morgengrauen,Sebastian Lang,1978-06-08,355,true,Drama,400-355882-436-3,48.95,Französisch,Donau Press,2.8,Zukunft
+503,Nördliche Gipfel,Markus Koch,1982-06-20,161,true,Historisch,178-479895-769-7,38.29,Spanisch,Tradition & Technik,1.9,Technik;Mystery
+504,Kompass im Wald,Katrin Wagner,2004-04-29,346,false,Biografie,421-223694-183-6,28.16,Englisch,Villach Print,3.0,Abenteuer;Reise
+505,Ferne Ufer,Elena Leitner,2018-09-05,647,false,Science Fiction,860-205901-229-0,50.86,Deutsch,AlpenBooks,5.0,Technik;Vergangenheit
+506,Rätsel bei Nacht #506,Sophie Wagner,1986-02-04,793,false,Kinderbuch,400-224811-444-5,37.53,Italienisch,Nordlicht Verlag,5.0,Krieg
+507,Ewige Flammen bei Nacht,Peter Lang,2016-06-14,934,false,Science Fiction,816-241144-851-2,44.8,Italienisch,Steiermark Stories,1.3,Freundschaft
+508,Ewige Kompass im Winter,Jonas Schneider,1989-05-07,260,false,Drama,386-910555-199-3,21.35,Französisch,Buchhaus Wien,3.3,Magie;Wissenschaft;Politik;Zukunft
+509,Geheime Stimmen #509,Thomas Mayr,2015-07-31,295,false,Sachbuch,688-745374-421-1,24.1,Englisch,Nordlicht Verlag,2.2,Reise;Mystery;Abenteuer;Magie
+510,Seiten an der Donau,Clara Gruber,2009-10-15,365,true,Krimi,665-979535-620-2,6.5,Deutsch,Steiermark Stories,3.2,Liebe;Reise
+511,Ewige Spuren,Mia Lechner,1988-04-06,829,false,Roman,950-575895-402-1,44.39,Deutsch,Salzburg Media,4.6,Magie;Krieg;Abenteuer;Vergangenheit
+512,Stille Lichter im Tal,Eva Kaiser,1969-12-15,824,true,Roman,619-451626-382-7,39.68,Italienisch,Nordlicht Verlag,3.8,Liebe;Politik;Krieg
+513,Brennende Wälder in Graz,Thomas Moser,2009-04-24,937,false,Fantasy,749-757756-108-3,12.53,Spanisch,Donau Press,3.7,Reise;Abenteuer;Vergangenheit
+514,Südliche Uhren,Leon Fuchs,2006-12-13,976,true,Historisch,977-858417-867-3,5.18,Deutsch,Salzburg Media,3.2,Zukunft;Abenteuer
+515,Kalte Horizont,Maximilian Egger,1984-02-13,726,false,Lyrik,457-607755-643-2,53.28,Englisch,Wort & Welt,3.7,Vergangenheit;Familie;Politik;Freundschaft
+516,Türen im Sommer,Mia Bauer,1969-08-22,195,false,Sachbuch,529-568894-433-3,41.43,Deutsch,AlpenBooks,2.9,Familie;Krieg;Wissenschaft
+517,Feurige Horizont im Sturm,Florian Brandt,1993-05-26,940,false,Science Fiction,715-532016-803-3,6.59,Französisch,Steiermark Stories,1.9,Liebe;Technik;Wissenschaft;Magie
+518,Versteckte Winde im Süden,Sarah Lang,1988-02-23,488,true,Fantasy,374-609089-845-3,23.69,Deutsch,Wort & Welt,2.8,Freundschaft;Abenteuer
+519,Zerbrochene Gärten an der Donau,Julia Egger,1979-07-31,212,false,Fantasy,839-122143-921-6,9.96,Französisch,Zukunftsverlag,4.1,Familie
+520,Brennende Spuren,Sophie Moser,1967-10-21,1088,true,Historisch,505-852689-334-4,49.07,Französisch,Zukunftsverlag,2.7,Liebe;Vergangenheit
+521,Brennende Ufer #521,Sebastian Weber,2020-12-29,576,true,Sachbuch,408-125422-335-3,6.86,Deutsch,Tradition & Technik,3.6,Zukunft;Magie
+522,Goldene Brücken,Sebastian Mayr,2013-02-10,860,false,Fantasy,115-878727-950-8,38.27,Englisch,Nordlicht Verlag,3.9,Mystery;Freundschaft;Magie;Wissenschaft
+523,Segel über Wien #523,Mia Leitner,1991-03-04,287,true,Lyrik,690-594299-485-4,28.62,Englisch,Tradition & Technik,3.2,Magie;Zukunft;Technik;Familie
+524,Feurige Wege,Laura Mayr,1985-04-25,1054,true,Historisch,831-213565-563-3,36.78,Deutsch,Tradition & Technik,4.1,Wissenschaft;Reise;Freundschaft;Krieg
+525,Verbotene Wälder im Sturm,Sarah Steiner,1957-07-03,177,false,Krimi,985-613604-707-3,9.61,Spanisch,Villach Print,4.4,Liebe;Reise
+526,Winde im Herbst,Eva Schneider,2024-11-07,234,true,Kinderbuch,678-727814-516-0,19.75,Englisch,Steiermark Stories,4.2,Wissenschaft;Familie;Mystery;Vergangenheit
+527,Horizont im Sommer,Sebastian Moser,2016-05-11,1096,false,Thriller,535-833222-179-6,12.0,Deutsch,AlpenBooks,3.1,Abenteuer
+528,Nördliche Legenden,Paul Schmidt,1988-01-21,587,true,Historisch,598-246659-866-8,28.0,Deutsch,Wort & Welt,1.5,Zukunft;Familie;Magie
+529,Versteckte Seiten im Norden,Tobias Steiner,1964-11-20,224,true,Lyrik,309-941811-728-5,33.57,Französisch,Salzburg Media,2.9,Zukunft;Vergangenheit;Abenteuer
+530,Brennende Horizont,Thomas Koller,1950-11-18,405,false,Roman,581-170304-105-4,43.58,Englisch,Nordlicht Verlag,3.2,Krieg;Liebe;Freundschaft
+531,Seiten von Salzburg,Marie Fischer,2007-02-02,652,false,Biografie,743-114815-297-4,20.63,Spanisch,Villach Print,3.9,Freundschaft;Politik;Magie
+532,Leise Pfad in Graz,Marie Lechner,1963-09-04,185,false,Sachbuch,282-375710-677-1,11.97,Italienisch,Villach Print,3.6,Wissenschaft;Freundschaft;Zukunft;Familie
+533,Chroniken an der Grenze,Katrin Seidl,1992-06-21,294,true,Krimi,321-195775-922-9,13.06,Englisch,Salzburg Media,4.5,Krieg;Liebe;Abenteuer
+534,Nördliche Winde im Sommer,David Hofer,1994-11-22,858,true,Historisch,502-495637-892-6,43.84,Französisch,Wort & Welt,4.4,Technik;Krieg;Freundschaft
+535,Ferne Pfad,Thomas Leitner,2013-10-26,226,false,Historisch,552-613900-811-4,42.7,Italienisch,Tradition & Technik,3.6,Liebe;Wissenschaft
+536,Gärten im Norden,Eva Koch,1969-03-07,711,false,Krimi,491-492383-283-0,15.77,Französisch,Steiermark Stories,1.8,Wissenschaft;Krieg;Vergangenheit
+537,Segel über Wien #537,Julia Leitner,1953-01-03,742,true,Science Fiction,507-146050-812-4,20.08,Deutsch,Villach Print,4.3,Freundschaft;Familie;Reise;Zukunft
+538,Südliche Gipfel,Isabella Steiner,2017-05-04,638,false,Fantasy,478-130237-727-2,43.81,Englisch,AlpenBooks,1.3,Liebe
+539,Pfad am Bodensee,David Bauer,1998-10-24,364,false,Krimi,770-743829-855-0,23.3,Französisch,AlpenBooks,4.6,Technik;Liebe;Familie
+540,Winde am Bodensee #540,Marie Fuchs,2024-01-08,859,false,Kinderbuch,373-188047-276-7,7.45,Italienisch,Donau Press,3.8,Abenteuer;Familie;Liebe;Magie
+541,Türen im Norden #541,Paul Schneider,1991-10-31,661,false,Thriller,679-585496-190-1,55.49,Englisch,Nordlicht Verlag,1.7,Vergangenheit
+542,Verlorene Spuren,Peter Fischer,1991-04-20,163,false,Krimi,415-977981-797-3,46.11,Englisch,Wort & Welt,1.2,Abenteuer;Magie;Vergangenheit
+543,Versteckte Winde von Innsbruck,Thomas Fuchs,1974-06-23,984,true,Sachbuch,365-831442-550-4,10.08,Französisch,Villach Print,2.5,Familie;Vergangenheit;Abenteuer;Liebe
+544,Feurige Träume bei Regen,Tobias Fuchs,2012-12-30,524,true,Lyrik,915-402712-312-5,43.48,Italienisch,Steiermark Stories,4.3,Krieg;Technik;Mystery
+545,Spuren im Winter,Maximilian Schmidt,1960-05-06,609,false,Roman,586-246606-578-9,22.76,Italienisch,Tradition & Technik,3.6,Wissenschaft
+546,Stille Pfad im Norden,Isabella Brandt,1950-09-16,242,false,Biografie,444-779352-202-2,55.22,Französisch,AlpenBooks,2.9,Vergangenheit;Liebe
+547,Chroniken an der Grenze #547,Nico Lechner,2001-09-03,791,false,Horror,584-974613-349-4,44.79,Italienisch,Zukunftsverlag,2.9,Magie;Liebe;Mystery;Technik
+548,Kalte Winde,Florian Leitner,2001-10-23,490,false,Roman,624-274467-407-9,58.09,Italienisch,Donau Press,4.8,Abenteuer;Familie
+549,Chroniken am Bodensee,Marie Hofer,2021-02-17,864,true,Biografie,569-515229-269-7,5.05,Englisch,Donau Press,4.5,Magie;Krieg;Abenteuer
+550,Zerbrochene Winde,Marie Mayr,1971-12-16,237,false,Biografie,105-600531-263-5,10.5,Italienisch,Tradition & Technik,3.8,Familie;Politik;Reise;Mystery
+551,Feurige Träume #551,David Eder,1961-12-24,489,false,Sachbuch,939-807526-847-6,37.83,Italienisch,Nordlicht Verlag,2.4,Mystery
+552,Ferne Gärten von Innsbruck,Sophie Fischer,1980-06-28,593,false,Drama,713-888198-507-1,40.51,Englisch,Salzburg Media,1.8,Magie;Politik
+553,Versteckte Nebel,Peter Maier,1988-03-11,234,true,Horror,791-961169-592-0,19.36,Spanisch,AlpenBooks,1.7,Reise
+554,Ewige Kompass,Eva Bauer,2008-11-03,963,false,Fantasy,264-434522-231-9,32.88,Spanisch,Buchhaus Wien,2.9,Politik;Liebe;Magie;Vergangenheit
+555,Gipfel an der Donau #555,Julia Kaiser,2021-12-27,1010,false,Biografie,899-596550-829-5,51.43,Französisch,Nordlicht Verlag,4.1,Technik;Politik;Familie;Krieg
+556,Verlorene Wälder,Clara Berger,2002-12-12,344,true,Drama,845-577090-545-0,30.56,Deutsch,Nordlicht Verlag,4.5,Wissenschaft;Liebe;Freundschaft;Vergangenheit
+557,Winde am Fluss,Katrin Hofer,2018-10-18,918,true,Sachbuch,283-407484-465-6,5.96,Französisch,Wort & Welt,3.5,Wissenschaft
+558,Dunkle Türen im Süden,Emilia Maier,1957-07-17,627,true,Kinderbuch,248-763664-605-6,54.1,Französisch,Salzburg Media,3.8,Zukunft;Technik
+559,Nördliche Stimmen im Tal,David Fischer,1953-06-08,230,false,Kinderbuch,753-951943-203-6,33.19,Deutsch,Zukunftsverlag,4.7,Politik;Vergangenheit;Liebe
+560,Erste Gipfel,Peter Mayr,1957-02-10,936,false,Thriller,912-300952-684-4,59.72,Italienisch,Steiermark Stories,3.2,Zukunft;Liebe
+561,Blätter im Sommer,Felix Eder,1989-03-14,361,false,Roman,383-625927-787-0,38.25,Englisch,Wort & Welt,2.1,Mystery;Liebe;Politik;Abenteuer
+562,Karten im Winter #562,Julia Kaiser,2006-12-15,405,true,Krimi,118-843449-432-3,8.5,Französisch,Villach Print,4.3,Familie;Freundschaft;Wissenschaft;Technik
+563,Schatten bei Regen,Anna Schneider,1980-07-22,407,true,Science Fiction,255-584387-974-7,16.59,Englisch,Tradition & Technik,2.0,Familie
+564,Goldene Pfad im Sommer,Nina Fischer,1957-06-15,292,false,Historisch,478-418801-398-5,29.83,Spanisch,Buchhaus Wien,1.6,Freundschaft;Wissenschaft
+565,Kalte Winde über Wien,Florian Hofer,1999-12-03,841,false,Krimi,484-663706-234-6,38.39,Deutsch,Nordlicht Verlag,2.6,Krieg;Freundschaft
+566,Schritte von Salzburg,Florian Eder,2015-11-22,1082,false,Horror,460-887775-322-6,54.53,Französisch,Zukunftsverlag,4.1,Familie
+567,Versteckte Segel bei Regen,Nina Weber,1970-03-13,959,false,Science Fiction,393-966268-560-2,55.82,Englisch,Tradition & Technik,2.2,Vergangenheit;Reise;Familie
+568,Stille Nebel,Tobias Steiner,1987-07-06,1077,false,Krimi,751-130451-733-3,12.62,Italienisch,Steiermark Stories,5.0,Liebe;Wissenschaft;Freundschaft;Mystery
+569,Tiefe Pfad,Laura Wolf,1958-02-28,1054,true,Kinderbuch,715-928249-769-6,35.36,Englisch,AlpenBooks,2.8,Abenteuer;Reise
+570,Zerbrochene Wälder im Sturm,Mia Huber,1952-10-09,291,false,Science Fiction,350-816881-717-7,59.43,Englisch,Salzburg Media,3.0,Vergangenheit
+571,Versteckte Legenden von Salzburg,Emilia Lang,2014-10-12,1065,true,Kinderbuch,133-815153-793-6,52.69,Spanisch,Tradition & Technik,1.3,Magie;Zukunft;Technik;Krieg
+572,Hohe Pfad bei Regen,Matthias Müller,1989-05-05,572,false,Fantasy,399-951089-507-0,24.99,Italienisch,Salzburg Media,2.7,Krieg
+573,Erste Gärten,Thomas Lechner,2017-08-10,890,true,Roman,475-532949-772-5,12.81,Englisch,Salzburg Media,1.8,Wissenschaft
+574,Goldene Flammen im Sommer,Florian Gruber,2017-11-29,346,true,Kinderbuch,555-446723-906-7,43.48,Italienisch,Wort & Welt,3.4,Abenteuer;Technik
+575,Wege von Innsbruck,Markus Fischer,2000-07-23,451,false,Sachbuch,833-265992-681-4,31.14,Spanisch,Wort & Welt,1.6,Abenteuer;Freundschaft
+576,Legenden im Süden #576,Maximilian Steiner,1970-06-13,108,false,Drama,410-255570-698-0,19.27,Italienisch,Steiermark Stories,2.6,Wissenschaft;Familie
+577,Tiefe Legenden,Sebastian Schneider,1996-12-13,463,true,Science Fiction,763-277336-991-8,31.51,Spanisch,Tradition & Technik,1.1,Wissenschaft
+578,Verbotene Spuren,Emilia Wagner,1974-12-20,703,false,Thriller,765-306508-465-7,30.26,Deutsch,Steiermark Stories,4.6,Wissenschaft;Familie
+579,Feurige Pfad #579,Paul Schneider,1995-07-11,148,true,Historisch,966-877265-650-1,58.37,Deutsch,Salzburg Media,3.3,Mystery;Magie
+580,Ferne Horizont von Innsbruck,Emilia Berger,2014-05-12,547,true,Drama,372-678788-384-1,45.87,Deutsch,AlpenBooks,3.1,Mystery
+581,Letzte Blätter,Florian Lechner,1992-10-26,555,true,Fantasy,426-928391-749-1,15.8,Deutsch,Salzburg Media,1.3,Krieg;Technik
+582,Zerbrochene Seiten im Sommer,Mia Lechner,1950-11-11,675,false,Thriller,837-564143-896-3,37.39,Italienisch,Salzburg Media,5.0,Vergangenheit;Politik;Freundschaft
+583,Schatten von Salzburg,David Pichler,1993-05-11,606,true,Lyrik,406-377033-988-8,18.7,Französisch,Steiermark Stories,3.0,Krieg;Abenteuer;Reise;Liebe
+584,Rätsel im Morgengrauen,Laura Koller,1964-08-20,263,true,Horror,789-419439-196-7,23.83,Italienisch,AlpenBooks,1.8,Vergangenheit
+585,Zerbrochene Uhren,Sebastian Hofer,1978-09-17,864,false,Thriller,801-414637-724-3,36.41,Englisch,Zukunftsverlag,1.6,Vergangenheit;Abenteuer;Zukunft;Freundschaft
+586,Ferne Wälder im Morgengrauen,Laura Steiner,2003-05-27,887,false,Kinderbuch,375-339834-369-7,56.39,Französisch,Zukunftsverlag,1.6,Zukunft;Wissenschaft;Vergangenheit
+587,Uhren bei Nacht,Tobias Weber,2018-06-04,507,true,Horror,156-528645-462-2,58.62,Französisch,Buchhaus Wien,4.3,Mystery;Familie
+588,Erste Uhren im Norden,Anna Schneider,1988-05-09,889,false,Historisch,673-874915-304-3,38.97,Spanisch,Wort & Welt,1.4,Abenteuer;Wissenschaft
+589,Südliche Gipfel im Wald,Laura Schmidt,2020-02-02,755,false,Kinderbuch,598-361982-386-9,37.24,Deutsch,Nordlicht Verlag,1.2,Magie;Technik;Wissenschaft
+590,Sterne im Herbst,Paul Koller,1962-01-18,981,false,Biografie,893-868028-523-2,53.07,Italienisch,Wort & Welt,3.3,Reise
+591,Versteckte Blätter,Nina Eder,2009-04-10,346,false,Sachbuch,806-122913-243-1,52.89,Französisch,Zukunftsverlag,4.6,Zukunft;Mystery;Abenteuer;Wissenschaft
+592,Schlüssel im Winter,Sophie Schneider,1967-11-08,773,false,Sachbuch,361-732938-865-0,12.71,Spanisch,Tradition & Technik,2.6,Vergangenheit;Liebe;Technik;Zukunft
+593,Ewige Wege im Wald,Elena Schmidt,1995-03-28,974,false,Historisch,603-396376-688-5,39.89,Deutsch,Villach Print,1.4,Technik
+594,Brennende Legenden,Isabella Huber,2001-06-28,1024,false,Lyrik,295-888432-174-6,49.98,Spanisch,Salzburg Media,4.6,Familie;Wissenschaft
+595,Ferne Pfad #595,Tobias Schneider,1990-09-26,620,false,Kinderbuch,939-553401-121-6,36.61,Deutsch,Villach Print,4.3,Liebe
+596,Versteckte Winde,Leon Leitner,1969-12-30,678,false,Biografie,645-579989-769-3,47.35,Italienisch,Zukunftsverlag,4.6,Mystery;Abenteuer
+597,Verbotene Schritte,Paul Müller,1997-11-09,696,false,Fantasy,898-233508-653-5,57.51,Französisch,Zukunftsverlag,4.7,Mystery;Magie
+598,Kalte Karten #598,Emilia Seidl,1969-06-28,870,true,Roman,998-560996-226-6,6.4,Englisch,Tradition & Technik,1.2,Politik;Mystery;Zukunft;Vergangenheit
+599,Stille Brücken von Salzburg,Sebastian Seidl,2001-11-18,821,false,Roman,874-319821-223-7,45.74,Französisch,Zukunftsverlag,2.7,Krieg;Technik
+600,Schatten am Markt,Sebastian Bauer,1990-12-30,96,true,Horror,509-999146-202-5,24.82,Französisch,Nordlicht Verlag,2.7,Mystery;Zukunft;Krieg
+601,Feurige Rätsel im Sommer,Anna Leitner,2015-06-17,742,false,Fantasy,244-988578-354-2,36.05,Englisch,Steiermark Stories,1.6,Vergangenheit;Liebe;Zukunft;Freundschaft
+602,Verbotene Lichter,Julia Koch,2023-11-10,241,false,Roman,631-258733-859-2,25.08,Deutsch,AlpenBooks,1.1,Magie;Politik
+603,Ewige Sterne am Markt,Julia Schneider,1952-07-22,882,true,Fantasy,581-135885-852-2,55.25,Deutsch,Steiermark Stories,2.5,Abenteuer;Krieg
+604,Ewige Rätsel,Emilia Huber,1987-09-02,1091,true,Science Fiction,575-535239-976-8,29.22,Italienisch,Buchhaus Wien,2.2,Magie;Abenteuer;Wissenschaft;Technik
+605,Seiten an der Donau #605,Laura Koller,2017-03-04,931,false,Krimi,228-329964-627-2,49.3,Englisch,Donau Press,3.6,Zukunft
+606,Uhren an der Grenze,Paul Gruber,1970-04-18,336,true,Lyrik,408-444589-827-7,41.76,Italienisch,Steiermark Stories,3.3,Vergangenheit;Abenteuer;Wissenschaft
+607,Lichter im Sturm #607,Tobias Mayr,1953-01-26,845,false,Horror,747-150350-913-3,58.87,Deutsch,AlpenBooks,3.5,Abenteuer;Politik
+608,Wege im Wald,Laura Koller,1980-11-07,272,false,Drama,515-574065-319-7,39.17,Italienisch,Salzburg Media,1.5,Familie;Technik;Wissenschaft
+609,Rätsel von Salzburg #609,Maximilian Schneider,2022-05-26,972,false,Historisch,567-795466-198-5,46.98,Französisch,Nordlicht Verlag,4.1,Familie;Liebe;Technik;Abenteuer
+610,Letzte Flammen,Thomas Bauer,1960-10-16,643,false,Roman,994-464510-414-7,28.99,Deutsch,Steiermark Stories,1.7,Abenteuer;Familie
+611,Verlorene Spuren #611,Eva Mayr,1981-10-02,618,false,Roman,676-656334-637-0,49.01,Französisch,Steiermark Stories,1.9,Wissenschaft;Abenteuer
+612,Ferne Pfad #612,Peter Wallner,2005-06-17,311,false,Kinderbuch,255-667092-724-6,52.21,Französisch,Buchhaus Wien,4.8,Magie;Politik;Technik;Zukunft
+613,Flammen am Fluss #613,Leon Mayr,1976-11-30,80,true,Kinderbuch,669-800574-419-3,55.77,Italienisch,Villach Print,4.8,Vergangenheit
+614,Träume im Sturm,Laura Kral,1964-05-18,862,false,Krimi,500-924508-263-6,26.5,Englisch,Donau Press,4.3,Mystery
+615,Träume im Süden #615,Paul Mayr,2016-05-11,679,false,Roman,310-564919-245-4,46.83,Deutsch,Nordlicht Verlag,3.1,Vergangenheit
+616,Hohe Schatten von Innsbruck,Katrin Lang,1976-10-22,921,true,Kinderbuch,724-576438-257-1,53.41,Französisch,Wort & Welt,4.8,Politik
+617,Ufer im Winter,Elena Lechner,1965-02-10,977,false,Science Fiction,876-405247-330-8,10.67,Italienisch,Villach Print,4.5,Familie;Reise
+618,Kalte Winde am Bodensee,Peter Bauer,2019-01-28,366,false,Kinderbuch,382-363895-755-8,23.09,Französisch,Zukunftsverlag,1.3,Zukunft
+619,Schlüssel im Wald,Laura Gruber,2003-01-11,524,false,Thriller,899-966397-825-7,35.84,Italienisch,Tradition & Technik,3.4,Liebe;Freundschaft;Krieg;Zukunft
+620,Stille Blätter an der Donau,Paul Eder,1971-05-29,449,false,Kinderbuch,718-542320-934-6,44.51,Deutsch,Zukunftsverlag,3.6,Reise;Freundschaft;Technik;Liebe
+621,Schriftrollen bei Nacht,Katrin Seidl,1952-04-20,301,false,Fantasy,745-444941-201-4,55.64,Deutsch,Salzburg Media,4.4,Wissenschaft;Familie;Vergangenheit
+622,Schlüssel am Markt,Nico Kaiser,1954-04-16,412,false,Lyrik,369-905947-912-2,16.52,Italienisch,Zukunftsverlag,4.0,Vergangenheit;Abenteuer;Reise
+623,Versteckte Lichter,Julia Moser,2016-05-17,904,false,Krimi,424-968937-413-1,55.28,Deutsch,Tradition & Technik,2.3,Familie;Abenteuer;Politik;Mystery
+624,Legenden im Sommer,Sophie Schneider,2022-04-20,528,false,Roman,272-438438-116-1,15.44,Französisch,Steiermark Stories,3.8,Vergangenheit;Technik;Zukunft
+625,Feurige Seiten,Matthias Huber,1967-10-27,175,true,Drama,997-795405-514-4,13.02,Französisch,Steiermark Stories,2.4,Politik;Krieg
+626,Verbotene Seiten im Wald,Marie Schneider,1970-03-04,533,false,Krimi,661-262541-783-4,6.45,Englisch,Donau Press,2.0,Reise;Familie
+627,Geheime Wege,Mia Gruber,1951-11-12,958,false,Science Fiction,524-683346-664-9,15.57,Englisch,Steiermark Stories,3.3,Zukunft;Magie;Wissenschaft;Vergangenheit
+628,Lichter im Norden,Markus Seidl,1971-01-21,407,false,Thriller,809-241025-429-3,48.76,Italienisch,AlpenBooks,1.4,Technik;Wissenschaft;Krieg;Freundschaft
+629,Ewige Horizont,Matthias Steiner,1999-09-16,920,false,Science Fiction,375-702154-956-0,30.31,Spanisch,Salzburg Media,3.4,Abenteuer
+630,Leise Flammen,Nina Steiner,1955-03-01,997,true,Kinderbuch,251-166874-798-5,8.6,Französisch,Villach Print,2.0,Zukunft
+631,Südliche Winde im Sturm,Jonas Fuchs,2009-05-16,542,true,Kinderbuch,790-419460-438-3,36.34,Italienisch,Tradition & Technik,1.6,Liebe;Freundschaft;Vergangenheit
+632,Ewige Blätter an der Donau,Florian Huber,2005-01-26,145,false,Kinderbuch,265-868140-299-3,58.89,Englisch,AlpenBooks,1.1,Zukunft;Krieg;Wissenschaft;Vergangenheit
+633,Feurige Blätter #633,Matthias Wolf,1984-10-04,904,false,Kinderbuch,585-245237-967-5,15.06,Französisch,Zukunftsverlag,1.7,Magie;Reise;Krieg;Abenteuer
+634,Nebel in Graz,Emilia Fischer,2008-01-25,728,true,Science Fiction,869-198595-636-4,6.12,Italienisch,Buchhaus Wien,4.9,Familie
+635,Ufer von Salzburg #635,Anna Pichler,1951-02-17,84,true,Sachbuch,128-938900-681-9,25.62,Deutsch,AlpenBooks,1.8,Abenteuer;Technik;Mystery;Wissenschaft
+636,Geheime Seiten,Sophie Lechner,1965-11-15,992,false,Roman,619-256080-933-7,6.67,Deutsch,Steiermark Stories,4.6,Vergangenheit
+637,Sterne im Herbst #637,Paul Fischer,2011-04-12,264,false,Roman,202-621824-297-9,13.54,Italienisch,Zukunftsverlag,4.8,Vergangenheit;Reise;Krieg;Technik
+638,Versteckte Schlüssel,Sophie Wagner,1971-06-26,1063,false,Krimi,913-523923-142-5,8.22,Spanisch,Villach Print,1.4,Familie
+639,Versteckte Sterne im Morgengrauen,Tobias Lechner,2012-12-30,624,false,Historisch,758-310692-389-5,12.45,Englisch,Wort & Welt,4.8,Politik;Vergangenheit;Zukunft;Krieg
+640,Wege im Sommer,Paul Schneider,2000-05-09,575,false,Sachbuch,609-924558-889-4,47.4,Deutsch,Steiermark Stories,4.3,Krieg;Magie
+641,Tiefe Türen von Salzburg,Peter Schneider,2016-04-27,129,false,Fantasy,410-503598-292-5,58.03,Deutsch,Tradition & Technik,4.0,Technik;Wissenschaft
+642,Dunkle Sterne in Graz,Paul Lang,1966-08-30,993,true,Biografie,174-848719-308-7,16.37,Italienisch,Buchhaus Wien,1.2,Mystery;Zukunft;Krieg;Magie
+643,Letzte Kompass #643,Thomas Seidl,2024-07-31,418,false,Horror,946-339465-480-6,7.46,Englisch,Villach Print,2.0,Politik;Familie;Freundschaft
+644,Verbotene Spuren am Markt,Elena Berger,1950-12-02,505,false,Horror,384-983566-294-7,18.94,Deutsch,Tradition & Technik,1.2,Abenteuer;Familie;Mystery;Krieg
+645,Stille Ufer von Salzburg,Markus Kaiser,1993-10-30,148,true,Biografie,271-876043-362-6,20.66,Französisch,Wort & Welt,4.4,Krieg;Vergangenheit;Politik
+646,Goldene Türen,Isabella Koller,1968-01-06,210,false,Fantasy,580-602078-211-1,17.58,Spanisch,AlpenBooks,1.3,Mystery
+647,Seiten im Norden,Nico Mayr,1962-10-22,532,false,Fantasy,778-628083-885-3,47.27,Französisch,Buchhaus Wien,3.3,Wissenschaft;Magie
+648,Ewige Flammen,Felix Brandt,2007-10-16,137,false,Roman,398-630154-165-3,15.12,Englisch,Zukunftsverlag,3.6,Liebe;Reise;Krieg;Mystery
+649,Brennende Uhren bei Regen,Lea Wagner,1999-02-01,1067,true,Thriller,801-168295-519-8,34.39,Italienisch,AlpenBooks,3.9,Wissenschaft;Liebe;Abenteuer
+650,Letzte Wege,Jonas Müller,2000-06-25,139,false,Drama,222-998632-329-0,36.0,Deutsch,Buchhaus Wien,3.6,Freundschaft;Familie;Politik;Magie
+651,Hohe Nebel im Winter,Clara Mayr,1971-04-28,779,false,Sachbuch,453-767625-565-7,55.57,Englisch,Salzburg Media,3.1,Mystery;Abenteuer;Magie
+652,Ferne Nebel am Markt,Markus Maier,1983-01-09,837,true,Sachbuch,247-144622-570-6,44.09,Italienisch,Donau Press,4.9,Familie;Wissenschaft
+653,Feurige Winde,Markus Koch,1991-04-28,831,false,Horror,574-481220-445-5,41.6,Englisch,Steiermark Stories,1.8,Zukunft;Mystery
+654,Zerbrochene Legenden an der Grenze,Sophie Brandt,1991-07-28,641,false,Horror,483-775282-414-3,26.61,Spanisch,Nordlicht Verlag,3.2,Magie;Freundschaft;Politik;Liebe
+655,Zerbrochene Wälder,Nina Brandt,1964-01-23,755,false,Historisch,542-289074-553-0,43.17,Spanisch,Villach Print,3.7,Zukunft;Familie;Freundschaft
+656,Feurige Blätter #656,Sarah Kaiser,1967-09-30,234,false,Science Fiction,351-874337-233-7,22.39,Italienisch,Steiermark Stories,3.9,Familie
+657,Goldene Brücken #657,Anna Müller,1954-09-25,419,false,Biografie,465-312868-861-2,57.69,Französisch,Nordlicht Verlag,2.5,Freundschaft;Reise;Zukunft
+658,Horizont von Salzburg,Mia Hofer,1959-02-08,901,false,Roman,267-535353-221-8,55.06,Spanisch,AlpenBooks,3.2,Zukunft;Magie;Mystery;Krieg
+659,Geheime Sterne im Winter,Paul Eder,1953-07-14,218,false,Science Fiction,488-600044-274-0,37.24,Französisch,Salzburg Media,3.3,Reise;Liebe
+660,Kompass im Wald #660,Sophie Brandt,1980-06-25,1091,true,Biografie,170-285844-238-9,21.51,Spanisch,AlpenBooks,1.4,Familie;Wissenschaft
+661,Horizont im Tal #661,Sophie Egger,2021-09-17,586,true,Drama,527-277272-473-4,15.56,Französisch,Steiermark Stories,4.6,Reise
+662,Rätsel von Salzburg #662,Lukas Steiner,1971-06-05,797,true,Science Fiction,543-453913-141-4,46.25,Spanisch,Nordlicht Verlag,2.3,Abenteuer
+663,Verlorene Gipfel im Wald,Anna Hofer,1984-02-25,284,false,Horror,497-137731-811-4,43.33,Französisch,Zukunftsverlag,4.2,Politik;Zukunft;Wissenschaft;Abenteuer
+664,Gipfel am Markt #664,Nina Fuchs,1993-11-08,368,true,Science Fiction,787-188914-924-5,52.38,Deutsch,Buchhaus Wien,4.2,Mystery
+665,Ferne Lichter,Marie Wagner,2001-04-23,900,true,Thriller,984-179074-109-0,45.51,Französisch,Villach Print,1.3,Familie;Wissenschaft;Vergangenheit;Krieg
+666,Stille Stimmen im Sturm,Felix Seidl,2016-12-07,1028,true,Thriller,835-196034-103-6,48.54,Englisch,Donau Press,1.2,Politik
+667,Pfad im Morgengrauen,Felix Koller,2023-05-07,282,false,Science Fiction,719-840581-290-7,20.84,Italienisch,Buchhaus Wien,2.8,Krieg
+668,Zerbrochene Karten,Leon Brandt,1998-08-17,669,false,Kinderbuch,226-837010-879-1,15.35,Französisch,Donau Press,1.6,Freundschaft;Politik;Technik
+669,Verbotene Spuren bei Nacht,Maximilian Kral,1980-12-06,833,true,Fantasy,770-816734-357-4,46.49,Deutsch,Buchhaus Wien,1.3,Zukunft;Liebe;Freundschaft
+670,Brücken im Winter,Anna Mayr,2010-07-07,170,true,Biografie,814-814164-720-1,36.31,Französisch,Salzburg Media,2.4,Wissenschaft;Reise;Magie;Zukunft
+671,Türen in Graz #671,Emilia Lechner,1965-04-20,123,false,Horror,576-584064-432-6,30.5,Spanisch,Salzburg Media,1.6,Politik;Liebe;Abenteuer;Wissenschaft
+672,Legenden im Sturm,Jonas Fischer,1951-04-03,524,false,Lyrik,276-258375-707-2,16.93,Deutsch,Tradition & Technik,2.9,Wissenschaft;Mystery;Liebe
+673,Nebel von Salzburg,Mia Kral,1999-04-14,364,true,Science Fiction,721-858885-611-6,28.93,Englisch,Salzburg Media,4.9,Wissenschaft
+674,Goldene Wälder,Matthias Koller,2004-07-12,376,true,Historisch,606-942658-321-6,31.98,Französisch,AlpenBooks,2.4,Familie;Freundschaft;Politik
+675,Stille Seiten im Sturm,Sebastian Hofer,1980-08-08,822,true,Kinderbuch,984-234357-478-9,58.37,Deutsch,Buchhaus Wien,2.8,Mystery;Vergangenheit;Wissenschaft;Zukunft
+676,Pfad im Sommer,Sarah Leitner,1999-10-17,428,false,Biografie,815-303819-230-5,47.99,Italienisch,Donau Press,3.8,Mystery;Reise
+677,Südliche Rätsel über Wien,David Pichler,1958-07-30,473,false,Drama,429-185257-641-7,30.45,Französisch,Nordlicht Verlag,2.8,Vergangenheit;Magie
+678,Geheime Lichter am Bodensee,Laura Gruber,1970-01-14,728,true,Biografie,944-750801-594-8,13.04,Französisch,Zukunftsverlag,2.9,Freundschaft;Technik;Mystery
+679,Zerbrochene Sterne an der Grenze,Julia Bauer,1976-07-09,831,true,Krimi,636-937653-616-4,18.65,Spanisch,Tradition & Technik,3.8,Magie
+680,Spuren im Sturm,Mia Müller,1952-08-02,747,false,Horror,180-486538-576-2,29.57,Spanisch,Steiermark Stories,1.6,Vergangenheit;Wissenschaft;Krieg;Magie
+681,Karten in Graz,Matthias Egger,1990-09-02,371,true,Roman,430-117779-226-0,52.73,Italienisch,Salzburg Media,2.5,Zukunft;Politik;Technik
+682,Kalte Pfad,David Weber,1965-12-20,414,false,Fantasy,759-396651-431-9,46.61,Deutsch,Steiermark Stories,1.2,Reise;Krieg
+683,Geheime Träume,Paul Pichler,1964-08-28,1042,false,Thriller,872-477819-465-5,9.46,Französisch,Nordlicht Verlag,3.0,Technik
+684,Pfad im Süden,Matthias Wagner,1999-03-05,922,true,Krimi,559-266786-218-4,17.51,Deutsch,Steiermark Stories,1.1,Reise;Liebe
+685,Letzte Gärten #685,Emilia Wagner,1962-05-09,592,true,Horror,874-765143-786-6,6.06,Französisch,Salzburg Media,1.1,Technik;Krieg;Liebe;Mystery
+686,Dunkle Spuren von Innsbruck,Tobias Koller,1950-08-23,437,false,Drama,476-633881-948-2,26.84,Englisch,Steiermark Stories,1.0,Magie;Technik;Wissenschaft
+687,Feurige Schritte in Graz,Florian Egger,1972-12-28,422,true,Sachbuch,502-224956-766-4,29.84,Spanisch,Villach Print,4.9,Mystery;Abenteuer;Krieg;Liebe
+688,Chroniken an der Donau #688,Eva Seidl,1968-06-11,284,false,Kinderbuch,865-413115-952-3,53.77,Französisch,Zukunftsverlag,2.9,Freundschaft;Magie
+689,Brennende Wege,Mia Müller,1969-06-01,929,true,Biografie,311-623860-837-6,44.6,Spanisch,Tradition & Technik,3.4,Reise;Vergangenheit
+690,Hohe Uhren von Innsbruck,Marie Egger,1959-08-16,985,true,Fantasy,734-152458-977-0,57.07,Deutsch,Wort & Welt,2.8,Krieg;Liebe
+691,Spuren in Graz,Elena Mayr,1983-06-13,157,true,Lyrik,122-411919-888-0,54.42,Französisch,AlpenBooks,2.1,Krieg;Familie
+692,Verlorene Rätsel im Sommer,Lea Müller,1960-02-07,168,false,Science Fiction,990-707940-811-8,20.02,Deutsch,Villach Print,2.9,Mystery;Krieg
+693,Kompass im Süden,Anna Schmidt,1994-08-17,522,false,Horror,279-113913-690-0,41.11,Französisch,Wort & Welt,3.9,Vergangenheit;Magie
+694,Erste Legenden,Felix Gruber,2011-11-16,538,false,Lyrik,145-690570-955-6,35.74,Spanisch,Donau Press,3.9,Magie
+695,Brücken an der Grenze,Sophie Lang,2023-08-19,563,false,Biografie,774-489307-843-8,34.74,Französisch,Zukunftsverlag,2.6,Wissenschaft;Reise;Vergangenheit;Magie
+696,Südliche Kompass,Nina Koch,1982-04-30,1064,false,Drama,359-244327-440-5,40.5,Spanisch,Steiermark Stories,4.4,Liebe;Wissenschaft
+697,Geheime Seiten am Fluss,Nina Steiner,2024-08-23,842,true,Drama,242-955908-911-3,50.36,Spanisch,Nordlicht Verlag,4.3,Technik
+698,Dunkle Segel an der Donau,Tobias Müller,1972-11-07,1036,false,Roman,857-337798-800-5,31.9,Französisch,Zukunftsverlag,3.2,Technik;Familie;Politik;Mystery
+699,Ewige Gipfel bei Nacht,Matthias Eder,1959-07-20,311,false,Science Fiction,259-974878-810-3,44.39,Italienisch,Nordlicht Verlag,3.0,Zukunft
+700,Schlüssel im Süden,Mia Kral,1968-10-09,634,false,Krimi,124-117007-131-4,11.66,Englisch,Nordlicht Verlag,1.3,Krieg;Politik;Wissenschaft;Zukunft
+701,Hohe Uhren,David Weber,1983-08-21,293,true,Drama,703-601680-750-9,37.63,Spanisch,Buchhaus Wien,3.0,Liebe;Magie;Reise
+702,Gärten bei Regen,Florian Bauer,1987-12-04,785,false,Biografie,801-614125-127-6,7.13,Spanisch,Nordlicht Verlag,2.9,Krieg
+703,Stille Flammen,Jonas Mayr,1980-04-08,327,false,Science Fiction,135-438556-417-8,47.74,Spanisch,Donau Press,3.5,Liebe
+704,Geheime Blätter über Wien,Clara Pichler,1989-11-15,150,false,Science Fiction,381-830994-678-6,49.07,Italienisch,Buchhaus Wien,2.0,Zukunft
+705,Südliche Schritte im Winter,Mia Wallner,1964-08-07,120,true,Biografie,536-215002-803-2,58.27,Deutsch,Donau Press,2.9,Liebe;Politik
+706,Ferne Gärten im Süden,Lukas Hofer,1966-05-22,308,true,Lyrik,697-986611-605-3,44.26,Deutsch,Nordlicht Verlag,1.7,Zukunft;Freundschaft
+707,Verlorene Flammen im Sommer,Sophie Kaiser,2012-09-14,520,true,Historisch,810-486178-750-8,10.85,Spanisch,Buchhaus Wien,2.1,Krieg;Vergangenheit;Zukunft;Magie
+708,Ewige Schatten im Süden,Sebastian Seidl,1971-10-28,1008,false,Roman,223-125280-265-1,36.37,Englisch,Salzburg Media,3.6,Technik;Magie;Reise
+709,Ferne Blätter,Elena Bauer,2000-03-18,120,true,Roman,407-239685-864-6,5.62,Deutsch,Steiermark Stories,4.2,Technik
+710,Erste Blätter im Morgengrauen,Anna Hofer,2022-10-19,220,true,Krimi,981-603724-920-3,15.38,Spanisch,Salzburg Media,2.9,Abenteuer
+711,Türen bei Regen #711,Isabella Kaiser,1956-05-12,229,false,Historisch,248-897460-169-7,33.24,Deutsch,Villach Print,1.7,Familie;Wissenschaft;Mystery;Magie
+712,Stimmen bei Nacht #712,Lukas Wallner,1978-10-02,879,false,Krimi,787-861785-482-6,29.74,Englisch,AlpenBooks,2.9,Familie;Vergangenheit;Abenteuer;Mystery
+713,Brennende Uhren im Sommer,Florian Huber,1988-10-28,694,true,Thriller,675-188963-821-2,47.51,Deutsch,Zukunftsverlag,2.1,Reise;Familie;Wissenschaft
+714,Schriftrollen bei Regen,Julia Schneider,1977-08-24,955,false,Historisch,599-504848-875-9,43.24,Italienisch,Villach Print,3.6,Reise;Wissenschaft
+715,Südliche Wälder,Nina Pichler,2005-04-19,726,true,Lyrik,374-384427-995-4,37.69,Englisch,Zukunftsverlag,4.7,Mystery;Freundschaft;Vergangenheit
+716,Uhren in Graz,Thomas Schneider,1996-06-11,772,false,Sachbuch,712-544436-785-3,47.26,Englisch,Wort & Welt,1.8,Zukunft;Technik;Vergangenheit
+717,Spuren im Winter #717,Tobias Pichler,1965-07-23,200,false,Sachbuch,753-359026-310-9,48.45,Französisch,AlpenBooks,4.5,Wissenschaft;Mystery;Politik;Reise
+718,Erste Sterne im Wald,Nico Moser,1980-08-17,229,true,Thriller,358-230473-485-8,59.11,Deutsch,Nordlicht Verlag,1.8,Reise;Vergangenheit;Technik
+719,Erste Segel im Wald,Elena Fuchs,1973-11-02,132,false,Lyrik,601-724187-210-7,29.04,Französisch,Nordlicht Verlag,1.6,Wissenschaft
+720,Dunkle Legenden,Marie Leitner,1959-08-23,641,false,Roman,902-200548-860-6,16.27,Italienisch,Buchhaus Wien,1.0,Freundschaft;Zukunft;Magie
+721,Winde von Innsbruck,Emilia Gruber,2005-06-21,698,false,Sachbuch,665-470725-960-3,13.34,Italienisch,Villach Print,2.3,Abenteuer;Politik
+722,Leise Seiten #722,Anna Maier,1958-03-07,664,false,Sachbuch,928-609877-227-1,18.54,Spanisch,Donau Press,2.0,Abenteuer;Mystery
+723,Ufer über Wien,Emilia Wolf,1977-09-04,525,false,Drama,969-505487-556-3,17.77,Deutsch,Tradition & Technik,3.8,Abenteuer;Zukunft;Politik;Freundschaft
+724,Wege bei Regen,Florian Leitner,1968-05-27,982,false,Horror,908-649386-450-5,6.14,Italienisch,Villach Print,2.6,Freundschaft;Mystery;Wissenschaft;Abenteuer
+725,Goldene Seiten im Süden,Lea Kaiser,1986-03-31,292,true,Biografie,514-387458-354-4,54.41,Spanisch,Villach Print,4.5,Familie
+726,Letzte Pfad im Tal,Nico Berger,2021-10-12,102,false,Biografie,468-499476-120-7,29.0,Spanisch,Tradition & Technik,1.4,Wissenschaft;Mystery;Magie
+727,Sterne am Markt,Laura Maier,1965-02-13,304,false,Lyrik,629-728207-643-3,51.52,Spanisch,Zukunftsverlag,1.2,Krieg;Zukunft
+728,Goldene Seiten,Matthias Moser,1954-06-29,336,true,Sachbuch,563-256268-400-2,52.22,Französisch,AlpenBooks,1.9,Abenteuer;Technik;Krieg
+729,Goldene Seiten #729,Lukas Lechner,2008-09-23,881,false,Kinderbuch,280-402244-661-7,56.81,Englisch,Donau Press,1.1,Freundschaft;Zukunft
+730,Goldene Gärten,Paul Leitner,2023-04-28,881,true,Thriller,897-585005-666-5,44.78,Englisch,Steiermark Stories,4.7,Vergangenheit;Liebe
+731,Legenden von Salzburg #731,Florian Leitner,1996-01-18,912,true,Historisch,158-512935-238-2,7.66,Englisch,AlpenBooks,2.0,Freundschaft;Magie;Reise
+732,Nördliche Schritte #732,Matthias Bauer,2014-01-02,334,true,Drama,872-144327-168-6,12.47,Französisch,Salzburg Media,3.1,Familie;Politik;Technik;Vergangenheit
+733,Feurige Rätsel im Morgengrauen,Nico Steiner,1996-08-15,442,false,Drama,835-978316-867-6,46.34,Italienisch,Tradition & Technik,1.7,Abenteuer;Liebe;Mystery;Krieg
+734,Ewige Schriftrollen im Herbst,Paul Egger,1986-12-31,471,true,Biografie,124-429824-598-3,46.27,Englisch,Tradition & Technik,4.1,Reise;Freundschaft
+735,Geheime Pfad im Herbst,Jonas Gruber,1962-10-08,96,false,Science Fiction,358-610421-508-7,44.21,Französisch,Donau Press,2.9,Liebe;Mystery;Abenteuer;Krieg
+736,Lichter am Bodensee,Sophie Lang,1984-09-05,988,false,Horror,179-727296-401-5,50.16,Italienisch,Salzburg Media,1.2,Krieg;Wissenschaft;Zukunft;Mystery
+737,Sterne im Morgengrauen,Lea Müller,1959-02-02,229,false,Historisch,376-162796-125-8,17.03,Italienisch,Zukunftsverlag,1.1,Wissenschaft;Freundschaft;Reise;Vergangenheit
+738,Versteckte Uhren im Norden,Lukas Kaiser,1996-05-19,679,true,Science Fiction,876-611198-543-8,6.99,Italienisch,Villach Print,3.0,Politik;Wissenschaft
+739,Nördliche Gipfel am Markt,Leon Wagner,2018-05-16,1016,true,Drama,493-389155-503-3,7.3,Französisch,Buchhaus Wien,4.8,Politik;Freundschaft
+740,Kalte Chroniken,Thomas Brandt,1963-08-10,517,false,Sachbuch,315-100594-167-2,52.24,Französisch,Salzburg Media,4.1,Reise;Abenteuer
+741,Südliche Ufer im Tal,Katrin Lang,2022-10-27,1000,true,Kinderbuch,481-991912-580-4,36.74,Italienisch,Zukunftsverlag,3.5,Technik;Abenteuer;Familie
+742,Tiefe Segel am Markt,Sarah Egger,2019-10-29,998,true,Fantasy,544-606877-378-5,56.7,Französisch,Salzburg Media,4.9,Liebe;Freundschaft;Magie;Familie
+743,Geheime Türen,Emilia Wallner,2020-04-15,304,false,Krimi,575-260702-200-8,32.82,Spanisch,Tradition & Technik,2.7,Magie;Krieg;Mystery
+744,Hohe Schatten,Clara Wolf,1955-12-14,873,true,Fantasy,546-525642-934-6,13.47,Spanisch,Buchhaus Wien,2.3,Krieg;Magie;Mystery
+745,Rätsel im Sommer,Clara Weber,2002-10-16,299,false,Krimi,393-355051-725-2,23.49,Italienisch,Zukunftsverlag,3.4,Krieg
+746,Goldene Chroniken,Eva Müller,1963-06-18,633,false,Thriller,912-947352-814-2,59.55,Deutsch,Salzburg Media,1.7,Magie;Wissenschaft
+747,Ewige Kompass im Wald,Marie Schmidt,1964-10-27,994,true,Thriller,139-711176-184-0,38.79,Englisch,AlpenBooks,4.6,Krieg;Magie;Freundschaft;Zukunft
+748,Brennende Brücken an der Grenze,Mia Wagner,1955-10-30,553,false,Sachbuch,261-774720-894-8,10.29,Italienisch,Donau Press,3.8,Politik
+749,Kompass von Salzburg #749,Matthias Koller,2022-09-10,543,true,Historisch,413-407917-769-6,27.99,Englisch,Wort & Welt,3.7,Mystery;Reise
+750,Geheime Stimmen #750,Marie Schmidt,2002-09-22,976,true,Thriller,559-232235-252-1,20.54,Französisch,Zukunftsverlag,3.3,Politik;Vergangenheit;Krieg;Technik
+751,Tiefe Uhren in Graz,Markus Koller,2008-11-13,114,true,Horror,296-461848-167-0,6.73,Französisch,Tradition & Technik,1.7,Reise;Familie;Politik;Wissenschaft
+752,Träume am Fluss,Eva Berger,1987-11-22,754,true,Drama,988-833851-288-0,52.8,Englisch,Wort & Welt,2.7,Wissenschaft;Abenteuer;Liebe;Zukunft
+753,Brennende Seiten,Laura Leitner,1968-02-23,818,true,Fantasy,889-109673-746-5,44.13,Italienisch,Zukunftsverlag,2.3,Reise
+754,Zerbrochene Spuren im Sturm,David Wolf,2009-02-03,958,false,Historisch,380-656656-500-8,59.65,Italienisch,Villach Print,1.8,Reise
+755,Tiefe Türen im Herbst,Nina Eder,1990-12-13,125,true,Fantasy,517-717947-742-1,31.1,Spanisch,Salzburg Media,4.7,Wissenschaft;Freundschaft
+756,Nördliche Karten,Mia Brandt,2008-07-01,952,true,Krimi,784-707716-360-6,19.6,Italienisch,Donau Press,1.2,Mystery;Politik;Liebe;Zukunft
+757,Goldene Chroniken #757,Sarah Leitner,1998-01-08,913,false,Horror,116-626124-989-4,47.29,Deutsch,Salzburg Media,5.0,Technik;Familie
+758,Verbotene Gärten an der Donau,Isabella Gruber,1984-11-25,654,false,Roman,658-787973-305-0,42.68,Deutsch,Zukunftsverlag,3.6,Liebe;Krieg;Abenteuer;Magie
+759,Verbotene Kompass,Maximilian Koch,1964-07-09,1007,false,Kinderbuch,267-478986-199-4,22.02,Italienisch,Steiermark Stories,3.6,Abenteuer
+760,Verlorene Schlüssel,Marie Eder,2019-02-10,893,false,Sachbuch,283-218877-883-7,23.56,Italienisch,Steiermark Stories,2.9,Reise
+761,Hohe Karten im Tal,Sophie Kaiser,1958-04-04,441,true,Krimi,658-362433-842-0,55.1,Italienisch,Nordlicht Verlag,5.0,Abenteuer;Wissenschaft
+762,Brennende Schriftrollen,Matthias Moser,1967-06-03,570,false,Lyrik,459-131236-448-6,48.6,Spanisch,Nordlicht Verlag,4.2,Mystery;Abenteuer;Vergangenheit;Freundschaft
+763,Südliche Gärten im Wald,Eva Berger,1956-01-02,1079,false,Krimi,954-788941-899-7,35.66,Spanisch,Tradition & Technik,2.3,Mystery;Liebe;Zukunft
+764,Spuren über Wien,Tobias Fischer,1951-07-16,1091,false,Biografie,764-455179-525-0,58.33,Spanisch,Nordlicht Verlag,1.5,Freundschaft
+765,Leise Gärten an der Donau,Tobias Wagner,1992-06-22,586,false,Historisch,843-898578-448-1,39.37,Deutsch,Zukunftsverlag,2.0,Magie;Liebe;Krieg;Zukunft
+766,Kompass im Sturm,Matthias Leitner,2023-03-07,468,false,Sachbuch,448-991013-521-1,58.63,Französisch,Nordlicht Verlag,3.0,Politik;Liebe;Zukunft
+767,Wälder von Salzburg,Matthias Huber,1962-05-01,1033,false,Drama,972-204986-471-1,10.23,Französisch,Zukunftsverlag,2.3,Abenteuer
+768,Zerbrochene Blätter im Tal,Emilia Schmidt,1974-10-22,398,false,Historisch,872-667600-979-1,49.64,Italienisch,Villach Print,4.5,Technik;Familie;Magie
+769,Feurige Gärten,Clara Schmidt,1977-12-25,1020,false,Thriller,773-449455-375-0,12.53,Deutsch,Villach Print,1.0,Liebe;Reise;Wissenschaft;Politik
+770,Stille Karten von Salzburg,Tobias Moser,2021-03-30,333,true,Roman,289-779986-682-1,39.7,Deutsch,Salzburg Media,1.9,Abenteuer;Zukunft
+771,Brennende Schlüssel bei Nacht,Anna Wolf,1996-12-01,976,true,Kinderbuch,894-982733-292-7,35.12,Deutsch,Tradition & Technik,1.8,Mystery;Technik;Magie;Wissenschaft
+772,Feurige Blätter #772,Elena Seidl,2001-11-19,374,true,Drama,976-230703-823-6,19.02,Italienisch,Salzburg Media,1.0,Politik
+773,Zerbrochene Gipfel am Markt,Matthias Wagner,2001-09-24,268,false,Drama,222-803619-354-2,44.11,Englisch,Donau Press,4.0,Familie
+774,Träume in Graz #774,Maximilian Bauer,2001-07-19,82,false,Kinderbuch,213-970287-812-0,27.73,Französisch,Donau Press,2.8,Zukunft;Familie
+775,Ewige Wälder,Elena Weber,2009-03-03,611,false,Science Fiction,779-311339-978-2,16.37,Französisch,Donau Press,4.5,Reise;Vergangenheit
+776,Winde am Bodensee #776,Maximilian Müller,1988-11-15,554,true,Fantasy,866-581031-636-4,16.21,Deutsch,Wort & Welt,1.6,Abenteuer;Politik;Liebe
+777,Chroniken im Morgengrauen,Marie Lechner,1990-10-08,436,true,Krimi,560-310684-804-4,51.17,Spanisch,Wort & Welt,1.6,Reise;Abenteuer
+778,Letzte Pfad,Laura Weber,1969-08-21,1090,false,Historisch,757-251720-212-4,44.67,Italienisch,Wort & Welt,3.8,Familie;Technik;Magie
+779,Feurige Wege im Tal,Tobias Brandt,1959-08-12,327,false,Sachbuch,929-356161-875-8,52.07,Italienisch,Steiermark Stories,4.7,Technik;Liebe;Abenteuer;Zukunft
+780,Gärten bei Regen #780,Elena Lechner,1980-08-14,81,false,Roman,211-868206-413-6,18.81,Französisch,Villach Print,1.8,Familie;Freundschaft;Zukunft;Vergangenheit
+781,Ufer im Süden,Laura Egger,1967-08-11,991,true,Fantasy,978-452476-465-7,46.74,Italienisch,Zukunftsverlag,3.0,Technik;Liebe;Krieg;Familie
+782,Geheime Schlüssel bei Nacht,Isabella Schmidt,1968-05-22,558,false,Kinderbuch,174-207599-797-8,29.27,Englisch,Donau Press,4.0,Wissenschaft;Krieg
+783,Erste Wege,Clara Lechner,1986-09-15,203,false,Lyrik,702-571688-314-1,23.74,Englisch,Villach Print,1.5,Vergangenheit;Freundschaft;Technik
+784,Letzte Stimmen im Sommer,Matthias Leitner,1998-07-17,251,false,Kinderbuch,846-106665-962-7,49.94,Englisch,Tradition & Technik,4.5,Krieg
+785,Tiefe Schlüssel im Wald,Maximilian Müller,1988-04-26,793,true,Biografie,871-574329-669-2,6.48,Deutsch,Villach Print,1.1,Mystery;Abenteuer;Zukunft
+786,Dunkle Gipfel,Lea Fuchs,2024-03-21,294,true,Sachbuch,571-164251-777-7,17.41,Englisch,Buchhaus Wien,1.5,Wissenschaft;Familie
+787,Schriftrollen bei Nacht #787,Leon Berger,1955-09-05,933,false,Science Fiction,487-107993-275-5,6.93,Englisch,Tradition & Technik,1.4,Mystery;Krieg
+788,Kalte Ufer,Elena Gruber,2012-10-09,912,true,Kinderbuch,632-848392-668-8,57.25,Italienisch,Villach Print,4.9,Abenteuer;Freundschaft;Technik;Zukunft
+789,Nördliche Winde,Lea Egger,2025-01-23,893,false,Biografie,366-735732-319-0,15.79,Französisch,Tradition & Technik,4.1,Krieg;Freundschaft;Vergangenheit;Abenteuer
+790,Letzte Gipfel,Matthias Moser,1960-02-26,653,false,Lyrik,694-847056-855-2,7.91,Englisch,Steiermark Stories,4.5,Mystery;Liebe
+791,Hohe Türen im Tal,Emilia Moser,1999-07-20,165,true,Historisch,195-372271-367-5,35.19,Englisch,Buchhaus Wien,2.7,Abenteuer;Mystery
+792,Goldene Segel im Sturm,Julia Lang,1956-05-29,512,false,Historisch,182-873577-878-5,30.35,Französisch,Zukunftsverlag,1.1,Vergangenheit
+793,Verlorene Legenden,Sarah Mayr,1952-09-21,165,true,Kinderbuch,927-767984-699-1,9.54,Englisch,Salzburg Media,4.8,Reise
+794,Ewige Stimmen an der Grenze,Anna Mayr,1963-06-09,1092,true,Horror,788-220751-913-8,40.51,Französisch,Wort & Welt,1.6,Freundschaft;Familie
+795,Leise Schatten im Herbst,Laura Pichler,2018-11-25,158,true,Sachbuch,613-751852-907-0,22.28,Spanisch,Buchhaus Wien,3.0,Liebe;Vergangenheit;Freundschaft;Zukunft
+796,Erste Rätsel,Emilia Weber,1980-12-25,731,true,Biografie,841-640950-381-8,13.25,Spanisch,Villach Print,1.5,Abenteuer;Magie;Technik;Mystery
+797,Lichter am Bodensee #797,Sophie Hofer,2023-09-16,254,false,Horror,847-143907-665-0,39.38,Deutsch,Tradition & Technik,1.8,Freundschaft;Vergangenheit;Technik;Reise
+798,Ewige Chroniken über Wien,Florian Egger,2019-11-08,731,false,Historisch,289-231875-166-0,19.73,Deutsch,Nordlicht Verlag,4.5,Technik;Krieg;Vergangenheit
+799,Verlorene Karten am Markt,Isabella Steiner,1965-12-02,640,false,Science Fiction,354-640712-298-6,44.5,Englisch,Steiermark Stories,3.6,Magie;Mystery;Abenteuer;Krieg
+800,Feurige Seiten #800,Katrin Hofer,2015-02-18,254,false,Lyrik,785-799378-848-4,27.42,Englisch,Buchhaus Wien,2.0,Vergangenheit;Zukunft;Abenteuer;Wissenschaft
+801,Brennende Winde in Graz,Paul Hofer,2019-10-29,337,true,Fantasy,941-509137-398-6,13.62,Französisch,Wort & Welt,4.5,Abenteuer
+802,Chroniken von Innsbruck #802,Eva Wolf,1983-02-09,428,false,Roman,400-300982-986-0,41.78,Spanisch,Tradition & Technik,2.2,Magie;Technik;Freundschaft
+803,Brennende Sterne über Wien,Florian Gruber,2015-07-25,191,true,Historisch,814-625304-631-2,50.67,Französisch,Zukunftsverlag,3.9,Reise;Freundschaft
+804,Dunkle Kompass am Fluss,Lukas Hofer,2011-08-14,734,true,Sachbuch,344-314580-321-3,58.34,Französisch,Donau Press,4.3,Freundschaft;Wissenschaft;Krieg
+805,Gipfel von Innsbruck,Sarah Wagner,2022-04-22,184,true,Kinderbuch,714-576833-638-7,44.67,Deutsch,Steiermark Stories,1.2,Mystery;Freundschaft
+806,Zerbrochene Schatten,Felix Wagner,1986-05-02,739,true,Krimi,140-526400-975-0,44.78,Deutsch,Villach Print,4.0,Vergangenheit;Wissenschaft;Politik;Krieg
+807,Segel bei Nacht,Florian Moser,2014-08-15,964,false,Fantasy,110-293807-313-0,59.85,Deutsch,Villach Print,1.4,Krieg;Technik;Abenteuer;Freundschaft
+808,Verlorene Schlüssel im Süden,David Koller,2007-02-18,799,false,Kinderbuch,390-963020-710-1,57.82,Spanisch,Buchhaus Wien,4.5,Politik;Wissenschaft
+809,Ewige Träume am Bodensee,Marie Hofer,2004-02-28,152,false,Historisch,754-909361-688-4,10.99,Französisch,Donau Press,1.9,Wissenschaft;Liebe;Freundschaft;Abenteuer
+810,Spuren von Salzburg #810,Thomas Mayr,1964-02-23,1044,true,Drama,617-255065-175-3,29.82,Französisch,Zukunftsverlag,2.7,Magie
+811,Verbotene Träume,Sebastian Moser,1986-07-15,1043,false,Biografie,745-122286-896-5,18.07,Spanisch,Tradition & Technik,2.7,Technik
+812,Stille Ufer im Sturm,Elena Eder,1951-08-12,1041,true,Krimi,995-158077-632-3,24.87,Spanisch,Villach Print,1.4,Politik
+813,Nördliche Brücken,David Mayr,1969-02-04,182,false,Krimi,360-457075-464-0,49.96,Italienisch,Steiermark Stories,1.7,Reise
+814,Südliche Winde bei Regen,Peter Brandt,1962-10-17,716,true,Historisch,951-376596-397-0,11.37,Französisch,Steiermark Stories,1.0,Vergangenheit;Mystery;Wissenschaft;Magie
+815,Südliche Legenden,Katrin Seidl,1999-05-15,834,false,Roman,517-148360-317-3,40.48,Italienisch,Nordlicht Verlag,1.2,Reise;Zukunft;Liebe
+816,Dunkle Segel im Norden,Tobias Lechner,2013-06-23,146,false,Sachbuch,687-290608-116-7,59.55,Italienisch,AlpenBooks,2.6,Vergangenheit;Freundschaft;Zukunft;Politik
+817,Verbotene Schriftrollen bei Regen,Peter Egger,2018-02-20,694,false,Lyrik,794-898054-974-7,9.93,Italienisch,Wort & Welt,1.6,Freundschaft;Politik;Familie
+818,Letzte Träume am Fluss,Tobias Bauer,1976-05-31,101,false,Sachbuch,683-748841-911-3,57.43,Englisch,Nordlicht Verlag,1.7,Magie;Abenteuer
+819,Nebel im Wald #819,Nina Schmidt,1986-08-03,717,false,Historisch,584-262530-507-1,30.14,Spanisch,Buchhaus Wien,3.6,Zukunft;Mystery
+820,Türen von Innsbruck,Sebastian Egger,1969-10-09,413,false,Drama,470-781773-349-8,12.62,Italienisch,Buchhaus Wien,4.3,Liebe;Wissenschaft;Politik
+821,Stille Träume im Wald,Julia Koch,1980-08-16,110,false,Roman,515-719196-881-5,34.95,Englisch,Tradition & Technik,3.6,Vergangenheit
+822,Feurige Blätter im Süden,Sophie Koch,2006-07-21,154,false,Krimi,115-689083-593-6,10.4,Englisch,Donau Press,4.2,Freundschaft;Wissenschaft;Krieg
+823,Schriftrollen in Graz,Florian Leitner,1985-10-07,634,true,Drama,915-910701-418-8,19.95,Deutsch,Buchhaus Wien,4.3,Reise;Mystery
+824,Verlorene Kompass #824,Isabella Pichler,1988-12-16,694,false,Horror,164-157829-219-6,32.71,Deutsch,Nordlicht Verlag,3.7,Liebe;Vergangenheit;Krieg
+825,Segel am Bodensee,Julia Steiner,1975-01-20,162,true,Drama,174-999507-855-5,7.99,Spanisch,AlpenBooks,4.5,Freundschaft;Reise
+826,Kalte Pfad im Sturm,Lukas Mayr,1983-01-18,305,false,Sachbuch,117-619326-551-7,37.94,Spanisch,AlpenBooks,1.2,Abenteuer;Zukunft;Politik;Familie
+827,Geheime Seiten im Sturm,Sophie Müller,1999-11-01,897,true,Science Fiction,842-755768-945-7,55.76,Deutsch,AlpenBooks,3.3,Vergangenheit
+828,Wege im Süden #828,Clara Pichler,2010-07-11,626,true,Krimi,303-312511-564-3,9.91,Englisch,Zukunftsverlag,2.4,Mystery;Wissenschaft
+829,Ufer im Winter #829,Nina Seidl,1957-02-06,555,true,Roman,794-206594-180-9,13.99,Spanisch,Nordlicht Verlag,1.9,Mystery;Technik;Familie;Wissenschaft
+830,Nördliche Schatten,Nina Lechner,1980-12-12,465,true,Krimi,558-177946-783-8,21.32,Französisch,Villach Print,1.2,Freundschaft;Wissenschaft
+831,Geheime Legenden,Jonas Hofer,1995-10-12,124,false,Thriller,541-388769-391-0,18.01,Englisch,Wort & Welt,4.3,Reise;Technik;Krieg;Abenteuer
+832,Gipfel im Sommer,Katrin Pichler,1965-04-12,1017,true,Fantasy,953-269320-754-1,53.3,Italienisch,Steiermark Stories,4.3,Familie
+833,Erste Segel #833,Clara Koch,1965-05-25,666,false,Kinderbuch,949-615171-903-9,29.09,Spanisch,Donau Press,4.5,Krieg;Technik
+834,Leise Kompass,David Koch,1952-08-13,426,true,Science Fiction,856-124031-604-9,34.95,Spanisch,Tradition & Technik,3.7,Reise
+835,Horizont am Bodensee,Jonas Wallner,1994-07-17,321,false,Historisch,898-946835-250-0,25.08,Deutsch,Tradition & Technik,3.2,Familie
+836,Ferne Schlüssel,Peter Fischer,1979-06-02,770,true,Horror,795-791593-474-0,47.75,Italienisch,Salzburg Media,4.7,Politik;Freundschaft;Abenteuer
+837,Goldene Segel von Salzburg,Marie Lechner,1962-06-13,415,false,Science Fiction,873-723033-140-8,37.48,Französisch,Donau Press,2.7,Vergangenheit;Technik;Liebe
+838,Geheime Rätsel #838,Clara Schmidt,1979-09-08,897,true,Drama,808-865079-335-8,28.82,Italienisch,Wort & Welt,3.0,Familie;Abenteuer;Magie
+839,Versteckte Legenden an der Grenze,Sebastian Moser,2006-06-23,147,false,Sachbuch,455-573813-741-8,32.91,Deutsch,Salzburg Media,1.4,Mystery;Technik
+840,Flammen im Süden,Laura Fuchs,1998-05-19,867,false,Roman,126-745485-562-4,25.92,Deutsch,Villach Print,1.3,Reise;Freundschaft;Technik;Vergangenheit
+841,Türen im Sturm,Isabella Egger,2001-07-20,1017,false,Science Fiction,835-986582-257-2,22.61,Italienisch,Donau Press,3.0,Vergangenheit
+842,Leise Wälder im Morgengrauen,Anna Weber,2007-09-26,270,false,Krimi,477-154391-812-4,53.57,Französisch,Tradition & Technik,2.5,Familie;Reise;Freundschaft
+843,Verlorene Kompass #843,Paul Maier,1975-01-31,1001,false,Kinderbuch,450-993891-483-4,18.82,Italienisch,Tradition & Technik,2.8,Mystery;Abenteuer;Wissenschaft;Freundschaft
+844,Schritte von Innsbruck #844,Peter Wagner,2011-04-28,625,false,Sachbuch,908-510397-950-3,52.65,Englisch,Steiermark Stories,4.8,Wissenschaft
+845,Schritte am Markt,Marie Wolf,2011-01-20,1017,true,Historisch,879-454301-839-7,14.78,Französisch,Tradition & Technik,1.7,Politik;Freundschaft
+846,Letzte Wälder,Sebastian Egger,2020-02-17,782,true,Krimi,981-628986-208-8,44.08,Französisch,Zukunftsverlag,1.1,Technik;Magie;Politik;Vergangenheit
+847,Wege an der Grenze #847,David Eder,1993-10-05,871,false,Sachbuch,329-107971-298-4,39.55,Deutsch,Steiermark Stories,4.3,Krieg
+848,Seiten im Sommer,Lea Schmidt,1967-11-13,614,false,Biografie,695-347482-375-0,9.73,Französisch,Donau Press,2.6,Wissenschaft
+849,Flammen an der Donau,David Kral,1979-05-29,287,true,Kinderbuch,277-483894-734-3,49.96,Spanisch,Steiermark Stories,1.4,Reise;Wissenschaft;Liebe;Familie
+850,Erste Legenden im Sturm,Matthias Wallner,2007-09-19,901,true,Thriller,136-914044-462-2,30.11,Italienisch,Steiermark Stories,4.8,Zukunft
+851,Brennende Schatten bei Regen,Lukas Egger,2015-09-19,934,true,Science Fiction,106-384879-469-2,17.93,Italienisch,Steiermark Stories,3.2,Politik;Abenteuer;Zukunft
+852,Türen bei Nacht,Elena Schmidt,1979-02-09,964,false,Historisch,525-930782-872-7,34.64,Französisch,Wort & Welt,4.5,Reise;Zukunft
+853,Segel am Fluss,Eva Brandt,2010-01-18,366,false,Biografie,850-716899-532-5,48.81,Französisch,Villach Print,2.2,Magie;Freundschaft
+854,Goldene Chroniken #854,Matthias Koch,1979-10-24,106,true,Fantasy,140-144957-259-4,25.49,Englisch,Villach Print,3.6,Krieg;Mystery
+855,Stille Chroniken #855,David Wallner,1978-06-22,150,true,Biografie,448-603871-134-8,16.23,Spanisch,Steiermark Stories,4.0,Magie
+856,Uhren im Morgengrauen,Sebastian Egger,1984-05-14,475,false,Kinderbuch,602-251070-611-3,28.27,Spanisch,Wort & Welt,3.6,Zukunft;Liebe
+857,Ewige Legenden #857,Sebastian Mayr,2013-02-17,251,false,Sachbuch,314-172973-638-3,49.3,Englisch,Steiermark Stories,4.2,Zukunft
+858,Zerbrochene Schriftrollen,Marie Wagner,1967-12-17,701,true,Lyrik,107-757364-412-9,10.09,Spanisch,Buchhaus Wien,4.5,Politik;Magie
+859,Schritte in Graz #859,Matthias Moser,1991-07-22,433,true,Roman,885-594572-513-8,43.84,Spanisch,AlpenBooks,4.1,Reise;Vergangenheit;Wissenschaft
+860,Gipfel im Norden,Nina Steiner,1973-10-31,575,true,Roman,983-698966-133-5,12.83,Deutsch,Steiermark Stories,4.3,Politik;Familie;Technik;Mystery
+861,Stille Nebel am Bodensee,Nina Wallner,1966-04-19,815,false,Thriller,760-591543-279-1,30.14,Englisch,Donau Press,2.8,Freundschaft;Familie
+862,Ferne Schriftrollen über Wien,David Maier,1965-06-24,238,false,Drama,729-324498-858-6,53.49,Deutsch,Tradition & Technik,4.2,Familie
+863,Schlüssel bei Regen,Nina Wagner,1971-03-20,998,true,Lyrik,472-836593-350-9,52.06,Italienisch,Donau Press,2.3,Magie;Politik;Krieg
+864,Gipfel im Winter #864,Eva Mayr,1994-03-28,304,true,Horror,396-359140-120-9,23.29,Französisch,Villach Print,4.2,Freundschaft;Zukunft;Krieg;Abenteuer
+865,Seiten im Wald,Nico Müller,1966-10-04,664,true,Thriller,265-158130-439-3,41.67,Italienisch,Salzburg Media,4.0,Zukunft;Krieg;Mystery;Reise
+866,Versteckte Träume im Wald,Nina Seidl,1996-07-22,328,true,Fantasy,931-808020-870-1,12.41,Französisch,Tradition & Technik,3.9,Technik
+867,Ferne Stimmen,Markus Schmidt,1973-10-20,859,false,Drama,930-819338-576-8,32.69,Italienisch,Salzburg Media,2.4,Zukunft;Vergangenheit
+868,Ewige Kompass im Morgengrauen,Sophie Maier,1971-03-31,732,false,Fantasy,917-978554-868-0,16.11,Französisch,Wort & Welt,1.9,Familie;Krieg;Freundschaft;Vergangenheit
+869,Ufer im Winter #869,Marie Fischer,2024-12-05,972,true,Krimi,992-863319-684-1,6.26,Englisch,Villach Print,1.7,Familie;Liebe;Krieg
+870,Spuren im Sommer #870,Maximilian Steiner,2015-12-07,603,true,Drama,943-305869-105-9,27.86,Spanisch,Nordlicht Verlag,1.8,Krieg;Freundschaft;Vergangenheit;Abenteuer
+871,Stimmen im Sturm #871,Eva Wagner,1960-05-14,292,true,Lyrik,817-582706-519-7,46.4,Englisch,Buchhaus Wien,1.5,Krieg
+872,Feurige Nebel,Paul Wagner,1966-03-19,122,true,Kinderbuch,132-568179-239-5,41.39,Italienisch,Salzburg Media,4.7,Freundschaft;Zukunft
+873,Zerbrochene Stimmen im Herbst,Tobias Fuchs,1988-09-15,469,true,Historisch,113-792413-283-7,40.78,Französisch,Steiermark Stories,1.4,Abenteuer;Krieg;Zukunft
+874,Wege bei Regen #874,Katrin Weber,2006-02-07,617,true,Biografie,980-109166-690-5,59.01,Englisch,Villach Print,2.1,Liebe;Freundschaft
+875,Ewige Lichter,Eva Weber,2025-04-30,889,true,Kinderbuch,853-786981-101-3,44.36,Italienisch,Villach Print,2.4,Liebe;Krieg;Mystery;Reise
+876,Geheime Karten,Felix Koch,1982-03-18,642,true,Biografie,496-421855-880-2,16.66,Deutsch,Wort & Welt,4.8,Liebe;Abenteuer
+877,Sterne am Bodensee,Elena Bauer,1982-06-18,708,true,Krimi,670-618895-384-0,14.15,Italienisch,Buchhaus Wien,2.8,Politik
+878,Legenden im Wald,Anna Koch,1970-06-22,213,true,Sachbuch,643-781673-209-5,22.57,Englisch,Buchhaus Wien,1.9,Liebe;Mystery;Vergangenheit
+879,Verlorene Seiten,Sophie Seidl,1986-05-20,1059,false,Lyrik,562-486469-533-4,39.26,Französisch,Salzburg Media,3.4,Wissenschaft;Magie;Politik
+880,Letzte Karten,Laura Kral,1959-07-20,220,false,Sachbuch,572-555275-102-1,7.43,Deutsch,Nordlicht Verlag,4.2,Liebe
+881,Verlorene Chroniken,Clara Mayr,2021-02-06,502,false,Thriller,560-518002-382-1,31.89,Spanisch,Steiermark Stories,1.2,Technik
+882,Ewige Flammen #882,Paul Wagner,2003-03-07,111,false,Thriller,450-838516-162-7,9.64,Italienisch,Buchhaus Wien,2.6,Mystery
+883,Nördliche Horizont,Emilia Schneider,1957-02-24,1072,true,Sachbuch,469-656473-382-7,21.51,Spanisch,AlpenBooks,1.5,Liebe;Vergangenheit
+884,Kalte Schritte im Norden,Nina Wallner,1997-05-19,772,true,Horror,820-550347-710-4,32.29,Englisch,Nordlicht Verlag,3.2,Mystery;Familie;Vergangenheit
+885,Feurige Schritte im Winter,Clara Leitner,2025-03-18,527,false,Horror,942-256147-180-5,37.18,Italienisch,Donau Press,4.3,Liebe;Vergangenheit;Zukunft;Magie
+886,Winde bei Nacht #886,Paul Hofer,1979-08-21,721,false,Thriller,914-222137-151-7,37.37,Spanisch,Nordlicht Verlag,4.7,Liebe
+887,Erste Blätter von Innsbruck,Nina Eder,1999-07-12,149,false,Drama,875-833933-978-4,36.58,Französisch,Donau Press,3.7,Wissenschaft
+888,Dunkle Karten,Julia Egger,1995-01-09,118,false,Sachbuch,762-970455-712-7,56.11,Spanisch,Villach Print,3.1,Familie;Mystery;Vergangenheit;Krieg
+889,Nördliche Blätter,Nico Wolf,1960-10-16,913,false,Drama,669-886334-399-1,27.6,Spanisch,Nordlicht Verlag,1.6,Magie;Liebe;Reise;Familie
+890,Erste Schlüssel von Innsbruck,Thomas Maier,2018-05-19,410,false,Krimi,854-822347-627-9,37.73,Italienisch,Villach Print,4.6,Vergangenheit;Liebe;Krieg;Magie
+891,Kalte Legenden #891,Katrin Wagner,1952-05-12,299,false,Historisch,571-959636-653-2,10.81,Spanisch,Buchhaus Wien,4.4,Familie
+892,Erste Ufer bei Regen,Sarah Huber,1971-02-07,458,false,Drama,685-637872-709-8,53.67,Italienisch,Salzburg Media,4.6,Krieg
+893,Wege bei Regen #893,Sebastian Steiner,2002-09-21,1067,true,Lyrik,620-132019-934-1,58.38,Spanisch,Wort & Welt,2.2,Abenteuer;Krieg
+894,Rätsel im Norden #894,Sebastian Pichler,2016-02-28,1029,true,Science Fiction,619-491956-548-0,34.65,Deutsch,Buchhaus Wien,2.0,Politik
+895,Wälder im Sommer #895,Katrin Huber,2024-05-10,942,true,Krimi,489-690798-187-4,37.76,Deutsch,Nordlicht Verlag,4.7,Familie;Freundschaft;Magie;Abenteuer
+896,Kalte Türen im Morgengrauen,Leon Lang,2015-02-25,850,false,Lyrik,968-600313-780-0,19.69,Italienisch,Zukunftsverlag,1.9,Magie
+897,Tiefe Winde #897,Paul Fischer,1988-04-27,125,false,Historisch,757-360163-281-7,20.63,Italienisch,Steiermark Stories,1.9,Wissenschaft;Krieg;Reise;Freundschaft
+898,Feurige Schritte im Herbst,Peter Schmidt,2004-04-03,1028,false,Lyrik,389-975651-724-6,26.11,Englisch,Wort & Welt,4.7,Liebe;Magie;Reise;Technik
+899,Träume im Tal,Nico Müller,1963-09-21,654,true,Horror,245-267570-464-9,46.8,Spanisch,Wort & Welt,3.2,Liebe;Technik
+900,Letzte Karten bei Regen,Jonas Moser,2012-07-03,593,true,Fantasy,546-244136-364-6,31.37,Italienisch,Salzburg Media,3.4,Politik
+901,Hohe Schriftrollen,Marie Huber,1976-11-27,155,true,Thriller,700-893445-842-3,24.68,Italienisch,AlpenBooks,5.0,Zukunft;Politik
+902,Letzte Spuren,Laura Mayr,1986-07-28,995,true,Roman,354-145918-360-5,35.6,Deutsch,Tradition & Technik,2.3,Abenteuer
+903,Sterne am Markt #903,Florian Hofer,1994-06-18,228,true,Drama,199-549752-425-0,53.02,Französisch,Wort & Welt,1.1,Politik;Krieg;Reise;Familie
+904,Goldene Gärten im Morgengrauen,Leon Berger,1973-03-17,688,false,Historisch,745-143862-659-8,57.6,Deutsch,Tradition & Technik,2.8,Krieg;Magie
+905,Nördliche Karten #905,Elena Pichler,1959-05-21,886,true,Biografie,737-293680-503-6,57.1,Italienisch,Tradition & Technik,3.5,Zukunft;Freundschaft
+906,Horizont an der Grenze #906,Nina Lang,1977-12-16,1032,false,Drama,419-822142-987-1,23.0,Italienisch,Wort & Welt,4.9,Krieg
+907,Hohe Träume,Eva Egger,2010-12-18,264,true,Lyrik,899-600964-469-3,43.33,Spanisch,Buchhaus Wien,2.4,Reise
+908,Kalte Kompass #908,Eva Schmidt,1970-05-16,932,false,Historisch,926-514067-312-6,22.29,Spanisch,AlpenBooks,1.4,Wissenschaft;Vergangenheit;Freundschaft
+909,Feurige Schatten #909,Anna Schmidt,1952-03-22,688,false,Drama,408-946194-239-4,34.17,Italienisch,Wort & Welt,1.7,Politik;Vergangenheit;Familie
+910,Chroniken bei Regen,Julia Koch,1988-09-12,589,false,Biografie,908-556973-368-2,5.79,Französisch,Zukunftsverlag,2.7,Reise;Vergangenheit;Wissenschaft
+911,Verlorene Blätter im Winter,Sarah Hofer,2018-11-26,406,false,Krimi,900-631021-924-9,6.59,Englisch,Donau Press,4.4,Magie;Politik;Zukunft
+912,Ferne Gärten,Elena Schneider,2012-11-08,376,true,Horror,747-450226-718-9,24.09,Deutsch,Buchhaus Wien,3.8,Abenteuer;Vergangenheit;Krieg;Zukunft
+913,Verbotene Schritte #913,Florian Kaiser,1990-07-18,518,false,Science Fiction,810-788541-585-4,27.07,Französisch,Villach Print,1.3,Krieg
+914,Ferne Karten,Matthias Bauer,1958-04-13,461,false,Historisch,934-363403-646-8,40.17,Deutsch,Buchhaus Wien,4.0,Krieg
+915,Blätter im Morgengrauen #915,Jonas Koller,2013-10-13,586,false,Roman,300-182976-277-9,37.75,Französisch,Salzburg Media,4.7,Vergangenheit
+916,Flammen im Sturm,Matthias Koch,2021-02-06,349,false,Lyrik,931-545632-177-2,45.17,Englisch,Buchhaus Wien,1.8,Mystery;Zukunft;Reise
+917,Schlüssel bei Nacht,Sophie Berger,2002-10-26,827,false,Historisch,149-583607-667-5,58.55,Englisch,Zukunftsverlag,4.9,Magie;Abenteuer
+918,Leise Horizont,Florian Gruber,1995-03-03,412,false,Biografie,916-888971-374-0,6.73,Spanisch,Wort & Welt,2.2,Magie;Familie;Reise
+919,Gipfel im Sturm #919,Isabella Fuchs,1956-11-18,194,true,Krimi,257-847556-558-4,47.34,Italienisch,Salzburg Media,3.7,Reise
+920,Rätsel im Süden,Florian Fuchs,1971-10-17,760,true,Lyrik,794-878317-270-7,14.33,Englisch,Steiermark Stories,3.2,Krieg;Reise
+921,Horizont über Wien,Peter Moser,1955-06-15,900,false,Drama,902-505824-352-0,19.02,Englisch,Buchhaus Wien,2.5,Wissenschaft;Zukunft
+922,Brennende Schriftrollen im Sturm,Maximilian Egger,1970-08-02,418,false,Sachbuch,112-137501-978-1,33.31,Spanisch,Salzburg Media,2.9,Technik;Krieg;Politik
+923,Schritte am Markt #923,Maximilian Leitner,2010-02-10,1058,true,Sachbuch,537-156085-945-8,16.56,Italienisch,Zukunftsverlag,3.8,Freundschaft;Vergangenheit;Mystery;Reise
+924,Leise Ufer über Wien,Peter Wolf,2008-05-25,853,false,Kinderbuch,785-436067-346-9,11.78,Italienisch,Salzburg Media,4.8,Technik;Zukunft;Politik
+925,Tiefe Blätter bei Nacht,Tobias Pichler,1996-02-27,875,true,Kinderbuch,713-163880-413-5,31.47,Englisch,Salzburg Media,1.4,Familie;Abenteuer;Magie;Politik
+926,Dunkle Chroniken #926,Marie Wallner,2015-05-24,1090,false,Kinderbuch,490-844984-358-2,19.73,Englisch,Steiermark Stories,3.6,Abenteuer;Technik;Mystery;Familie
+927,Stille Träume an der Donau,Peter Wolf,1999-04-26,591,true,Roman,680-320295-276-8,52.68,Deutsch,Villach Print,3.2,Abenteuer;Vergangenheit
+928,Dunkle Schriftrollen,Paul Müller,1966-08-10,315,true,Fantasy,116-166092-808-8,26.23,Spanisch,Tradition & Technik,1.5,Technik
+929,Hohe Kompass bei Regen,Clara Kaiser,2010-09-18,572,false,Thriller,111-674348-185-4,15.41,Spanisch,Nordlicht Verlag,2.2,Technik;Magie
+930,Pfad von Innsbruck,Peter Huber,2002-11-25,602,false,Science Fiction,382-541597-901-8,40.28,Englisch,Zukunftsverlag,2.2,Familie;Krieg;Liebe
+931,Zerbrochene Gipfel,Florian Müller,1991-01-02,935,false,Roman,103-488034-936-4,56.89,Italienisch,Tradition & Technik,2.8,Wissenschaft
+932,Dunkle Winde #932,Elena Brandt,2009-12-20,479,false,Thriller,175-113675-762-6,55.39,Französisch,Nordlicht Verlag,3.8,Magie;Liebe
+933,Türen am Fluss,Paul Weber,2005-02-04,917,false,Drama,375-909947-733-7,7.31,Italienisch,Buchhaus Wien,2.5,Politik;Vergangenheit
+934,Zerbrochene Uhren bei Regen,Leon Weber,1997-12-07,823,false,Drama,514-267044-497-9,30.25,Deutsch,Steiermark Stories,1.9,Technik;Vergangenheit;Zukunft;Freundschaft
+935,Südliche Segel,Katrin Wolf,2007-06-30,576,false,Thriller,472-132122-479-9,28.58,Französisch,Salzburg Media,4.4,Politik;Liebe;Freundschaft;Mystery
+936,Verlorene Brücken,Leon Koch,2012-12-09,862,false,Science Fiction,969-761714-634-9,35.75,Englisch,Tradition & Technik,1.1,Technik
+937,Tiefe Lichter,Clara Wagner,1956-07-14,882,false,Biografie,622-429624-220-7,31.77,Französisch,Nordlicht Verlag,3.7,Reise;Magie
+938,Seiten von Salzburg #938,Sarah Huber,1958-08-31,634,false,Lyrik,664-251680-387-1,38.47,Italienisch,Tradition & Technik,4.8,Magie;Abenteuer;Zukunft;Familie
+939,Südliche Wälder im Morgengrauen,Tobias Huber,1990-04-22,134,false,Sachbuch,838-866940-475-4,55.39,Deutsch,Steiermark Stories,2.4,Wissenschaft;Reise;Liebe
+940,Winde im Morgengrauen,Leon Müller,2001-11-08,224,true,Biografie,608-970847-100-9,5.99,Deutsch,Nordlicht Verlag,3.5,Zukunft;Wissenschaft
+941,Karten am Bodensee,Nico Maier,1968-12-14,927,true,Science Fiction,281-627537-266-8,38.61,Französisch,Buchhaus Wien,1.2,Technik;Familie;Vergangenheit;Abenteuer
+942,Erste Horizont #942,Nico Gruber,1958-01-31,219,false,Thriller,498-668585-913-5,5.34,Deutsch,Buchhaus Wien,4.1,Krieg
+943,Tiefe Lichter #943,Anna Egger,1965-12-20,944,false,Thriller,935-788848-188-5,15.23,Deutsch,Buchhaus Wien,4.0,Vergangenheit;Reise
+944,Tiefe Träume,Felix Schmidt,1952-12-11,553,true,Horror,707-429158-796-0,5.25,Spanisch,Wort & Welt,4.6,Technik
+945,Verbotene Türen am Fluss,Matthias Hofer,1970-05-14,910,false,Drama,634-591074-523-9,35.54,Englisch,Tradition & Technik,2.4,Magie;Reise;Krieg
+946,Schriftrollen im Tal,Julia Kaiser,2014-09-06,607,false,Science Fiction,307-943866-418-8,9.55,Deutsch,Buchhaus Wien,2.0,Abenteuer
+947,Gärten bei Regen #947,Katrin Egger,1986-03-07,307,false,Thriller,579-411185-318-5,29.08,Italienisch,Donau Press,2.3,Politik;Technik
+948,Feurige Legenden,Maximilian Moser,1989-01-23,119,false,Science Fiction,298-716862-661-3,59.43,Französisch,Wort & Welt,4.7,Technik;Magie
+949,Versteckte Chroniken,Emilia Weber,2021-07-29,1009,false,Sachbuch,515-244598-653-0,23.2,Deutsch,Salzburg Media,4.3,Zukunft;Liebe;Politik
+950,Flammen an der Grenze,David Fischer,1957-03-08,452,false,Roman,310-691995-287-0,37.67,Italienisch,Zukunftsverlag,4.6,Krieg;Liebe;Reise
+951,Verbotene Gipfel über Wien,Katrin Egger,1959-02-16,990,true,Thriller,202-585175-897-8,56.78,Deutsch,Villach Print,4.9,Abenteuer
+952,Chroniken im Herbst #952,Matthias Lang,2011-03-09,478,true,Kinderbuch,281-276360-749-0,27.34,Italienisch,Zukunftsverlag,4.7,Magie;Zukunft;Krieg
+953,Ferne Wege im Tal,Katrin Wagner,1966-05-08,528,false,Drama,465-162412-110-2,52.3,Deutsch,Nordlicht Verlag,2.3,Mystery;Zukunft;Abenteuer
+954,Chroniken im Wald,Maximilian Lang,2006-11-08,991,false,Fantasy,548-396243-144-7,10.49,Spanisch,Donau Press,4.4,Freundschaft;Technik;Liebe;Wissenschaft
+955,Tiefe Kompass im Norden,Peter Müller,1970-09-09,762,false,Thriller,149-110195-502-4,57.66,Italienisch,Donau Press,4.9,Mystery
+956,Tiefe Ufer über Wien,Maximilian Fischer,1961-04-23,1040,true,Krimi,538-147822-618-9,43.43,Französisch,Nordlicht Verlag,1.3,Familie;Freundschaft;Krieg
+957,Versteckte Rätsel,Julia Egger,1965-08-20,1062,false,Biografie,878-886476-349-5,42.73,Französisch,AlpenBooks,1.2,Krieg;Liebe;Zukunft;Politik
+958,Blätter im Wald,Anna Steiner,1951-09-22,487,false,Historisch,160-177267-659-6,44.44,Spanisch,Wort & Welt,1.2,Reise;Technik
+959,Horizont im Sturm,Matthias Brandt,1969-07-17,758,true,Sachbuch,414-709278-815-5,52.4,Deutsch,Buchhaus Wien,2.6,Politik;Abenteuer;Wissenschaft;Familie
+960,Zerbrochene Schritte,Peter Fischer,2024-04-28,91,true,Krimi,488-428312-361-2,54.44,Englisch,Wort & Welt,1.4,Abenteuer;Freundschaft;Liebe
+961,Ferne Kompass im Wald,Matthias Eder,1963-05-30,304,false,Sachbuch,438-997593-197-1,5.84,Deutsch,Villach Print,1.2,Familie;Liebe;Wissenschaft;Mystery
+962,Leise Türen,Clara Koch,1995-10-17,339,true,Roman,219-192679-493-6,29.42,Englisch,Villach Print,4.7,Familie;Wissenschaft;Reise
+963,Gärten im Wald,Nina Kaiser,1998-09-20,541,true,Drama,981-295106-189-2,37.64,Italienisch,Tradition & Technik,2.2,Liebe;Mystery;Zukunft;Politik
+964,Ferne Chroniken über Wien,Markus Berger,1962-09-10,548,true,Historisch,291-181513-361-7,59.08,Deutsch,Villach Print,1.5,Krieg;Vergangenheit;Wissenschaft;Abenteuer
+965,Leise Wege #965,Lea Fuchs,1988-09-15,797,false,Thriller,762-933892-722-2,8.71,Italienisch,Nordlicht Verlag,3.1,Zukunft;Liebe;Familie;Wissenschaft
+966,Stille Winde an der Donau,Florian Bauer,1995-02-20,527,true,Biografie,440-676966-663-1,45.17,Französisch,Villach Print,4.0,Abenteuer;Zukunft;Krieg;Politik
+967,Brennende Stimmen am Bodensee,Florian Eder,1980-06-22,1019,true,Historisch,883-947559-816-9,52.19,Deutsch,Steiermark Stories,4.9,Technik;Freundschaft
+968,Rätsel von Salzburg #968,Sarah Pichler,1974-10-09,419,false,Sachbuch,987-156015-773-1,59.75,Englisch,AlpenBooks,3.9,Abenteuer;Liebe;Zukunft;Vergangenheit
+969,Zerbrochene Seiten im Herbst,Nina Wagner,2006-02-04,1028,false,Krimi,238-794666-259-0,18.86,Französisch,Wort & Welt,2.9,Familie;Mystery;Abenteuer
+970,Brennende Gipfel an der Donau,Marie Koch,1982-04-16,671,false,Krimi,817-110703-789-2,45.46,Deutsch,AlpenBooks,1.1,Liebe;Magie
+971,Geheime Schlüssel im Sturm,Leon Berger,1989-05-18,589,true,Roman,812-208250-349-5,44.48,Deutsch,AlpenBooks,3.0,Wissenschaft;Liebe;Politik;Magie
+972,Spuren über Wien #972,Katrin Kral,1955-02-26,432,false,Drama,336-968406-550-7,30.28,Spanisch,Villach Print,1.4,Abenteuer;Krieg
+973,Verlorene Pfad von Salzburg,Julia Huber,1987-04-19,779,false,Lyrik,860-177623-580-4,25.8,Italienisch,Buchhaus Wien,4.4,Freundschaft;Zukunft
+974,Zerbrochene Ufer über Wien,Maximilian Gruber,2025-07-21,1068,false,Sachbuch,168-750210-496-6,13.92,Italienisch,Nordlicht Verlag,4.2,Krieg;Politik
+975,Wege im Morgengrauen #975,Lukas Fischer,1986-05-31,650,false,Horror,961-512359-571-0,26.07,Spanisch,AlpenBooks,1.3,Wissenschaft;Vergangenheit;Liebe;Magie
+976,Verbotene Gärten am Markt,Mia Steiner,1953-03-31,531,false,Horror,301-818125-413-9,47.36,Englisch,Villach Print,2.7,Magie
+977,Hohe Nebel von Salzburg,Nico Fuchs,1961-08-13,946,true,Roman,544-974536-220-1,21.25,Englisch,Wort & Welt,1.9,Familie;Abenteuer;Wissenschaft;Technik
+978,Versteckte Karten im Sturm,Paul Wolf,1996-03-05,950,false,Fantasy,646-870653-604-9,57.27,Italienisch,Nordlicht Verlag,4.0,Abenteuer;Familie;Mystery;Magie
+979,Goldene Kompass an der Grenze,Tobias Wolf,1984-02-12,349,true,Historisch,446-944101-345-2,44.61,Französisch,Salzburg Media,4.9,Wissenschaft;Familie
+980,Ewige Türen,Emilia Gruber,1972-01-11,346,false,Fantasy,928-823018-346-1,9.33,Französisch,Steiermark Stories,3.0,Wissenschaft
+981,Erste Lichter im Winter,Florian Mayr,1985-01-09,1018,false,Lyrik,375-623637-438-7,27.08,Französisch,Zukunftsverlag,4.8,Mystery;Politik;Wissenschaft
+982,Südliche Legenden am Markt,Jonas Weber,2015-04-29,688,false,Horror,926-166670-541-3,54.83,Englisch,Nordlicht Verlag,1.7,Wissenschaft;Liebe;Technik
+983,Verlorene Blätter am Fluss,Clara Kral,2005-06-22,1019,false,Historisch,189-954344-449-2,46.82,Italienisch,AlpenBooks,2.3,Freundschaft;Politik;Zukunft
+984,Legenden im Winter,Lea Bauer,1971-06-28,93,false,Sachbuch,239-351236-476-9,59.3,Französisch,AlpenBooks,2.5,Liebe;Familie;Magie
+985,Leise Blätter in Graz,Emilia Kaiser,1964-02-15,1043,false,Thriller,408-914483-424-4,16.74,Deutsch,Salzburg Media,3.3,Familie;Reise
+986,Stille Sterne,Katrin Brandt,1951-08-16,110,false,Lyrik,848-227907-607-8,50.21,Englisch,AlpenBooks,4.7,Wissenschaft
+987,Leise Flammen im Tal,Clara Seidl,1999-12-21,367,true,Krimi,471-955266-773-4,45.65,Englisch,Tradition & Technik,4.6,Magie;Vergangenheit;Familie;Reise
+988,Stille Schatten,Felix Steiner,1964-09-04,970,false,Lyrik,125-825091-641-6,48.81,Englisch,Donau Press,4.6,Reise;Abenteuer;Freundschaft;Politik
+989,Kompass am Fluss #989,Elena Fuchs,1967-06-30,559,true,Sachbuch,163-777071-947-0,55.88,Französisch,AlpenBooks,4.3,Liebe
+990,Wälder im Morgengrauen,Katrin Schmidt,1953-04-06,105,false,Science Fiction,976-815567-282-2,8.61,Englisch,Zukunftsverlag,2.9,Krieg;Politik
+991,Hohe Uhren #991,Emilia Lechner,2012-02-10,890,true,Krimi,881-517329-641-1,32.19,Englisch,Buchhaus Wien,1.8,Politik;Freundschaft
+992,Lichter im Sturm #992,Sebastian Eder,1985-01-21,260,false,Fantasy,715-776200-290-9,44.94,Spanisch,Donau Press,2.4,Freundschaft;Wissenschaft;Familie
+993,Zerbrochene Sterne von Innsbruck,Leon Maier,1963-07-12,735,false,Science Fiction,332-833280-730-3,54.15,Italienisch,Villach Print,1.7,Wissenschaft;Reise;Mystery
+994,Schlüssel im Sturm,Emilia Koch,1988-04-17,169,false,Fantasy,580-516385-193-0,35.32,Spanisch,Buchhaus Wien,3.0,Freundschaft;Reise;Krieg;Technik
+995,Zerbrochene Nebel,Lukas Bauer,1951-04-09,583,true,Horror,202-471427-760-8,17.22,Italienisch,Steiermark Stories,3.5,Zukunft;Krieg
+996,Kompass bei Nacht,Clara Berger,2018-05-14,348,false,Sachbuch,898-522090-589-3,22.84,Französisch,AlpenBooks,1.6,Zukunft;Abenteuer
+997,Ferne Sterne,Matthias Pichler,1951-07-08,729,true,Drama,399-366082-257-5,35.81,Italienisch,AlpenBooks,3.9,Abenteuer;Zukunft
+998,Nebel am Bodensee,Jonas Maier,2023-08-30,989,false,Biografie,316-489641-771-0,54.51,Englisch,Salzburg Media,4.5,Krieg;Familie
+999,Leise Stimmen,Maximilian Weber,2011-05-03,892,false,Thriller,947-347793-106-7,41.8,Englisch,Steiermark Stories,4.8,Familie
+1000,Versteckte Träume über Wien,Markus Wolf,1956-06-08,305,false,Roman,510-793211-158-8,48.15,Spanisch,Donau Press,3.3,Familie;Wissenschaft;Politik;Krieg
