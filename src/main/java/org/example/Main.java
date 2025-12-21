@@ -2,6 +2,9 @@ package org.example;
 
 import java.util.Comparator;
 import java.util.List;
+import java.util.stream.Collectors;
+
+import static java.util.stream.Collectors.groupingBy;
 
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
@@ -53,6 +56,7 @@ public class Main {
         books.stream()
                 .filter(book -> book.getLanguage().equals("Deutsch"))
                 .sorted(Comparator.comparing(Books::getPrice))
+                .limit(5)
                 .forEach(book -> System.out.println("Language: " + book.getLanguage() + " " + "'" + book.getTitle() + "'" + " " + book.getPrice() + " €"));
 
         System.out.println("---------- returns the average price of all books ----------");
@@ -74,6 +78,40 @@ public class Main {
                 .filter(language -> language != null)
                 .distinct()
                 .sorted()
+                .forEach(System.out::println);
+
+        System.out.println("---------- most expensive book in each language ----------");
+
+        books.stream()
+                .filter(book -> book.getLanguage() != null)
+                .collect(groupingBy(
+                        Books::getLanguage,
+                        Collectors.maxBy(
+                                Comparator.comparing(Books::getPrice)
+                        )
+                ))
+                .forEach((language, bookOpt) ->
+                        bookOpt.ifPresent(book ->
+                                System.out.println(
+                                        language + " -> " +
+                                                book.getTitle() + " (" + book.getPrice() + ")"
+                                )
+                        )
+                );
+
+        System.out.println("---------- horror books sorted by price ----------");
+        books.stream()
+                .filter(book -> "Horror".equals(book.getGenre()))
+                .sorted(Comparator.comparing(Books::getPrice).reversed())
+                .forEach(book -> System.out.println(book.getTitle() + " " + book.getGenre() + " " + book.getPrice()));
+
+        System.out.println("---------- search for tags ----------");
+        books.stream()
+                .filter(book -> book.getTags() != null)
+                .filter(book -> book.getTags().contains("Technik"))
+                .filter(book -> book.getTags().contains("Abenteuer"))
+                .filter(book -> book.getTags().contains("Politik"))
+                .limit(5)
                 .forEach(System.out::println);
     }
 }
